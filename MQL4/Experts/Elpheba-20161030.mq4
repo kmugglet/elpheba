@@ -1,5 +1,5 @@
 //+------------------------------------------------------------------+
-//|                                             Elpheba-20161122.mq4 |
+//|                                   Elpheba-20131218-MultiPair.mq4 |
 //|                                        Copyright 2012, Codatrek. |
 //|                                           http://www.codatek.com |
 //+------------------------------------------------------------------+
@@ -16,13 +16,12 @@
 
 double    LotPrice=1; // baby steps
 //--- input parameters
-extern double    BuyPoint=15;
-extern double    SellPoint=85;
+extern double    BuyPoint=30;
+extern double    SellPoint=70;
 extern double    tp = 300;
 extern double    dp = 30;
 extern double    sl = 7500;
 extern int       max_trades=8; // max trades per symbol pair
-extern int       profit_increase=1; // close up target in percent
 
 int      tkt,tkt2,lowest_ticket,highest_ticket;
 
@@ -146,6 +145,7 @@ void CheckForOpen()
          take = bid_price - ((tp + (2*dp))* points);
          stop = ask_price + (sl * points);
          res=OrderSend(Check_Symbol,OP_SELL,Lot,bid_price,3,NULL,take,NULL,MAGICMA,0,Red);
+         if (res) FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),3)+" Symbol="+Check_Symbol+" Event=New_Trade TicketNumber="+DoubleToStr(res,0)+" OrderType="+DoubleToStr(OrderType(),0)+" OpenPrice="+DoubleToStr(OrderOpenPrice(),5)+" Lots="+DoubleToStr(OrderLots(),2)+" TP="+DoubleToStr(OrderTakeProfit(),5)+" SL="+DoubleToStr(OrderStopLoss(),5));
         }
       //---- buy conditions
       if(rsi_swap && stoch_buy)
@@ -153,6 +153,7 @@ void CheckForOpen()
          take = ask_price + ((tp + (2*dp))* points);
          stop = bid_price - (sl * points);
          res=OrderSend(Check_Symbol,OP_BUY,Lot,ask_price,3,NULL,take,NULL,MAGICMA,0,Green);
+         if (res) FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),3)+" Symbol="+Check_Symbol+" Event=New_Trade TicketNumber="+DoubleToStr(res,0)+" OrderType="+DoubleToStr(OrderType(),0)+" OpenPrice="+DoubleToStr(OrderOpenPrice(),5)+" Lots="+DoubleToStr(OrderLots(),2)+" TP="+DoubleToStr(OrderTakeProfit(),5)+" SL="+DoubleToStr(OrderStopLoss(),5));
         }
      }
   }
@@ -254,7 +255,7 @@ void ExportTrades()
       if(res)
         {
          order_points=(OrderProfit()/OrderLots());
-         FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),3)+" Symbol="+OrderSymbol()+" Event=Open_Trade TicketNumber="+DoubleToStr(OrderTicket(),0)+" OrderType="+DoubleToStr(OrderType(),0)+" OpenPrice="+DoubleToStr(OrderOpenPrice(),5)+" Lots="+DoubleToStr(OrderLots(),2)+" TP="+DoubleToStr(OrderTakeProfit(),5)+" SL="+DoubleToStr(OrderStopLoss(),5)+" Profit="+DoubleToStr(OrderProfit(),2)+" Points="+DoubleToStr(order_points,2));
+         FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),3)+" Symbol="+OrderSymbol()+" Event=Existing_Trade TicketNumber="+DoubleToStr(OrderTicket(),0)+" OrderType="+DoubleToStr(OrderType(),0)+" OpenPrice="+DoubleToStr(OrderOpenPrice(),5)+" Lots="+DoubleToStr(OrderLots(),2)+" TP="+DoubleToStr(OrderTakeProfit(),5)+" SL="+DoubleToStr(OrderStopLoss(),5)+" Profit="+DoubleToStr(OrderProfit(),2)+" Points="+DoubleToStr(order_points,2));
         }
      }
 
@@ -350,7 +351,7 @@ int reinit()
       f_profit[f] = 0.0;
      }
 // 2% increase 
-   CloseOutPrice=simBalance()*(1+(profit_increase/100));
+   CloseOutPrice=simBalance()*1.01;
    EquityCheck=simEquity()*0.85;
    LotPrice=(simEquity()/200);
 
@@ -419,7 +420,7 @@ void OnTick()
       close_up=true;
       SendNotification("Close up reached @ "+DoubleToStr(simEquity(),2));
       Print("***** Close out price reached, ",simEquity()," ********");
-      FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+AccountNumber()+"Event=Close_Triggered Equity="+simEquity());
+      FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+AccountNumber()+" Event=Close_Triggered Equity="+simEquity());
       if(!IsTesting()) FileFlush(handle);
      }
    if(close_up && OrdersTotal()==0)
@@ -427,7 +428,7 @@ void OnTick()
       Print("****** Close out completed, balance=",simBalance()," ***********");
       close_up=false;
       SendNotification("Close up completed @ "+DoubleToStr(simEquity(),2));
-      FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+AccountNumber()+"Event=Close_Complete Equity="+simEquity());
+      FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+AccountNumber()+" Event=Close_Complete Equity="+simEquity());
       if(!IsTesting()) FileFlush(handle);
       reinit();
      }
