@@ -1,0 +1,88 @@
+0	00:31:37.123	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 0.000 tp: 114.987 -> sl: 115.110 tp: 114.957
+0	00:31:37.470	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.110 tp: 114.957
+0	00:31:37.867	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.110 tp: 114.957 -> sl: 115.110 tp: 114.956
+0	00:31:38.672	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.110 tp: 114.956
+0	00:31:39.454	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 0.000 tp: 114.987 -> sl: 115.110 tp: 114.957' sent to 'D07ADD05'
+0	00:31:39.686	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.110 tp: 114.956 -> sl: 115.109 tp: 114.955
+0	00:31:40.720	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.109 tp: 114.955
+0	00:31:41.467	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.110 tp: 114.957 -> sl: 115.110 tp: 114.956' sent to 'D07ADD05'
+0	00:31:42.809	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.109 tp: 114.955 -> sl: 115.107 tp: 114.952
+0	00:31:43.175	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.107 tp: 114.952
+0	00:31:43.210	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.107 tp: 114.952 -> sl: 115.106 tp: 114.952
+0	00:31:43.571	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.110 tp: 114.956 -> sl: 115.109 tp: 114.955' sent to 'D07ADD05'
+0	00:31:43.616	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.106 tp: 114.952
+0	00:31:43.617	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.106 tp: 114.952 -> sl: 115.104 tp: 114.949
+0	00:31:43.982	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.104 tp: 114.949
+0	00:31:45.734	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.109 tp: 114.955 -> sl: 115.107 tp: 114.952' sent to 'D07ADD05'
+0	00:31:47.719	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.107 tp: 114.952 -> sl: 115.106 tp: 114.952' sent to 'D07ADD05'
+0	00:31:49.575	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.104 tp: 114.949 -> sl: 115.100 tp: 114.947
+0	00:31:49.672	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.106 tp: 114.952 -> sl: 115.104 tp: 114.949' sent to 'D07ADD05'
+0	00:31:49.912	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.100 tp: 114.947
+0	00:31:52.779	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.104 tp: 114.949 -> sl: 115.100 tp: 114.947' sent to 'D07ADD05'
+0	00:31:52.953	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.100 tp: 114.947 -> sl: 115.097 tp: 114.945
+0	00:31:53.425	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.097 tp: 114.945
+0	00:31:55.220	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.097 tp: 114.945 -> sl: 115.095 tp: 114.943
+0	00:31:55.432	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.100 tp: 114.947 -> sl: 115.097 tp: 114.945' sent to 'D07ADD05'
+0	00:31:55.615	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.095 tp: 114.943
+0	00:31:55.615	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.095 tp: 114.943 -> sl: 115.086 tp: 114.932
+0	00:31:55.990	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.086 tp: 114.932
+0	00:31:56.029	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.086 tp: 114.932 -> sl: 115.085 tp: 114.930
+0	00:31:56.473	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.085 tp: 114.930
+0	00:31:56.473	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.085 tp: 114.930 -> sl: 115.074 tp: 114.920
+0	00:31:56.799	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.074 tp: 114.920
+0	00:31:56.800	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.074 tp: 114.920 -> sl: 115.073 tp: 114.920
+0	00:31:57.190	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.073 tp: 114.920
+0	00:31:57.190	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.073 tp: 114.920 -> sl: 115.072 tp: 114.919
+0	00:31:57.446	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.097 tp: 114.945 -> sl: 115.095 tp: 114.943' sent to 'D07ADD05'
+0	00:31:57.548	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.072 tp: 114.919
+0	00:31:59.289	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.095 tp: 114.943 -> sl: 115.086 tp: 114.932' sent to 'D07ADD05'
+0	00:31:59.337	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.072 tp: 114.919 -> sl: 115.068 tp: 114.913
+0	00:31:59.681	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.068 tp: 114.913
+0	00:31:59.868	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.068 tp: 114.913 -> sl: 115.065 tp: 114.913
+0	00:32:00.395	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.065 tp: 114.913
+0	00:32:01.333	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.086 tp: 114.932 -> sl: 115.085 tp: 114.930' sent to 'D07ADD05'
+0	00:32:03.334	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.085 tp: 114.930 -> sl: 115.074 tp: 114.920' sent to 'D07ADD05'
+0	00:32:05.326	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.074 tp: 114.920 -> sl: 115.073 tp: 114.920' sent to 'D07ADD05'
+0	00:32:07.178	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.073 tp: 114.920 -> sl: 115.072 tp: 114.919' sent to 'D07ADD05'
+0	00:32:09.168	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.072 tp: 114.919 -> sl: 115.068 tp: 114.913' sent to 'D07ADD05'
+0	00:32:11.200	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.068 tp: 114.913 -> sl: 115.065 tp: 114.913' sent to 'D07ADD05'
+0	00:32:34.734	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.065 tp: 114.913 -> sl: 115.061 tp: 114.907
+0	00:32:35.068	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.061 tp: 114.907
+0	00:32:36.935	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.061 tp: 114.907 -> sl: 115.051 tp: 114.898
+0	00:32:37.046	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.065 tp: 114.913 -> sl: 115.061 tp: 114.907' sent to 'D07ADD05'
+0	00:32:37.306	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.051 tp: 114.898
+0	00:32:37.306	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.051 tp: 114.898 -> sl: 115.048 tp: 114.897
+0	00:32:37.651	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.048 tp: 114.897
+0	00:32:37.779	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.048 tp: 114.897 -> sl: 115.046 tp: 114.894
+0	00:32:38.131	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.046 tp: 114.894
+0	00:32:38.908	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.046 tp: 114.894 -> sl: 115.045 tp: 114.892
+0	00:32:39.148	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.061 tp: 114.907 -> sl: 115.051 tp: 114.898' sent to 'D07ADD05'
+0	00:32:39.258	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.045 tp: 114.892
+0	00:32:39.833	'10019548': modify order #157840473 sell 0.10 USDJPY at 115.287 sl: 115.045 tp: 114.892 -> sl: 115.042 tp: 114.888
+0	00:32:40.224	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 was modified -> sl: 115.042 tp: 114.888
+0	00:32:41.178	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.051 tp: 114.898 -> sl: 115.048 tp: 114.897' sent to 'D07ADD05'
+0	00:32:43.206	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.048 tp: 114.897 -> sl: 115.046 tp: 114.894' sent to 'D07ADD05'
+0	00:32:45.148	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.046 tp: 114.894 -> sl: 115.045 tp: 114.892' sent to 'D07ADD05'
+0	00:32:48.094	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 modified: sl: 115.045 tp: 114.892 -> sl: 115.042 tp: 114.888' sent to 'D07ADD05'
+0	00:33:15.546	'10019548': order #157840473 sell 0.10 USDJPY at 115.287 closed due stop-loss at price 115.042
+0	00:33:17.537	Notifications: 'order #157840473 sell 0.10 USDJPY at 115.287 closed due stop-loss at price 115.042, profit: 28.37 AUD' sent to 'D07ADD05'
+0	02:00:30.129	'10019548': modify order #157841826 sell 0.10 XAUUSD at 1159.12 sl: 0.00 tp: 1156.12 -> sl: 1157.07 tp: 1155.51
+0	02:00:30.491	'10019548': order #157841826 sell 0.10 XAUUSD at 1159.12 was modified -> sl: 1157.07 tp: 1155.51
+0	02:00:32.606	Notifications: 'order #157841826 sell 0.10 XAUUSD at 1159.12 modified: sl: 0.00 tp: 1156.12 -> sl: 1157.07 tp: 1155.51' sent to 'D07ADD05'
+0	02:00:38.039	'10019548': order #157841826 sell 0.10 XAUUSD at 1159.12 closed due stop-loss at price 1157.07
+0	02:00:40.002	Notifications: 'order #157841826 sell 0.10 XAUUSD at 1159.12 closed due stop-loss at price 1157.07, profit: 27.29 AUD' sent to 'D07ADD05'
+0	02:15:00.915	'10019548': order buy market 0.10 GBPUSD sl: 0.00000 tp: 1.27529
+0	02:15:01.342	'10019548': order was opened : #157875990 buy 0.10 GBPUSD at 1.27233 sl: 0.00000 tp: 1.27529
+0	02:15:01.347	'10019548': order buy market 0.10 GBPCAD sl: 0.00000 tp: 1.67163
+0	02:15:01.792	'10019548': order was opened : #157876004 buy 0.10 GBPCAD at 1.66863 sl: 0.00000 tp: 1.67163
+0	02:15:03.369	Notifications: 'order opened #157875990 buy 0.10 GBPUSD at 1.27233 tp: 1.27529' sent to 'D07ADD05'
+0	02:15:05.188	Notifications: 'order opened #157876004 buy 0.10 GBPCAD at 1.66863 tp: 1.67163' sent to 'D07ADD05'
+0	15:07:22.126	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 228.23 ms)
+0	15:07:38.520	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 228.23 ms)
+0	15:07:44.626	'10019548': previous successful authorization performed from 27.33.198.124
+0	15:08:11.168	'10019548': ping to current access point Demo DC #3 is 229.26 ms
+1	22:45:47.477	'10019548': ping failed
+0	22:45:48.297	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 229.26 ms)
+0	22:45:51.286	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 229.26 ms)
+0	22:45:51.897	'10019548': previous successful authorization performed from 27.33.198.124
+0	22:46:24.260	'10019548': ping to current access point Demo DC #3 is 255.57 ms

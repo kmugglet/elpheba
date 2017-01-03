@@ -1,0 +1,8 @@
+1	11:12:14.433	'10010844': connect failed [No connection]
+0	11:19:12.442	'10010844': login on ICMarkets-Demo01 through Demo DC #2 (ping: n/a)
+0	11:19:26.895	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: n/a)
+0	11:19:27.268	'10010844': previous successful authorization performed from 120.17.238.103
+0	11:19:39.678	'10010844': auto connecting to a better access point Demo DC #3 (ping is 77.99 ms)
+0	11:19:40.102	'10010844': login on ICMarkets-Demo01 through Demo DC #3 (ping: 77.99 ms)
+0	11:20:06.013	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 77.99 ms)
+0	11:20:07.300	'10010844': previous successful authorization performed from 120.17.238.103

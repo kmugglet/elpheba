@@ -1,0 +1,684 @@
+0	00:00:00.805	'10019548': order buy market 0.12 USDJPY sl: 0.000 tp: 117.688
+1	00:00:16.749	Notifications: not enough space for notification 'order opened #158744795 buy 0.12 USDJPY at 117.381 tp: 117.688'
+0	00:00:16.811	'10019548': order was opened : #158744795 buy 0.12 USDJPY at 117.381 sl: 0.000 tp: 117.688
+0	00:15:01.942	'10019548': order buy market 0.12 EURGBP sl: 0.00000 tp: 0.85581
+1	00:15:02.407	Notifications: not enough space for notification 'order opened #158745906 buy 0.12 EURGBP at 0.85280 tp: 0.85581'
+0	00:15:02.469	'10019548': order was opened : #158745906 buy 0.12 EURGBP at 0.85280 sl: 0.00000 tp: 0.85581
+0	00:35:00.258	'10019548': order buy market 0.12 USDJPY sl: 0.000 tp: 117.629
+1	00:35:04.442	Notifications: not enough space for notification 'order opened #158748124 buy 0.12 USDJPY at 117.324 tp: 117.629'
+0	00:35:04.442	'10019548': order was opened : #158748124 buy 0.12 USDJPY at 117.324 sl: 0.000 tp: 117.629
+0	00:35:04.443	'10019548': order buy market 0.12 GBPCAD sl: 0.00000 tp: 1.66152
+1	00:35:04.883	Notifications: not enough space for notification 'order opened #158748131 buy 0.12 GBPCAD at 1.65852 tp: 1.66152'
+0	00:35:04.941	'10019548': order was opened : #158748131 buy 0.12 GBPCAD at 1.65852 sl: 0.00000 tp: 1.66152
+0	02:20:55.948	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 0.00000 tp: 1.66152 -> sl: 1.66052 tp: 1.66223
+1	02:20:56.289	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 0.00000 tp: 1.66152 -> sl: 1.66052 tp: 1.66223'
+0	02:20:56.304	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66052 tp: 1.66223
+0	02:20:56.305	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66052 tp: 1.66223 -> sl: 1.66058 tp: 1.66228
+1	02:20:56.648	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66052 tp: 1.66223 -> sl: 1.66058 tp: 1.66228'
+0	02:20:56.649	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66058 tp: 1.66228
+0	02:21:34.180	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66058 tp: 1.66228 -> sl: 1.66063 tp: 1.66234
+1	02:21:34.511	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66058 tp: 1.66228 -> sl: 1.66063 tp: 1.66234'
+0	02:21:34.511	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66063 tp: 1.66234
+0	02:21:34.512	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66063 tp: 1.66234 -> sl: 1.66068 tp: 1.66238
+1	02:21:35.074	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66063 tp: 1.66234 -> sl: 1.66068 tp: 1.66238'
+0	02:21:35.091	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66068 tp: 1.66238
+0	02:21:46.651	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66068 tp: 1.66238 -> sl: 1.66079 tp: 1.66260
+1	02:21:47.013	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66068 tp: 1.66238 -> sl: 1.66079 tp: 1.66260'
+0	02:21:47.014	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66079 tp: 1.66260
+0	02:21:48.991	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66079 tp: 1.66260 -> sl: 1.66083 tp: 1.66257
+1	02:21:49.340	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66079 tp: 1.66260 -> sl: 1.66083 tp: 1.66257'
+0	02:21:49.404	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66083 tp: 1.66257
+0	02:24:05.196	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66083 tp: 1.66257 -> sl: 1.66087 tp: 1.66261
+1	02:24:05.539	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66083 tp: 1.66257 -> sl: 1.66087 tp: 1.66261'
+0	02:24:05.650	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66087 tp: 1.66261
+0	02:24:10.682	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66087 tp: 1.66261 -> sl: 1.66093 tp: 1.66270
+1	02:24:11.087	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66087 tp: 1.66261 -> sl: 1.66093 tp: 1.66270'
+0	02:24:11.108	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66093 tp: 1.66270
+0	02:24:40.975	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66093 tp: 1.66270 -> sl: 1.66094 tp: 1.66271
+1	02:24:42.059	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66093 tp: 1.66270 -> sl: 1.66094 tp: 1.66271'
+0	02:24:42.059	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66094 tp: 1.66271
+0	02:24:49.539	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66094 tp: 1.66271 -> sl: 1.66104 tp: 1.66280
+1	02:24:50.952	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66094 tp: 1.66271 -> sl: 1.66104 tp: 1.66280'
+0	02:24:50.953	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66104 tp: 1.66280
+0	02:24:57.865	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66104 tp: 1.66280 -> sl: 1.66115 tp: 1.66294
+1	02:24:58.419	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66104 tp: 1.66280 -> sl: 1.66115 tp: 1.66294'
+0	02:24:58.419	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66115 tp: 1.66294
+0	02:24:59.636	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66115 tp: 1.66294 -> sl: 1.66116 tp: 1.66296
+1	02:24:59.937	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66115 tp: 1.66294 -> sl: 1.66116 tp: 1.66296'
+0	02:24:59.952	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66116 tp: 1.66296
+0	02:25:01.277	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66116 tp: 1.66296 -> sl: 1.66116 tp: 1.66295
+1	02:25:02.435	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66116 tp: 1.66296 -> sl: 1.66116 tp: 1.66295'
+0	02:25:02.435	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66116 tp: 1.66295
+0	02:25:02.498	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66116 tp: 1.66295 -> sl: 1.66132 tp: 1.66308
+1	02:25:03.156	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66116 tp: 1.66295 -> sl: 1.66132 tp: 1.66308'
+0	02:25:03.225	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66132 tp: 1.66308
+0	02:26:36.632	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66132 tp: 1.66308 -> sl: 1.66132 tp: 1.66313
+1	02:26:37.672	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66132 tp: 1.66308 -> sl: 1.66132 tp: 1.66313'
+0	02:26:37.726	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66132 tp: 1.66313
+0	02:26:40.891	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66132 tp: 1.66313 -> sl: 1.66134 tp: 1.66315
+1	02:26:41.288	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66132 tp: 1.66313 -> sl: 1.66134 tp: 1.66315'
+0	02:26:41.289	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66134 tp: 1.66315
+0	02:26:41.298	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66134 tp: 1.66315 -> sl: 1.66135 tp: 1.66315
+1	02:26:41.679	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66134 tp: 1.66315 -> sl: 1.66135 tp: 1.66315'
+0	02:26:41.680	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66135 tp: 1.66315
+0	02:26:44.240	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66135 tp: 1.66315 -> sl: 1.66138 tp: 1.66319
+1	02:26:44.554	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66135 tp: 1.66315 -> sl: 1.66138 tp: 1.66319'
+0	02:26:44.554	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66138 tp: 1.66319
+0	02:26:50.246	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66138 tp: 1.66319 -> sl: 1.66142 tp: 1.66320
+1	02:26:50.590	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66138 tp: 1.66319 -> sl: 1.66142 tp: 1.66320'
+0	02:26:50.651	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66142 tp: 1.66320
+0	02:26:50.652	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66142 tp: 1.66320 -> sl: 1.66144 tp: 1.66323
+1	02:26:50.977	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66142 tp: 1.66320 -> sl: 1.66144 tp: 1.66323'
+0	02:26:50.977	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66144 tp: 1.66323
+0	02:28:33.095	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66144 tp: 1.66323 -> sl: 1.66152 tp: 1.66327
+1	02:28:33.518	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66144 tp: 1.66323 -> sl: 1.66152 tp: 1.66327'
+0	02:28:33.518	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66152 tp: 1.66327
+0	02:28:33.519	'10019548': modify order #158748131 buy 0.12 GBPCAD at 1.65852 sl: 1.66152 tp: 1.66327 -> sl: 1.66155 tp: 1.66331
+1	02:28:33.862	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 modified: sl: 1.66152 tp: 1.66327 -> sl: 1.66155 tp: 1.66331'
+0	02:28:33.895	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 was modified -> sl: 1.66155 tp: 1.66331
+0	02:29:16.086	'10019548': order #158748131 buy 0.12 GBPCAD at 1.65852 closed due stop-loss at price 1.66155
+1	02:29:16.086	Notifications: not enough space for notification 'order #158748131 buy 0.12 GBPCAD at 1.65852 closed due stop-loss at price 1.66155, profit: 37.44 AUD'
+0	02:30:02.579	'10019548': order sell market 0.12 XAUUSD sl: 0.00 tp: 1129.58
+1	02:30:04.387	Notifications: not enough space for notification 'order opened #158755665 sell 0.12 XAUUSD at 1132.49 tp: 1129.58'
+0	02:30:04.449	'10019548': order was opened : #158755665 sell 0.12 XAUUSD at 1132.49 sl: 0.00 tp: 1129.58
+0	02:45:00.572	'10019548': order sell market 0.12 EURJPY sl: 0.000 tp: 122.223
+1	02:45:10.485	Notifications: not enough space for notification 'order opened #158756513 sell 0.12 EURJPY at 122.524 tp: 122.223'
+0	02:45:10.502	'10019548': order was opened : #158756513 sell 0.12 EURJPY at 122.524 sl: 0.000 tp: 122.223
+1	04:58:52.625	Notifications: not enough space for notification 'Close up reached @ 2540.34'
+0	04:58:52.626	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.00000 tp: 0.84733 -> sl: 0.85203 tp: 0.85046
+1	04:58:53.004	Notifications: not enough space for notification 'order #158721379 sell 0.12 EURGBP at 0.85031 modified: sl: 0.00000 tp: 0.84733 -> sl: 0.85203 tp: 0.85046'
+0	04:58:53.015	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85203 tp: 0.85046
+0	04:58:53.015	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.00000 tp: 0.84720 -> sl: 0.85202 tp: 0.85046
+1	04:58:53.952	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.00000 tp: 0.84720 -> sl: 0.85202 tp: 0.85046'
+0	04:58:53.952	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85202 tp: 0.85046
+0	04:58:53.953	'10019548': modify order #158723811 sell 0.12 XAUUSD at 1131.69 sl: 0.00 tp: 1128.69 -> sl: 1133.17 tp: 1131.47
+1	04:58:54.436	Notifications: not enough space for notification 'order #158723811 sell 0.12 XAUUSD at 1131.69 modified: sl: 0.00 tp: 1128.69 -> sl: 1133.17 tp: 1131.47'
+0	04:58:54.499	'10019548': order #158723811 sell 0.12 XAUUSD at 1131.69 was modified -> sl: 1133.17 tp: 1131.47
+0	04:58:54.499	'10019548': modify order #158724711 buy 0.12 GBPUSD at 1.22900 sl: 0.00000 tp: 1.23200 -> sl: 1.22663 tp: 1.22819
+1	04:58:54.856	Notifications: not enough space for notification 'order #158724711 buy 0.12 GBPUSD at 1.22900 modified: sl: 0.00000 tp: 1.23200 -> sl: 1.22663 tp: 1.22819'
+0	04:58:54.905	'10019548': order #158724711 buy 0.12 GBPUSD at 1.22900 was modified -> sl: 1.22663 tp: 1.22819
+0	04:58:54.905	'10019548': modify order #158743551 buy 0.12 GBPUSD at 1.22579 sl: 0.00000 tp: 1.22879 -> sl: 1.22663 tp: 1.22819
+1	04:58:55.249	Notifications: not enough space for notification 'order #158743551 buy 0.12 GBPUSD at 1.22579 modified: sl: 0.00000 tp: 1.22879 -> sl: 1.22663 tp: 1.22819'
+0	04:58:55.264	'10019548': order #158743551 buy 0.12 GBPUSD at 1.22579 was modified -> sl: 1.22663 tp: 1.22819
+0	04:58:55.264	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 0.000 tp: 117.688 -> sl: 117.139 tp: 117.290
+1	04:58:55.608	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 0.000 tp: 117.688 -> sl: 117.139 tp: 117.290'
+0	04:58:55.608	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.139 tp: 117.290
+0	04:58:55.609	'10019548': modify order #158745906 buy 0.12 EURGBP at 0.85280 sl: 0.00000 tp: 0.85581 -> sl: 0.85095 tp: 0.85251
+1	04:58:55.952	Notifications: not enough space for notification 'order #158745906 buy 0.12 EURGBP at 0.85280 modified: sl: 0.00000 tp: 0.85581 -> sl: 0.85095 tp: 0.85251'
+0	04:58:55.967	'10019548': order #158745906 buy 0.12 EURGBP at 0.85280 was modified -> sl: 0.85095 tp: 0.85251
+0	04:58:55.968	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 0.000 tp: 117.629 -> sl: 117.139 tp: 117.290
+1	04:58:56.313	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 0.000 tp: 117.629 -> sl: 117.139 tp: 117.290'
+0	04:58:56.327	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.139 tp: 117.290
+0	04:58:56.327	'10019548': modify order #158755665 sell 0.12 XAUUSD at 1132.49 sl: 0.00 tp: 1129.58 -> sl: 1133.17 tp: 1131.47
+1	04:58:56.673	Notifications: not enough space for notification 'order #158755665 sell 0.12 XAUUSD at 1132.49 modified: sl: 0.00 tp: 1129.58 -> sl: 1133.17 tp: 1131.47'
+0	04:58:56.692	'10019548': order #158755665 sell 0.12 XAUUSD at 1132.49 was modified -> sl: 1133.17 tp: 1131.47
+0	04:58:56.692	'10019548': modify order #158756513 sell 0.12 EURJPY at 122.524 sl: 0.000 tp: 122.223 -> sl: 122.477 tp: 122.318
+1	04:58:57.032	Notifications: not enough space for notification 'order #158756513 sell 0.12 EURJPY at 122.524 modified: sl: 0.000 tp: 122.223 -> sl: 122.477 tp: 122.318'
+0	04:58:57.033	'10019548': order #158756513 sell 0.12 EURJPY at 122.524 was modified -> sl: 122.477 tp: 122.318
+0	04:58:57.033	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85203 tp: 0.85046 -> sl: 0.85201 tp: 0.85045
+1	04:58:57.377	Notifications: not enough space for notification 'order #158721379 sell 0.12 EURGBP at 0.85031 modified: sl: 0.85203 tp: 0.85046 -> sl: 0.85201 tp: 0.85045'
+0	04:58:57.377	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85201 tp: 0.85045
+0	04:58:57.377	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85202 tp: 0.85046 -> sl: 0.85201 tp: 0.85045
+1	04:58:57.765	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.85202 tp: 0.85046 -> sl: 0.85201 tp: 0.85045'
+0	04:58:57.765	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85201 tp: 0.85045
+0	04:58:57.766	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85201 tp: 0.85045 -> sl: 0.85200 tp: 0.85045
+1	04:58:58.124	Notifications: not enough space for notification 'order #158721379 sell 0.12 EURGBP at 0.85031 modified: sl: 0.85201 tp: 0.85045 -> sl: 0.85200 tp: 0.85045'
+0	04:58:58.187	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85200 tp: 0.85045
+0	04:58:58.187	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85201 tp: 0.85045 -> sl: 0.85200 tp: 0.85045
+1	04:58:58.531	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.85201 tp: 0.85045 -> sl: 0.85200 tp: 0.85045'
+0	04:58:58.546	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85200 tp: 0.85045
+0	04:58:58.546	'10019548': modify order #158756513 sell 0.12 EURJPY at 122.524 sl: 122.477 tp: 122.318 -> sl: 122.476 tp: 122.317
+1	04:58:59.061	Notifications: not enough space for notification 'order #158756513 sell 0.12 EURJPY at 122.524 modified: sl: 122.477 tp: 122.318 -> sl: 122.476 tp: 122.317'
+0	04:58:59.078	'10019548': order #158756513 sell 0.12 EURJPY at 122.524 was modified -> sl: 122.476 tp: 122.317
+0	04:59:01.555	'10019548': modify order #158723811 sell 0.12 XAUUSD at 1131.69 sl: 1133.17 tp: 1131.47 -> sl: 1133.16 tp: 1131.47
+1	04:59:01.874	Notifications: not enough space for notification 'order #158723811 sell 0.12 XAUUSD at 1131.69 modified: sl: 1133.17 tp: 1131.47 -> sl: 1133.16 tp: 1131.47'
+0	04:59:01.875	'10019548': order #158723811 sell 0.12 XAUUSD at 1131.69 was modified -> sl: 1133.16 tp: 1131.47
+0	04:59:01.875	'10019548': modify order #158745906 buy 0.12 EURGBP at 0.85280 sl: 0.85095 tp: 0.85251 -> sl: 0.85096 tp: 0.85251
+1	04:59:02.218	Notifications: not enough space for notification 'order #158745906 buy 0.12 EURGBP at 0.85280 modified: sl: 0.85095 tp: 0.85251 -> sl: 0.85096 tp: 0.85251'
+0	04:59:02.218	'10019548': order #158745906 buy 0.12 EURGBP at 0.85280 was modified -> sl: 0.85096 tp: 0.85251
+0	04:59:03.404	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85200 tp: 0.85045 -> sl: 0.85199 tp: 0.85046
+1	04:59:03.847	Notifications: not enough space for notification 'order #158721379 sell 0.12 EURGBP at 0.85031 modified: sl: 0.85200 tp: 0.85045 -> sl: 0.85199 tp: 0.85046'
+0	04:59:03.906	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85199 tp: 0.85046
+0	04:59:03.906	'10019548': modify order #158723811 sell 0.12 XAUUSD at 1131.69 sl: 1133.16 tp: 1131.47 -> sl: 1133.07 tp: 1131.38
+1	04:59:04.256	Notifications: not enough space for notification 'order #158723811 sell 0.12 XAUUSD at 1131.69 modified: sl: 1133.16 tp: 1131.47 -> sl: 1133.07 tp: 1131.38'
+0	04:59:04.408	'10019548': order #158723811 sell 0.12 XAUUSD at 1131.69 was modified -> sl: 1133.07 tp: 1131.38
+0	04:59:04.409	'10019548': modify order #158724711 buy 0.12 GBPUSD at 1.22900 sl: 1.22663 tp: 1.22819 -> sl: 1.22664 tp: 1.22820
+1	04:59:04.939	Notifications: not enough space for notification 'order #158724711 buy 0.12 GBPUSD at 1.22900 modified: sl: 1.22663 tp: 1.22819 -> sl: 1.22664 tp: 1.22820'
+0	04:59:05.049	'10019548': order #158724711 buy 0.12 GBPUSD at 1.22900 was modified -> sl: 1.22664 tp: 1.22820
+0	04:59:05.049	'10019548': modify order #158743551 buy 0.12 GBPUSD at 1.22579 sl: 1.22663 tp: 1.22819 -> sl: 1.22664 tp: 1.22817
+1	04:59:05.438	Notifications: not enough space for notification 'order #158743551 buy 0.12 GBPUSD at 1.22579 modified: sl: 1.22663 tp: 1.22819 -> sl: 1.22664 tp: 1.22817'
+0	04:59:05.438	'10019548': order #158743551 buy 0.12 GBPUSD at 1.22579 was modified -> sl: 1.22664 tp: 1.22817
+0	04:59:05.438	'10019548': modify order #158755665 sell 0.12 XAUUSD at 1132.49 sl: 1133.17 tp: 1131.47 -> sl: 1133.15 tp: 1131.46
+1	04:59:05.782	Notifications: not enough space for notification 'order #158755665 sell 0.12 XAUUSD at 1132.49 modified: sl: 1133.17 tp: 1131.47 -> sl: 1133.15 tp: 1131.46'
+0	04:59:05.783	'10019548': order #158755665 sell 0.12 XAUUSD at 1132.49 was modified -> sl: 1133.15 tp: 1131.46
+0	04:59:09.857	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.139 tp: 117.290 -> sl: 117.142 tp: 117.293
+1	04:59:10.172	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.139 tp: 117.290 -> sl: 117.142 tp: 117.293'
+0	04:59:10.281	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.142 tp: 117.293
+0	04:59:10.281	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.139 tp: 117.290 -> sl: 117.142 tp: 117.293
+1	04:59:10.625	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.139 tp: 117.290 -> sl: 117.142 tp: 117.293'
+0	04:59:10.645	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.142 tp: 117.293
+0	04:59:10.646	'10019548': modify order #158743551 buy 0.12 GBPUSD at 1.22579 sl: 1.22664 tp: 1.22817 -> sl: 1.22664 tp: 1.22820
+1	04:59:11.032	Notifications: not enough space for notification 'order #158743551 buy 0.12 GBPUSD at 1.22579 modified: sl: 1.22664 tp: 1.22817 -> sl: 1.22664 tp: 1.22820'
+0	04:59:11.032	'10019548': order #158743551 buy 0.12 GBPUSD at 1.22579 was modified -> sl: 1.22664 tp: 1.22820
+0	04:59:12.103	'10019548': modify order #158745906 buy 0.12 EURGBP at 0.85280 sl: 0.85096 tp: 0.85251 -> sl: 0.85097 tp: 0.85254
+1	04:59:12.454	Notifications: not enough space for notification 'order #158745906 buy 0.12 EURGBP at 0.85280 modified: sl: 0.85096 tp: 0.85251 -> sl: 0.85097 tp: 0.85254'
+0	04:59:12.454	'10019548': order #158745906 buy 0.12 EURGBP at 0.85280 was modified -> sl: 0.85097 tp: 0.85254
+0	04:59:13.431	'10019548': modify order #158745906 buy 0.12 EURGBP at 0.85280 sl: 0.85097 tp: 0.85254 -> sl: 0.85098 tp: 0.85255
+1	04:59:13.750	Notifications: not enough space for notification 'order #158745906 buy 0.12 EURGBP at 0.85280 modified: sl: 0.85097 tp: 0.85254 -> sl: 0.85098 tp: 0.85255'
+0	04:59:13.813	'10019548': order #158745906 buy 0.12 EURGBP at 0.85280 was modified -> sl: 0.85098 tp: 0.85255
+0	04:59:19.747	'10019548': modify order #158756513 sell 0.12 EURJPY at 122.524 sl: 122.476 tp: 122.317 -> sl: 122.475 tp: 122.317
+1	04:59:20.251	Notifications: not enough space for notification 'order #158756513 sell 0.12 EURJPY at 122.524 modified: sl: 122.476 tp: 122.317 -> sl: 122.475 tp: 122.317'
+0	04:59:20.251	'10019548': order #158756513 sell 0.12 EURJPY at 122.524 was modified -> sl: 122.475 tp: 122.317
+0	04:59:20.252	'10019548': modify order #158745906 buy 0.12 EURGBP at 0.85280 sl: 0.85098 tp: 0.85255 -> sl: 0.85100 tp: 0.85255
+1	04:59:20.581	Notifications: not enough space for notification 'order #158745906 buy 0.12 EURGBP at 0.85280 modified: sl: 0.85098 tp: 0.85255 -> sl: 0.85100 tp: 0.85255'
+0	04:59:20.643	'10019548': order #158745906 buy 0.12 EURGBP at 0.85280 was modified -> sl: 0.85100 tp: 0.85255
+0	04:59:24.608	'10019548': modify order #158755665 sell 0.12 XAUUSD at 1132.49 sl: 1133.15 tp: 1131.46 -> sl: 1133.07 tp: 1131.38
+1	04:59:24.924	Notifications: allowed 30 messages per minute
+0	04:59:24.986	'10019548': order #158755665 sell 0.12 XAUUSD at 1132.49 was modified -> sl: 1133.07 tp: 1131.38
+0	04:59:24.987	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.142 tp: 117.293 -> sl: 117.143 tp: 117.296
+1	04:59:25.362	Notifications: allowed 30 messages per minute
+0	04:59:25.377	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.143 tp: 117.296
+0	04:59:25.689	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.142 tp: 117.293 -> sl: 117.142 tp: 117.296
+1	04:59:26.049	Notifications: allowed 30 messages per minute
+0	04:59:26.064	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.142 tp: 117.296
+0	04:59:29.711	'10019548': modify order #158756513 sell 0.12 EURJPY at 122.524 sl: 122.475 tp: 122.317 -> sl: 122.473 tp: 122.319
+1	04:59:30.127	Notifications: allowed 30 messages per minute
+0	04:59:30.191	'10019548': order #158756513 sell 0.12 EURJPY at 122.524 was modified -> sl: 122.473 tp: 122.319
+0	04:59:30.191	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85199 tp: 0.85046 -> sl: 0.85198 tp: 0.85040
+1	04:59:30.550	Notifications: allowed 30 messages per minute
+0	04:59:30.612	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85198 tp: 0.85040
+0	04:59:30.612	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85200 tp: 0.85045 -> sl: 0.85198 tp: 0.85040
+1	04:59:30.988	Notifications: allowed 30 messages per minute
+0	04:59:31.143	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85198 tp: 0.85040
+0	04:59:31.143	'10019548': modify order #158756513 sell 0.12 EURJPY at 122.524 sl: 122.473 tp: 122.319 -> sl: 122.469 tp: 122.313
+1	04:59:31.487	Notifications: allowed 30 messages per minute
+0	04:59:31.512	'10019548': order #158756513 sell 0.12 EURJPY at 122.524 was modified -> sl: 122.469 tp: 122.313
+0	04:59:31.513	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85198 tp: 0.85040 -> sl: 0.85192 tp: 0.85035
+1	04:59:31.925	Notifications: allowed 30 messages per minute
+0	04:59:31.986	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85192 tp: 0.85035
+0	04:59:31.987	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85198 tp: 0.85040 -> sl: 0.85192 tp: 0.85034
+1	04:59:32.362	Notifications: allowed 30 messages per minute
+0	04:59:32.362	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85192 tp: 0.85034
+0	04:59:32.362	'10019548': modify order #158756513 sell 0.12 EURJPY at 122.524 sl: 122.469 tp: 122.313 -> sl: 122.466 tp: 122.311
+1	04:59:32.692	Notifications: allowed 30 messages per minute
+0	04:59:32.706	'10019548': order #158756513 sell 0.12 EURJPY at 122.524 was modified -> sl: 122.466 tp: 122.311
+0	04:59:33.680	'10019548': modify order #158724711 buy 0.12 GBPUSD at 1.22900 sl: 1.22664 tp: 1.22820 -> sl: 1.22666 tp: 1.22821
+1	04:59:34.239	Notifications: allowed 30 messages per minute
+0	04:59:34.254	'10019548': order #158724711 buy 0.12 GBPUSD at 1.22900 was modified -> sl: 1.22666 tp: 1.22821
+0	04:59:34.514	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85192 tp: 0.85035 -> sl: 0.85190 tp: 0.85030
+1	04:59:34.930	Notifications: allowed 30 messages per minute
+0	04:59:34.930	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85190 tp: 0.85030
+0	04:59:34.930	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85192 tp: 0.85034 -> sl: 0.85190 tp: 0.85033
+1	04:59:35.269	Notifications: allowed 30 messages per minute
+0	04:59:35.331	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85190 tp: 0.85033
+0	04:59:35.331	'10019548': modify order #158724711 buy 0.12 GBPUSD at 1.22900 sl: 1.22666 tp: 1.22821 -> sl: 1.22671 tp: 1.22827
+1	04:59:35.648	Notifications: allowed 30 messages per minute
+0	04:59:35.706	'10019548': order #158724711 buy 0.12 GBPUSD at 1.22900 was modified -> sl: 1.22671 tp: 1.22827
+0	04:59:35.706	'10019548': modify order #158743551 buy 0.12 GBPUSD at 1.22579 sl: 1.22664 tp: 1.22820 -> sl: 1.22671 tp: 1.22827
+1	04:59:36.098	Notifications: allowed 30 messages per minute
+0	04:59:36.099	'10019548': order #158743551 buy 0.12 GBPUSD at 1.22579 was modified -> sl: 1.22671 tp: 1.22827
+0	04:59:36.517	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85190 tp: 0.85030 -> sl: 0.85186 tp: 0.85029
+1	04:59:37.006	Notifications: allowed 30 messages per minute
+0	04:59:37.068	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85186 tp: 0.85029
+0	04:59:37.068	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85190 tp: 0.85033 -> sl: 0.85185 tp: 0.85028
+1	04:59:37.457	Notifications: allowed 30 messages per minute
+0	04:59:37.457	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85185 tp: 0.85028
+0	04:59:37.457	'10019548': modify order #158724711 buy 0.12 GBPUSD at 1.22900 sl: 1.22671 tp: 1.22827 -> sl: 1.22675 tp: 1.22831
+1	04:59:37.802	Notifications: allowed 30 messages per minute
+0	04:59:37.816	'10019548': order #158724711 buy 0.12 GBPUSD at 1.22900 was modified -> sl: 1.22675 tp: 1.22831
+0	04:59:37.816	'10019548': modify order #158743551 buy 0.12 GBPUSD at 1.22579 sl: 1.22671 tp: 1.22827 -> sl: 1.22673 tp: 1.22830
+1	04:59:38.175	Notifications: allowed 30 messages per minute
+0	04:59:38.238	'10019548': order #158743551 buy 0.12 GBPUSD at 1.22579 was modified -> sl: 1.22673 tp: 1.22830
+0	04:59:38.239	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85186 tp: 0.85029 -> sl: 0.85184 tp: 0.85029
+1	04:59:38.800	Notifications: allowed 30 messages per minute
+0	04:59:38.815	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85184 tp: 0.85029
+0	04:59:38.816	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85185 tp: 0.85028 -> sl: 0.85185 tp: 0.85027
+1	04:59:39.222	Notifications: allowed 30 messages per minute
+0	04:59:39.285	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85185 tp: 0.85027
+0	04:59:39.285	'10019548': modify order #158743551 buy 0.12 GBPUSD at 1.22579 sl: 1.22673 tp: 1.22830 -> sl: 1.22675 tp: 1.22831
+1	04:59:39.628	Notifications: allowed 30 messages per minute
+0	04:59:39.647	'10019548': order #158743551 buy 0.12 GBPUSD at 1.22579 was modified -> sl: 1.22675 tp: 1.22831
+0	04:59:40.517	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85184 tp: 0.85029 -> sl: 0.85176 tp: 0.85022
+1	04:59:41.019	Notifications: allowed 30 messages per minute
+0	04:59:41.020	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85176 tp: 0.85022
+0	04:59:42.477	'10019548': modify order #158756513 sell 0.12 EURJPY at 122.524 sl: 122.466 tp: 122.311 -> sl: 122.464 tp: 122.303
+1	04:59:42.817	Notifications: allowed 30 messages per minute
+0	04:59:42.833	'10019548': order #158756513 sell 0.12 EURJPY at 122.524 was modified -> sl: 122.464 tp: 122.303
+0	04:59:42.833	'10019548': modify order #158756513 sell 0.12 EURJPY at 122.524 sl: 122.464 tp: 122.303 -> sl: 122.460 tp: 122.305
+1	04:59:43.178	Notifications: allowed 30 messages per minute
+0	04:59:43.178	'10019548': order #158756513 sell 0.12 EURJPY at 122.524 was modified -> sl: 122.460 tp: 122.305
+0	04:59:43.178	'10019548': modify order #158723811 sell 0.12 XAUUSD at 1131.69 sl: 1133.07 tp: 1131.38 -> sl: 1133.07 tp: 1131.37
+1	04:59:43.629	Notifications: allowed 30 messages per minute
+0	04:59:43.629	'10019548': order #158723811 sell 0.12 XAUUSD at 1131.69 was modified -> sl: 1133.07 tp: 1131.37
+0	04:59:44.374	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85185 tp: 0.85027 -> sl: 0.85183 tp: 0.85028
+1	04:59:44.770	Notifications: allowed 30 messages per minute
+0	04:59:44.770	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85183 tp: 0.85028
+0	04:59:44.770	'10019548': modify order #158724711 buy 0.12 GBPUSD at 1.22900 sl: 1.22675 tp: 1.22831 -> sl: 1.22680 tp: 1.22837
+1	04:59:45.303	Notifications: allowed 30 messages per minute
+0	04:59:45.317	'10019548': order #158724711 buy 0.12 GBPUSD at 1.22900 was modified -> sl: 1.22680 tp: 1.22837
+0	04:59:45.317	'10019548': modify order #158743551 buy 0.12 GBPUSD at 1.22579 sl: 1.22675 tp: 1.22831 -> sl: 1.22678 tp: 1.22836
+1	04:59:45.681	Notifications: allowed 30 messages per minute
+0	04:59:45.740	'10019548': order #158743551 buy 0.12 GBPUSD at 1.22579 was modified -> sl: 1.22678 tp: 1.22836
+0	04:59:46.006	'10019548': modify order #158756513 sell 0.12 EURJPY at 122.524 sl: 122.460 tp: 122.305 -> sl: 122.458 tp: 122.301
+1	04:59:46.366	Notifications: allowed 30 messages per minute
+0	04:59:46.429	'10019548': order #158756513 sell 0.12 EURJPY at 122.524 was modified -> sl: 122.458 tp: 122.301
+0	04:59:46.429	'10019548': modify order #158756513 sell 0.12 EURJPY at 122.524 sl: 122.458 tp: 122.301 -> sl: 122.452 tp: 122.299
+1	04:59:46.942	Notifications: allowed 30 messages per minute
+0	04:59:46.990	'10019548': order #158756513 sell 0.12 EURJPY at 122.524 was modified -> sl: 122.452 tp: 122.299
+0	04:59:48.545	'10019548': modify order #158723811 sell 0.12 XAUUSD at 1131.69 sl: 1133.07 tp: 1131.37 -> sl: 1133.06 tp: 1131.37
+1	04:59:48.910	Notifications: allowed 30 messages per minute
+0	04:59:48.927	'10019548': order #158723811 sell 0.12 XAUUSD at 1131.69 was modified -> sl: 1133.06 tp: 1131.37
+0	04:59:48.927	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.143 tp: 117.296 -> sl: 117.146 tp: 117.301
+1	04:59:49.272	Notifications: allowed 30 messages per minute
+0	04:59:49.286	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.146 tp: 117.301
+0	04:59:49.286	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.142 tp: 117.296 -> sl: 117.146 tp: 117.301
+1	04:59:49.629	Notifications: allowed 30 messages per minute
+0	04:59:49.630	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.146 tp: 117.301
+0	04:59:53.973	'10019548': modify order #158724711 buy 0.12 GBPUSD at 1.22900 sl: 1.22680 tp: 1.22837 -> sl: 1.22683 tp: 1.22840
+1	04:59:54.334	Notifications: not enough space for notification 'order #158724711 buy 0.12 GBPUSD at 1.22900 modified: sl: 1.22680 tp: 1.22837 -> sl: 1.22683 tp: 1.22840'
+0	04:59:54.334	'10019548': order #158724711 buy 0.12 GBPUSD at 1.22900 was modified -> sl: 1.22683 tp: 1.22840
+0	04:59:54.335	'10019548': modify order #158743551 buy 0.12 GBPUSD at 1.22579 sl: 1.22678 tp: 1.22836 -> sl: 1.22683 tp: 1.22841
+1	04:59:54.813	Notifications: not enough space for notification 'order #158743551 buy 0.12 GBPUSD at 1.22579 modified: sl: 1.22678 tp: 1.22836 -> sl: 1.22683 tp: 1.22841'
+0	04:59:54.817	'10019548': order #158743551 buy 0.12 GBPUSD at 1.22579 was modified -> sl: 1.22683 tp: 1.22841
+0	04:59:58.052	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85183 tp: 0.85028 -> sl: 0.85182 tp: 0.85027
+1	04:59:58.385	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.85183 tp: 0.85028 -> sl: 0.85182 tp: 0.85027'
+0	04:59:58.399	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85182 tp: 0.85027
+0	04:59:59.277	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85182 tp: 0.85027 -> sl: 0.85181 tp: 0.85026
+1	04:59:59.647	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.85182 tp: 0.85027 -> sl: 0.85181 tp: 0.85026'
+0	04:59:59.710	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85181 tp: 0.85026
+0	05:00:14.057	'10019548': modify order #158745906 buy 0.12 EURGBP at 0.85280 sl: 0.85100 tp: 0.85255 -> sl: 0.85101 tp: 0.85254
+1	05:00:14.647	Notifications: not enough space for notification 'order #158745906 buy 0.12 EURGBP at 0.85280 modified: sl: 0.85100 tp: 0.85255 -> sl: 0.85101 tp: 0.85254'
+0	05:00:14.724	'10019548': order #158745906 buy 0.12 EURGBP at 0.85280 was modified -> sl: 0.85101 tp: 0.85254
+0	05:00:16.937	'10019548': order #158724711 buy 0.12 GBPUSD at 1.22900 closed due stop-loss at price 1.22683
+1	05:00:16.937	Notifications: not enough space for notification 'order #158724711 buy 0.12 GBPUSD at 1.22900 closed due stop-loss at price 1.22683, profit: -36.33 AUD'
+0	05:00:16.976	'10019548': order #158743551 buy 0.12 GBPUSD at 1.22579 closed due stop-loss at price 1.22683
+1	05:00:16.976	Notifications: not enough space for notification 'order #158743551 buy 0.12 GBPUSD at 1.22579 closed due stop-loss at price 1.22683, profit: 17.41 AUD'
+0	05:00:19.679	'10019548': modify order #158745906 buy 0.12 EURGBP at 0.85280 sl: 0.85101 tp: 0.85254 -> sl: 0.85103 tp: 0.85261
+1	05:00:20.040	Notifications: not enough space for notification 'order #158745906 buy 0.12 EURGBP at 0.85280 modified: sl: 0.85101 tp: 0.85254 -> sl: 0.85103 tp: 0.85261'
+0	05:00:20.101	'10019548': order #158745906 buy 0.12 EURGBP at 0.85280 was modified -> sl: 0.85103 tp: 0.85261
+0	05:00:21.226	'10019548': modify order #158745906 buy 0.12 EURGBP at 0.85280 sl: 0.85103 tp: 0.85261 -> sl: 0.85105 tp: 0.85260
+1	05:00:21.649	Notifications: not enough space for notification 'order #158745906 buy 0.12 EURGBP at 0.85280 modified: sl: 0.85103 tp: 0.85261 -> sl: 0.85105 tp: 0.85260'
+0	05:00:21.712	'10019548': order #158745906 buy 0.12 EURGBP at 0.85280 was modified -> sl: 0.85105 tp: 0.85260
+0	05:02:12.832	'10019548': order #158756513 sell 0.12 EURJPY at 122.524 closed due stop-loss at price 122.452
+1	05:02:12.832	Notifications: not enough space for notification 'order #158756513 sell 0.12 EURJPY at 122.524 closed due stop-loss at price 122.452, profit: 10.29 AUD'
+0	05:02:39.846	'10019548': modify order #158723811 sell 0.12 XAUUSD at 1131.69 sl: 1133.06 tp: 1131.37 -> sl: 1133.02 tp: 1131.38
+1	05:02:40.430	Notifications: not enough space for notification 'order #158723811 sell 0.12 XAUUSD at 1131.69 modified: sl: 1133.06 tp: 1131.37 -> sl: 1133.02 tp: 1131.38'
+0	05:02:40.445	'10019548': order #158723811 sell 0.12 XAUUSD at 1131.69 was modified -> sl: 1133.02 tp: 1131.38
+0	05:02:40.446	'10019548': modify order #158755665 sell 0.12 XAUUSD at 1132.49 sl: 1133.07 tp: 1131.38 -> sl: 1133.01 tp: 1131.33
+1	05:02:40.805	Notifications: not enough space for notification 'order #158755665 sell 0.12 XAUUSD at 1132.49 modified: sl: 1133.07 tp: 1131.38 -> sl: 1133.01 tp: 1131.33'
+0	05:02:40.820	'10019548': order #158755665 sell 0.12 XAUUSD at 1132.49 was modified -> sl: 1133.01 tp: 1131.33
+0	05:02:40.820	'10019548': modify order #158723811 sell 0.12 XAUUSD at 1131.69 sl: 1133.02 tp: 1131.38 -> sl: 1133.01 tp: 1131.33
+1	05:02:41.164	Notifications: not enough space for notification 'order #158723811 sell 0.12 XAUUSD at 1131.69 modified: sl: 1133.02 tp: 1131.38 -> sl: 1133.01 tp: 1131.33'
+0	05:02:41.181	'10019548': order #158723811 sell 0.12 XAUUSD at 1131.69 was modified -> sl: 1133.01 tp: 1131.33
+0	05:02:46.285	'10019548': modify order #158723811 sell 0.12 XAUUSD at 1131.69 sl: 1133.01 tp: 1131.33 -> sl: 1132.97 tp: 1131.29
+1	05:02:46.711	Notifications: not enough space for notification 'order #158723811 sell 0.12 XAUUSD at 1131.69 modified: sl: 1133.01 tp: 1131.33 -> sl: 1132.97 tp: 1131.29'
+0	05:02:46.774	'10019548': order #158723811 sell 0.12 XAUUSD at 1131.69 was modified -> sl: 1132.97 tp: 1131.29
+0	05:02:46.774	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.146 tp: 117.301 -> sl: 117.147 tp: 117.307
+1	05:02:47.243	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.146 tp: 117.301 -> sl: 117.147 tp: 117.307'
+0	05:02:47.306	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.147 tp: 117.307
+0	05:02:47.306	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.146 tp: 117.301 -> sl: 117.148 tp: 117.306
+1	05:02:47.633	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.146 tp: 117.301 -> sl: 117.148 tp: 117.306'
+0	05:02:47.697	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.148 tp: 117.306
+0	05:02:47.697	'10019548': modify order #158755665 sell 0.12 XAUUSD at 1132.49 sl: 1133.01 tp: 1131.33 -> sl: 1132.97 tp: 1131.29
+1	05:02:48.273	Notifications: not enough space for notification 'order #158755665 sell 0.12 XAUUSD at 1132.49 modified: sl: 1133.01 tp: 1131.33 -> sl: 1132.97 tp: 1131.29'
+0	05:02:48.289	'10019548': order #158755665 sell 0.12 XAUUSD at 1132.49 was modified -> sl: 1132.97 tp: 1131.29
+0	05:02:48.289	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.147 tp: 117.307 -> sl: 117.150 tp: 117.308
+1	05:02:48.632	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.147 tp: 117.307 -> sl: 117.150 tp: 117.308'
+0	05:02:48.690	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.150 tp: 117.308
+0	05:03:04.629	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.148 tp: 117.306 -> sl: 117.149 tp: 117.307
+1	05:03:04.948	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.148 tp: 117.306 -> sl: 117.149 tp: 117.307'
+0	05:03:05.009	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.149 tp: 117.307
+0	05:03:05.308	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.150 tp: 117.308 -> sl: 117.151 tp: 117.307
+1	05:03:05.745	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.150 tp: 117.308 -> sl: 117.151 tp: 117.307'
+0	05:03:05.807	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.151 tp: 117.307
+0	05:03:05.808	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.149 tp: 117.307 -> sl: 117.150 tp: 117.309
+1	05:05:54.651	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.149 tp: 117.307 -> sl: 117.150 tp: 117.309'
+0	05:05:54.718	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.150 tp: 117.309
+0	05:06:08.608	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.151 tp: 117.307 -> sl: 117.152 tp: 117.310
+1	05:06:09.152	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.151 tp: 117.307 -> sl: 117.152 tp: 117.310'
+0	05:06:09.215	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.152 tp: 117.310
+0	05:06:09.215	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.150 tp: 117.309 -> sl: 117.153 tp: 117.310
+1	05:06:09.699	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.150 tp: 117.309 -> sl: 117.153 tp: 117.310'
+0	05:06:09.700	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.153 tp: 117.310
+0	05:06:12.116	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.152 tp: 117.310 -> sl: 117.153 tp: 117.307
+1	05:06:12.502	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.152 tp: 117.310 -> sl: 117.153 tp: 117.307'
+0	05:06:12.560	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.153 tp: 117.307
+0	05:09:26.278	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.153 tp: 117.307 -> sl: 117.154 tp: 117.309
+1	05:09:26.609	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.153 tp: 117.307 -> sl: 117.154 tp: 117.309'
+0	05:09:26.625	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.154 tp: 117.309
+0	05:09:26.625	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.153 tp: 117.310 -> sl: 117.154 tp: 117.309
+1	05:09:26.968	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.153 tp: 117.310 -> sl: 117.154 tp: 117.309'
+0	05:09:26.984	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.154 tp: 117.309
+0	05:10:03.504	'10019548': modify order #158745906 buy 0.12 EURGBP at 0.85280 sl: 0.85105 tp: 0.85260 -> sl: 0.85106 tp: 0.85262
+1	05:10:03.815	Notifications: not enough space for notification 'order #158745906 buy 0.12 EURGBP at 0.85280 modified: sl: 0.85105 tp: 0.85260 -> sl: 0.85106 tp: 0.85262'
+0	05:10:03.832	'10019548': order #158745906 buy 0.12 EURGBP at 0.85280 was modified -> sl: 0.85106 tp: 0.85262
+0	05:10:16.837	'10019548': modify order #158745906 buy 0.12 EURGBP at 0.85280 sl: 0.85106 tp: 0.85262 -> sl: 0.85110 tp: 0.85265
+1	05:10:17.212	Notifications: not enough space for notification 'order #158745906 buy 0.12 EURGBP at 0.85280 modified: sl: 0.85106 tp: 0.85262 -> sl: 0.85110 tp: 0.85265'
+0	05:10:17.212	'10019548': order #158745906 buy 0.12 EURGBP at 0.85280 was modified -> sl: 0.85110 tp: 0.85265
+0	05:10:35.122	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.154 tp: 117.309 -> sl: 117.155 tp: 117.311
+1	05:10:35.475	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.154 tp: 117.309 -> sl: 117.155 tp: 117.311'
+0	05:10:35.491	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.155 tp: 117.311
+0	05:10:35.491	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.154 tp: 117.309 -> sl: 117.155 tp: 117.311
+1	05:10:36.022	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.154 tp: 117.309 -> sl: 117.155 tp: 117.311'
+0	05:10:36.022	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.155 tp: 117.311
+0	05:10:47.438	'10019548': modify order #158745906 buy 0.12 EURGBP at 0.85280 sl: 0.85110 tp: 0.85265 -> sl: 0.85114 tp: 0.85267
+1	05:10:47.789	Notifications: not enough space for notification 'order #158745906 buy 0.12 EURGBP at 0.85280 modified: sl: 0.85110 tp: 0.85265 -> sl: 0.85114 tp: 0.85267'
+0	05:10:47.804	'10019548': order #158745906 buy 0.12 EURGBP at 0.85280 was modified -> sl: 0.85114 tp: 0.85267
+0	05:11:18.487	'10019548': modify order #158723811 sell 0.12 XAUUSD at 1131.69 sl: 1132.97 tp: 1131.29 -> sl: 1132.96 tp: 1131.25
+1	05:11:18.839	Notifications: not enough space for notification 'order #158723811 sell 0.12 XAUUSD at 1131.69 modified: sl: 1132.97 tp: 1131.29 -> sl: 1132.96 tp: 1131.25'
+0	05:11:18.901	'10019548': order #158723811 sell 0.12 XAUUSD at 1131.69 was modified -> sl: 1132.96 tp: 1131.25
+0	05:11:18.901	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.155 tp: 117.311 -> sl: 117.157 tp: 117.313
+1	05:11:19.244	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.155 tp: 117.311 -> sl: 117.157 tp: 117.313'
+0	05:11:19.308	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.157 tp: 117.313
+0	05:11:19.308	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.155 tp: 117.311 -> sl: 117.157 tp: 117.313
+1	05:11:19.636	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.155 tp: 117.311 -> sl: 117.157 tp: 117.313'
+0	05:11:19.636	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.157 tp: 117.313
+0	05:11:19.641	'10019548': modify order #158755665 sell 0.12 XAUUSD at 1132.49 sl: 1132.97 tp: 1131.29 -> sl: 1132.96 tp: 1131.25
+1	05:11:20.026	Notifications: not enough space for notification 'order #158755665 sell 0.12 XAUUSD at 1132.49 modified: sl: 1132.97 tp: 1131.29 -> sl: 1132.96 tp: 1131.25'
+0	05:11:20.043	'10019548': order #158755665 sell 0.12 XAUUSD at 1132.49 was modified -> sl: 1132.96 tp: 1131.25
+0	05:11:26.729	'10019548': modify order #158745906 buy 0.12 EURGBP at 0.85280 sl: 0.85114 tp: 0.85267 -> sl: 0.85115 tp: 0.85271
+1	05:11:27.059	Notifications: not enough space for notification 'order #158745906 buy 0.12 EURGBP at 0.85280 modified: sl: 0.85114 tp: 0.85267 -> sl: 0.85115 tp: 0.85271'
+0	05:11:27.074	'10019548': order #158745906 buy 0.12 EURGBP at 0.85280 was modified -> sl: 0.85115 tp: 0.85271
+0	05:11:41.798	'10019548': modify order #158723811 sell 0.12 XAUUSD at 1131.69 sl: 1132.96 tp: 1131.25 -> sl: 1132.93 tp: 1131.24
+1	05:11:42.123	Notifications: not enough space for notification 'order #158723811 sell 0.12 XAUUSD at 1131.69 modified: sl: 1132.96 tp: 1131.25 -> sl: 1132.93 tp: 1131.24'
+0	05:11:42.138	'10019548': order #158723811 sell 0.12 XAUUSD at 1131.69 was modified -> sl: 1132.93 tp: 1131.24
+0	05:11:42.138	'10019548': modify order #158745906 buy 0.12 EURGBP at 0.85280 sl: 0.85115 tp: 0.85271 -> sl: 0.85116 tp: 0.85272
+1	05:11:42.482	Notifications: not enough space for notification 'order #158745906 buy 0.12 EURGBP at 0.85280 modified: sl: 0.85115 tp: 0.85271 -> sl: 0.85116 tp: 0.85272'
+0	05:11:42.497	'10019548': order #158745906 buy 0.12 EURGBP at 0.85280 was modified -> sl: 0.85116 tp: 0.85272
+0	05:11:42.497	'10019548': modify order #158755665 sell 0.12 XAUUSD at 1132.49 sl: 1132.96 tp: 1131.25 -> sl: 1132.95 tp: 1131.24
+1	05:11:42.842	Notifications: not enough space for notification 'order #158755665 sell 0.12 XAUUSD at 1132.49 modified: sl: 1132.96 tp: 1131.25 -> sl: 1132.95 tp: 1131.24'
+0	05:11:42.842	'10019548': order #158755665 sell 0.12 XAUUSD at 1132.49 was modified -> sl: 1132.95 tp: 1131.24
+0	05:14:04.281	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.157 tp: 117.313 -> sl: 117.160 tp: 117.315
+1	05:14:04.651	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.157 tp: 117.313 -> sl: 117.160 tp: 117.315'
+0	05:14:04.652	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.160 tp: 117.315
+0	05:14:04.652	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.157 tp: 117.313 -> sl: 117.160 tp: 117.316
+1	05:14:04.995	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.157 tp: 117.313 -> sl: 117.160 tp: 117.316'
+0	05:14:04.996	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.160 tp: 117.316
+0	05:14:31.991	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.160 tp: 117.315 -> sl: 117.161 tp: 117.313
+1	05:14:34.188	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.160 tp: 117.315 -> sl: 117.161 tp: 117.313'
+0	05:14:34.202	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.161 tp: 117.313
+0	05:14:44.558	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.161 tp: 117.313 -> sl: 117.162 tp: 117.313
+1	05:14:44.876	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.161 tp: 117.313 -> sl: 117.162 tp: 117.313'
+0	05:14:44.891	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.162 tp: 117.313
+0	05:14:44.891	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.160 tp: 117.316 -> sl: 117.161 tp: 117.312
+1	05:14:45.267	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.160 tp: 117.316 -> sl: 117.161 tp: 117.312'
+0	05:14:45.267	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.161 tp: 117.312
+0	05:15:09.432	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.161 tp: 117.312 -> sl: 117.162 tp: 117.319
+1	05:15:09.751	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.161 tp: 117.312 -> sl: 117.162 tp: 117.319'
+0	05:15:09.815	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.162 tp: 117.319
+0	05:15:09.854	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.162 tp: 117.313 -> sl: 117.163 tp: 117.319
+1	05:15:10.205	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.162 tp: 117.313 -> sl: 117.163 tp: 117.319'
+0	05:15:10.234	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.163 tp: 117.319
+0	05:15:10.234	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.162 tp: 117.319 -> sl: 117.163 tp: 117.319
+1	05:15:10.564	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.162 tp: 117.319 -> sl: 117.163 tp: 117.319'
+0	05:15:10.627	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.163 tp: 117.319
+0	05:15:56.763	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.163 tp: 117.319 -> sl: 117.166 tp: 117.320
+1	05:15:57.100	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.163 tp: 117.319 -> sl: 117.166 tp: 117.320'
+0	05:15:57.100	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.166 tp: 117.320
+0	05:15:57.100	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.163 tp: 117.319 -> sl: 117.166 tp: 117.320
+1	05:15:57.443	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.163 tp: 117.319 -> sl: 117.166 tp: 117.320'
+0	05:15:57.460	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.166 tp: 117.320
+0	05:16:01.814	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.166 tp: 117.320 -> sl: 117.168 tp: 117.322
+1	05:16:02.133	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.166 tp: 117.320 -> sl: 117.168 tp: 117.322'
+0	05:16:02.195	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.168 tp: 117.322
+0	05:16:02.195	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.166 tp: 117.320 -> sl: 117.168 tp: 117.322
+1	05:16:02.492	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.166 tp: 117.320 -> sl: 117.168 tp: 117.322'
+0	05:16:02.553	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.168 tp: 117.322
+0	05:17:40.372	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.168 tp: 117.322 -> sl: 117.169 tp: 117.325
+1	05:17:40.705	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.168 tp: 117.322 -> sl: 117.169 tp: 117.325'
+0	05:17:40.765	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.169 tp: 117.325
+0	05:17:40.765	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.168 tp: 117.322 -> sl: 117.171 tp: 117.326
+1	05:17:41.156	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.168 tp: 117.322 -> sl: 117.171 tp: 117.326'
+0	05:17:41.178	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.171 tp: 117.326
+0	05:17:41.178	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.169 tp: 117.325 -> sl: 117.174 tp: 117.327
+1	05:17:41.562	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.169 tp: 117.325 -> sl: 117.174 tp: 117.327'
+0	05:17:41.562	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.174 tp: 117.327
+0	05:17:41.563	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.171 tp: 117.326 -> sl: 117.173 tp: 117.324
+1	05:17:41.910	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.171 tp: 117.326 -> sl: 117.173 tp: 117.324'
+0	05:17:41.910	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.173 tp: 117.324
+0	05:17:42.078	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.173 tp: 117.324 -> sl: 117.173 tp: 117.326
+1	05:17:42.439	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.173 tp: 117.324 -> sl: 117.173 tp: 117.326'
+0	05:17:42.452	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.173 tp: 117.326
+0	05:17:58.861	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.173 tp: 117.326 -> sl: 117.174 tp: 117.331
+1	05:17:59.206	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.173 tp: 117.326 -> sl: 117.174 tp: 117.331'
+0	05:17:59.270	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.174 tp: 117.331
+0	05:18:05.655	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.174 tp: 117.327 -> sl: 117.177 tp: 117.330
+1	05:18:06.051	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.174 tp: 117.327 -> sl: 117.177 tp: 117.330'
+0	05:18:06.065	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.177 tp: 117.330
+0	05:18:06.065	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.174 tp: 117.331 -> sl: 117.176 tp: 117.332
+1	05:18:06.457	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.174 tp: 117.331 -> sl: 117.176 tp: 117.332'
+0	05:18:06.458	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.176 tp: 117.332
+0	05:18:11.065	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.177 tp: 117.330 -> sl: 117.178 tp: 117.333
+1	05:18:11.394	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.177 tp: 117.330 -> sl: 117.178 tp: 117.333'
+0	05:18:11.409	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.178 tp: 117.333
+0	05:18:11.409	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.176 tp: 117.332 -> sl: 117.177 tp: 117.332
+1	05:18:11.754	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.176 tp: 117.332 -> sl: 117.177 tp: 117.332'
+0	05:18:11.754	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.177 tp: 117.332
+0	05:18:12.622	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.177 tp: 117.332 -> sl: 117.178 tp: 117.334
+1	05:18:12.988	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.177 tp: 117.332 -> sl: 117.178 tp: 117.334'
+0	05:18:12.988	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.178 tp: 117.334
+0	05:18:17.900	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.178 tp: 117.333 -> sl: 117.181 tp: 117.338
+1	05:18:18.207	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.178 tp: 117.333 -> sl: 117.181 tp: 117.338'
+0	05:18:18.269	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.181 tp: 117.338
+0	05:18:18.269	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.178 tp: 117.334 -> sl: 117.181 tp: 117.338
+1	05:18:18.598	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.178 tp: 117.334 -> sl: 117.181 tp: 117.338'
+0	05:18:18.598	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.181 tp: 117.338
+0	05:19:00.037	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.181 tp: 117.338 -> sl: 117.182 tp: 117.339
+1	05:19:00.367	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.181 tp: 117.338 -> sl: 117.182 tp: 117.339'
+0	05:19:00.382	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.182 tp: 117.339
+0	05:19:03.289	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.182 tp: 117.339 -> sl: 117.184 tp: 117.339
+1	05:19:03.821	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.182 tp: 117.339 -> sl: 117.184 tp: 117.339'
+0	05:19:03.837	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.184 tp: 117.339
+0	05:19:03.837	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.181 tp: 117.338 -> sl: 117.181 tp: 117.340
+1	05:19:04.134	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.181 tp: 117.338 -> sl: 117.181 tp: 117.340'
+0	05:19:04.199	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.181 tp: 117.340
+0	05:19:57.446	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.181 tp: 117.340 -> sl: 117.183 tp: 117.334
+1	05:19:57.936	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.181 tp: 117.340 -> sl: 117.183 tp: 117.334'
+0	05:19:57.951	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.183 tp: 117.334
+0	05:20:23.181	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.183 tp: 117.334 -> sl: 117.184 tp: 117.341
+1	05:20:23.484	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.183 tp: 117.334 -> sl: 117.184 tp: 117.341'
+0	05:20:23.500	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.184 tp: 117.341
+0	05:20:28.062	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.184 tp: 117.339 -> sl: 117.186 tp: 117.340
+1	05:20:28.454	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.184 tp: 117.339 -> sl: 117.186 tp: 117.340'
+0	05:20:28.469	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.186 tp: 117.340
+0	05:20:28.469	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.184 tp: 117.341 -> sl: 117.186 tp: 117.340
+1	05:20:28.812	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.184 tp: 117.341 -> sl: 117.186 tp: 117.340'
+0	05:20:28.828	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.186 tp: 117.340
+0	05:20:34.105	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.186 tp: 117.340 -> sl: 117.187 tp: 117.343
+1	05:20:34.439	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.186 tp: 117.340 -> sl: 117.187 tp: 117.343'
+0	05:20:34.439	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.187 tp: 117.343
+0	05:20:34.439	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.186 tp: 117.340 -> sl: 117.187 tp: 117.343
+1	05:20:34.829	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.186 tp: 117.340 -> sl: 117.187 tp: 117.343'
+0	05:20:34.829	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.187 tp: 117.343
+0	05:20:39.385	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.187 tp: 117.343 -> sl: 117.189 tp: 117.346
+1	05:20:39.721	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.187 tp: 117.343 -> sl: 117.189 tp: 117.346'
+0	05:20:39.736	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.189 tp: 117.346
+0	05:20:39.736	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.187 tp: 117.343 -> sl: 117.189 tp: 117.346
+1	05:20:40.075	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.187 tp: 117.343 -> sl: 117.189 tp: 117.346'
+0	05:20:40.079	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.189 tp: 117.346
+0	05:20:54.201	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.189 tp: 117.346 -> sl: 117.191 tp: 117.345
+1	05:20:54.534	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.189 tp: 117.346 -> sl: 117.191 tp: 117.345'
+0	05:20:54.534	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.191 tp: 117.345
+0	05:20:54.534	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.189 tp: 117.346 -> sl: 117.191 tp: 117.345
+1	05:20:54.878	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.189 tp: 117.346 -> sl: 117.191 tp: 117.345'
+0	05:20:54.878	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.191 tp: 117.345
+0	05:21:46.096	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.191 tp: 117.345 -> sl: 117.194 tp: 117.348
+1	05:21:46.461	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.191 tp: 117.345 -> sl: 117.194 tp: 117.348'
+0	05:21:46.522	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.194 tp: 117.348
+0	05:22:46.538	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.191 tp: 117.345 -> sl: 117.192 tp: 117.348
+1	05:22:46.889	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.191 tp: 117.345 -> sl: 117.192 tp: 117.348'
+0	05:22:46.889	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.192 tp: 117.348
+0	05:22:51.377	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.192 tp: 117.348 -> sl: 117.194 tp: 117.347
+1	05:22:51.764	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.192 tp: 117.348 -> sl: 117.194 tp: 117.347'
+0	05:22:51.764	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.194 tp: 117.347
+0	05:22:51.765	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.194 tp: 117.348 -> sl: 117.195 tp: 117.349
+1	05:22:52.157	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.194 tp: 117.348 -> sl: 117.195 tp: 117.349'
+0	05:22:52.157	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.195 tp: 117.349
+0	05:22:52.157	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.194 tp: 117.347 -> sl: 117.196 tp: 117.349
+1	05:22:52.482	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.194 tp: 117.347 -> sl: 117.196 tp: 117.349'
+0	05:22:52.545	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.196 tp: 117.349
+0	05:22:52.545	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.195 tp: 117.349 -> sl: 117.196 tp: 117.349
+1	05:22:52.892	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.195 tp: 117.349 -> sl: 117.196 tp: 117.349'
+0	05:22:52.892	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.196 tp: 117.349
+0	05:23:09.736	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.196 tp: 117.349 -> sl: 117.198 tp: 117.353
+1	05:23:10.125	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.196 tp: 117.349 -> sl: 117.198 tp: 117.353'
+0	05:23:10.125	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.198 tp: 117.353
+0	05:23:10.125	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.196 tp: 117.349 -> sl: 117.201 tp: 117.358
+1	05:23:10.469	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.196 tp: 117.349 -> sl: 117.201 tp: 117.358'
+0	05:23:10.469	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.201 tp: 117.358
+0	05:23:10.469	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.198 tp: 117.353 -> sl: 117.201 tp: 117.358
+1	05:23:10.815	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.198 tp: 117.353 -> sl: 117.201 tp: 117.358'
+0	05:23:10.876	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.201 tp: 117.358
+0	05:23:17.835	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.201 tp: 117.358 -> sl: 117.202 tp: 117.358
+1	05:23:18.172	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.201 tp: 117.358 -> sl: 117.202 tp: 117.358'
+0	05:23:18.236	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.202 tp: 117.358
+0	05:23:18.236	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.201 tp: 117.358 -> sl: 117.202 tp: 117.358
+1	05:23:18.579	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.201 tp: 117.358 -> sl: 117.202 tp: 117.358'
+0	05:23:18.580	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.202 tp: 117.358
+0	05:23:20.592	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.202 tp: 117.358 -> sl: 117.203 tp: 117.359
+1	05:23:21.002	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.202 tp: 117.358 -> sl: 117.203 tp: 117.359'
+0	05:23:21.003	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.203 tp: 117.359
+0	05:23:21.003	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.202 tp: 117.358 -> sl: 117.205 tp: 117.361
+1	05:23:21.438	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.202 tp: 117.358 -> sl: 117.205 tp: 117.361'
+0	05:23:21.455	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.205 tp: 117.361
+0	05:23:21.455	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.203 tp: 117.359 -> sl: 117.206 tp: 117.362
+1	05:23:21.799	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.203 tp: 117.359 -> sl: 117.206 tp: 117.362'
+0	05:23:21.862	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.206 tp: 117.362
+0	05:23:21.862	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.205 tp: 117.361 -> sl: 117.206 tp: 117.362
+1	05:23:22.204	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.205 tp: 117.361 -> sl: 117.206 tp: 117.362'
+0	05:23:22.204	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.206 tp: 117.362
+0	05:23:25.516	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.206 tp: 117.362 -> sl: 117.207 tp: 117.362
+1	05:23:25.861	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.206 tp: 117.362 -> sl: 117.207 tp: 117.362'
+0	05:23:25.861	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.207 tp: 117.362
+0	05:23:25.861	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.206 tp: 117.362 -> sl: 117.209 tp: 117.365
+1	05:23:26.252	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.206 tp: 117.362 -> sl: 117.209 tp: 117.365'
+0	05:23:26.253	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.209 tp: 117.365
+0	05:23:31.650	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.207 tp: 117.362 -> sl: 117.210 tp: 117.366
+1	05:23:32.019	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.207 tp: 117.362 -> sl: 117.210 tp: 117.366'
+0	05:23:32.019	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.210 tp: 117.366
+0	05:23:32.019	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.209 tp: 117.365 -> sl: 117.210 tp: 117.366
+1	05:23:32.362	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.209 tp: 117.365 -> sl: 117.210 tp: 117.366'
+0	05:23:32.377	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.210 tp: 117.366
+0	05:24:03.346	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.210 tp: 117.366 -> sl: 117.211 tp: 117.365
+1	05:24:03.693	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.210 tp: 117.366 -> sl: 117.211 tp: 117.365'
+0	05:24:03.755	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.211 tp: 117.365
+0	05:24:03.755	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.210 tp: 117.366 -> sl: 117.211 tp: 117.365
+1	05:24:04.098	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.210 tp: 117.366 -> sl: 117.211 tp: 117.365'
+0	05:24:04.114	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.211 tp: 117.365
+0	05:24:10.824	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.211 tp: 117.365 -> sl: 117.217 tp: 117.371
+1	05:24:11.163	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.211 tp: 117.365 -> sl: 117.217 tp: 117.371'
+0	05:24:11.163	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.217 tp: 117.371
+0	05:24:11.163	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.211 tp: 117.365 -> sl: 117.216 tp: 117.372
+1	05:24:11.491	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.211 tp: 117.365 -> sl: 117.216 tp: 117.372'
+0	05:24:11.507	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.216 tp: 117.372
+0	05:26:49.835	'10019548': order #158723811 sell 0.12 XAUUSD at 1131.69 closed due stop-loss at price 1132.93
+1	05:26:49.835	Notifications: not enough space for notification 'order #158723811 sell 0.12 XAUUSD at 1131.69 closed due stop-loss at price 1132.93, profit: -20.75 AUD'
+0	05:26:49.898	'10019548': order #158755665 sell 0.12 XAUUSD at 1132.49 closed due stop-loss at price 1132.95
+1	05:26:49.898	Notifications: not enough space for notification 'order #158755665 sell 0.12 XAUUSD at 1132.49 closed due stop-loss at price 1132.95, profit: -7.70 AUD'
+0	05:29:00.590	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.216 tp: 117.372 -> sl: 117.217 tp: 117.374
+1	05:29:00.957	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.216 tp: 117.372 -> sl: 117.217 tp: 117.374'
+0	05:29:01.018	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.217 tp: 117.374
+0	05:29:01.447	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.217 tp: 117.371 -> sl: 117.218 tp: 117.374
+1	05:29:01.815	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.217 tp: 117.371 -> sl: 117.218 tp: 117.374'
+0	05:29:01.830	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.218 tp: 117.374
+0	05:29:01.830	'10019548': modify order #158748124 buy 0.12 USDJPY at 117.324 sl: 117.217 tp: 117.374 -> sl: 117.219 tp: 117.375
+1	05:29:02.314	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 modified: sl: 117.217 tp: 117.374 -> sl: 117.219 tp: 117.375'
+0	05:29:02.332	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 was modified -> sl: 117.219 tp: 117.375
+0	05:29:05.122	'10019548': modify order #158744795 buy 0.12 USDJPY at 117.381 sl: 117.218 tp: 117.374 -> sl: 117.218 tp: 117.375
+1	05:29:05.454	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 modified: sl: 117.218 tp: 117.374 -> sl: 117.218 tp: 117.375'
+0	05:29:05.471	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 was modified -> sl: 117.218 tp: 117.375
+0	05:36:18.263	'10019548': order #158745906 buy 0.12 EURGBP at 0.85280 closed due stop-loss at price 0.85116
+1	05:36:18.263	Notifications: not enough space for notification 'order #158745906 buy 0.12 EURGBP at 0.85280 closed due stop-loss at price 0.85116, profit: -33.69 AUD'
+0	05:37:44.659	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85181 tp: 0.85026 -> sl: 0.85179 tp: 0.85021
+1	05:37:45.161	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.85181 tp: 0.85026 -> sl: 0.85179 tp: 0.85021'
+0	05:37:45.161	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85179 tp: 0.85021
+0	05:37:48.533	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85179 tp: 0.85021 -> sl: 0.85178 tp: 0.85019
+1	05:37:48.852	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.85179 tp: 0.85021 -> sl: 0.85178 tp: 0.85019'
+0	05:37:48.880	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85178 tp: 0.85019
+0	05:37:53.919	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85178 tp: 0.85019 -> sl: 0.85176 tp: 0.85017
+1	05:37:54.271	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.85178 tp: 0.85019 -> sl: 0.85176 tp: 0.85017'
+0	05:37:54.272	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85176 tp: 0.85017
+0	05:38:46.442	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85176 tp: 0.85022 -> sl: 0.85175 tp: 0.85017
+1	05:38:46.948	Notifications: not enough space for notification 'order #158721379 sell 0.12 EURGBP at 0.85031 modified: sl: 0.85176 tp: 0.85022 -> sl: 0.85175 tp: 0.85017'
+0	05:38:46.963	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85175 tp: 0.85017
+0	05:38:56.394	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85176 tp: 0.85017 -> sl: 0.85176 tp: 0.85018
+1	05:38:56.714	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.85176 tp: 0.85017 -> sl: 0.85176 tp: 0.85018'
+0	05:38:56.714	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85176 tp: 0.85018
+0	05:38:56.853	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85176 tp: 0.85018 -> sl: 0.85175 tp: 0.85016
+1	05:38:57.198	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.85176 tp: 0.85018 -> sl: 0.85175 tp: 0.85016'
+0	05:38:57.198	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85175 tp: 0.85016
+0	05:39:10.214	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85175 tp: 0.85017 -> sl: 0.85174 tp: 0.85015
+1	05:39:10.575	Notifications: not enough space for notification 'order #158721379 sell 0.12 EURGBP at 0.85031 modified: sl: 0.85175 tp: 0.85017 -> sl: 0.85174 tp: 0.85015'
+0	05:39:10.637	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85174 tp: 0.85015
+0	05:39:10.637	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85175 tp: 0.85016 -> sl: 0.85173 tp: 0.85015
+1	05:39:10.966	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.85175 tp: 0.85016 -> sl: 0.85173 tp: 0.85015'
+0	05:39:10.966	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85173 tp: 0.85015
+0	05:39:10.967	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85174 tp: 0.85015 -> sl: 0.85173 tp: 0.85015
+1	05:39:11.296	Notifications: not enough space for notification 'order #158721379 sell 0.12 EURGBP at 0.85031 modified: sl: 0.85174 tp: 0.85015 -> sl: 0.85173 tp: 0.85015'
+0	05:39:11.357	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85173 tp: 0.85015
+0	05:39:15.629	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85173 tp: 0.85015 -> sl: 0.85171 tp: 0.85012
+1	05:39:15.996	Notifications: not enough space for notification 'order #158721379 sell 0.12 EURGBP at 0.85031 modified: sl: 0.85173 tp: 0.85015 -> sl: 0.85171 tp: 0.85012'
+0	05:39:16.059	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85171 tp: 0.85012
+0	05:39:16.059	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85173 tp: 0.85015 -> sl: 0.85172 tp: 0.85013
+1	05:39:16.388	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.85173 tp: 0.85015 -> sl: 0.85172 tp: 0.85013'
+0	05:39:16.403	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85172 tp: 0.85013
+0	05:39:20.500	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85171 tp: 0.85012 -> sl: 0.85168 tp: 0.85009
+1	05:39:20.842	Notifications: not enough space for notification 'order #158721379 sell 0.12 EURGBP at 0.85031 modified: sl: 0.85171 tp: 0.85012 -> sl: 0.85168 tp: 0.85009'
+0	05:39:20.907	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85168 tp: 0.85009
+0	05:39:20.907	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85172 tp: 0.85013 -> sl: 0.85168 tp: 0.85008
+1	05:39:21.247	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.85172 tp: 0.85013 -> sl: 0.85168 tp: 0.85008'
+0	05:39:21.261	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85168 tp: 0.85008
+0	05:49:26.569	'10019548': order #158744795 buy 0.12 USDJPY at 117.381 closed due stop-loss at price 117.218
+1	05:49:26.570	Notifications: not enough space for notification 'order #158744795 buy 0.12 USDJPY at 117.381 closed due stop-loss at price 117.218, profit: -23.28 AUD'
+0	05:49:26.570	'10019548': order #158748124 buy 0.12 USDJPY at 117.324 closed due stop-loss at price 117.219
+1	05:49:26.570	Notifications: not enough space for notification 'order #158748124 buy 0.12 USDJPY at 117.324 closed due stop-loss at price 117.219, profit: -15.00 AUD'
+0	06:00:35.536	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85168 tp: 0.85009 -> sl: 0.85167 tp: 0.85006
+1	06:00:36.149	Notifications: not enough space for notification 'order #158721379 sell 0.12 EURGBP at 0.85031 modified: sl: 0.85168 tp: 0.85009 -> sl: 0.85167 tp: 0.85006'
+0	06:00:36.212	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85167 tp: 0.85006
+0	06:00:36.212	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85168 tp: 0.85008 -> sl: 0.85167 tp: 0.85007
+1	06:00:36.556	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.85168 tp: 0.85008 -> sl: 0.85167 tp: 0.85007'
+0	06:00:36.556	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85167 tp: 0.85007
+0	06:02:01.088	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85167 tp: 0.85006 -> sl: 0.85166 tp: 0.85013
+1	06:02:01.468	Notifications: not enough space for notification 'order #158721379 sell 0.12 EURGBP at 0.85031 modified: sl: 0.85167 tp: 0.85006 -> sl: 0.85166 tp: 0.85013'
+0	06:02:01.468	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85166 tp: 0.85013
+0	06:16:58.040	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85167 tp: 0.85007 -> sl: 0.85166 tp: 0.85004
+1	06:16:58.409	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.85167 tp: 0.85007 -> sl: 0.85166 tp: 0.85004'
+0	06:16:58.410	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85166 tp: 0.85004
+0	06:21:40.468	'10019548': modify order #158721379 sell 0.12 EURGBP at 0.85031 sl: 0.85166 tp: 0.85013 -> sl: 0.85163 tp: 0.85005
+1	06:21:40.824	Notifications: not enough space for notification 'order #158721379 sell 0.12 EURGBP at 0.85031 modified: sl: 0.85166 tp: 0.85013 -> sl: 0.85163 tp: 0.85005'
+0	06:21:40.824	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 was modified -> sl: 0.85163 tp: 0.85005
+0	06:21:40.824	'10019548': modify order #158721596 sell 0.12 EURGBP at 0.85020 sl: 0.85166 tp: 0.85004 -> sl: 0.85163 tp: 0.85005
+1	06:21:41.168	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 modified: sl: 0.85166 tp: 0.85004 -> sl: 0.85163 tp: 0.85005'
+0	06:21:41.169	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 was modified -> sl: 0.85163 tp: 0.85005
+0	07:06:25.181	'10019548': order #158721379 sell 0.12 EURGBP at 0.85031 closed due stop-loss at price 0.85163
+1	07:06:25.181	Notifications: not enough space for notification 'order #158721379 sell 0.12 EURGBP at 0.85031 closed due stop-loss at price 0.85163, profit: -27.12 AUD'
+0	07:06:25.572	'10019548': order #158721596 sell 0.12 EURGBP at 0.85020 closed due stop-loss at price 0.85163
+1	07:06:25.572	Notifications: not enough space for notification 'order #158721596 sell 0.12 EURGBP at 0.85020 closed due stop-loss at price 0.85163, profit: -29.38 AUD'
+1	07:06:25.711	Notifications: not enough space for notification 'Close up completed @ 2517.25'
+0	07:10:00.226	'10019548': order buy market 0.13 EURGBP sl: 0.00000 tp: 0.85492
+1	07:10:00.887	Notifications: not enough space for notification 'order opened #158766632 buy 0.13 EURGBP at 0.85192 tp: 0.85492'
+0	07:10:00.887	'10019548': order was opened : #158766632 buy 0.13 EURGBP at 0.85192 sl: 0.00000 tp: 0.85492
+0	07:10:00.902	'10019548': order sell market 0.13 GBPAUD sl: 0.00000 tp: 1.70799
+1	07:10:01.262	Notifications: not enough space for notification 'order opened #158766639 sell 0.13 GBPAUD at 1.71099 tp: 1.70799'
+0	07:10:01.262	'10019548': order was opened : #158766639 sell 0.13 GBPAUD at 1.71099 sl: 0.00000 tp: 1.70799
+0	07:25:05.750	'10019548': order buy market 0.13 EURUSD sl: 0.00000 tp: 1.04794
+1	07:25:06.110	Notifications: not enough space for notification 'order opened #158767309 buy 0.13 EURUSD at 1.04494 tp: 1.04794'
+0	07:25:06.110	'10019548': order was opened : #158767309 buy 0.13 EURUSD at 1.04494 sl: 0.00000 tp: 1.04794
+0	07:30:00.345	'10019548': order buy market 0.13 GBPUSD sl: 0.00000 tp: 1.23069
+1	07:30:00.747	Notifications: not enough space for notification 'order opened #158767428 buy 0.13 GBPUSD at 1.22769 tp: 1.23069'
+0	07:30:00.776	'10019548': order was opened : #158767428 buy 0.13 GBPUSD at 1.22769 sl: 0.00000 tp: 1.23069
+0	07:30:00.784	'10019548': order buy market 0.13 GBPAUD sl: 0.00000 tp: 1.71507
+1	07:30:09.574	Notifications: not enough space for notification 'order opened #158767466 buy 0.13 GBPAUD at 1.71206 tp: 1.71507'
+0	07:30:09.590	'10019548': order was opened : #158767466 buy 0.13 GBPAUD at 1.71206 sl: 0.00000 tp: 1.71507
+0	07:35:11.871	'10019548': order buy market 0.13 EURUSD sl: 0.00000 tp: 1.04815
+1	07:35:12.212	Notifications: not enough space for notification 'order opened #158767535 buy 0.13 EURUSD at 1.04515 tp: 1.04815'
+0	07:35:12.213	'10019548': order was opened : #158767535 buy 0.13 EURUSD at 1.04515 sl: 0.00000 tp: 1.04815
+0	07:50:01.867	'10019548': order buy market 0.13 USDCAD sl: 0.00000 tp: 1.35689
+1	07:50:02.243	Notifications: not enough space for notification 'order opened #158767938 buy 0.13 USDCAD at 1.35384 tp: 1.35689'
+0	07:50:02.307	'10019548': order was opened : #158767938 buy 0.13 USDCAD at 1.35384 sl: 0.00000 tp: 1.35689
+0	08:10:00.397	'10019548': order buy market 0.13 AUDCAD sl: 0.00000 tp: 0.97386
+1	08:10:01.732	Notifications: not enough space for notification 'order opened #158768634 buy 0.13 AUDCAD at 0.97087 tp: 0.97386'
+0	08:10:01.842	'10019548': order was opened : #158768634 buy 0.13 AUDCAD at 0.97087 sl: 0.00000 tp: 0.97386
+0	08:10:01.843	'10019548': order buy market 0.13 USDCHF sl: 0.00000 tp: 1.03040
+1	08:10:02.389	Notifications: not enough space for notification 'order opened #158768639 buy 0.13 USDCHF at 1.02740 tp: 1.03040'
+0	08:10:02.451	'10019548': order was opened : #158768639 buy 0.13 USDCHF at 1.02740 sl: 0.00000 tp: 1.03040

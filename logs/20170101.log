@@ -1,0 +1,12 @@
+0	18:37:55.141	IC Markets MT4 build 1031 started (International Capital Markets Pty Ltd.)
+0	18:37:55.142	Microsoft Windows XP (x64 based PC), IE 09.00, 2 x Intel Pentium 4  2.40GHz, RAM: 1095 / 1376 Mb, HDD: 108759 / 119815 Mb, GMT+10:00
+0	18:37:55.142	Data Folder: Z:\home\keith\MT4-1
+2	18:38:00.811	Expert DumpTicks EURUSD,M1: loaded successfully
+2	18:38:00.909	Expert Elpheba-20161030 AUDUSD,M5: loaded successfully
+0	18:38:02.382	'10019548': login on ICMarkets-Demo01 through Demo DC (ping: 236.36 ms)
+0	18:38:07.985	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC (ping: 236.36 ms)
+0	18:38:08.665	'10019548': previous successful authorization performed from 220.244.203.12
+0	18:38:25.777	'10019548': auto connecting to a better access point Demo DC #3 (ping is 239.15 ms)
+0	18:38:26.602	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 239.15 ms)
+0	18:38:29.689	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 239.15 ms)
+0	18:38:30.355	'10019548': previous successful authorization performed from 220.244.203.12

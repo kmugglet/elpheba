@@ -1,0 +1,53 @@
+0	00:11:59.650	'10010844': modify order #154663452 buy 0.01 GBPUSD at 1.25029 sl: 0.00000 tp: 1.25322 -> sl: 1.25170 tp: 1.25528
+0	00:12:08.680	'10010844': order #154663452 buy 0.01 GBPUSD at 1.25029 was modified -> sl: 1.25170 tp: 1.25528
+0	00:12:09.716	Notifications: 'order #154663452 buy 0.01 GBPUSD at 1.25029 modified: sl: 0.00000 tp: 1.25322 -> sl: 1.25170 tp: 1.25528' sent to 'D07ADD05'
+0	00:12:11.115	'10010844': modify order #154663452 buy 0.01 GBPUSD at 1.25029 sl: 1.25170 tp: 1.25528 -> sl: 1.25173 tp: 1.25533
+0	00:12:18.438	'10010844': order #154663452 buy 0.01 GBPUSD at 1.25029 was modified -> sl: 1.25173 tp: 1.25533
+0	00:12:19.468	Notifications: 'order #154663452 buy 0.01 GBPUSD at 1.25029 modified: sl: 1.25170 tp: 1.25528 -> sl: 1.25173 tp: 1.25533' sent to 'D07ADD05'
+0	00:12:20.695	'10010844': modify order #154663452 buy 0.01 GBPUSD at 1.25029 sl: 1.25173 tp: 1.25533 -> sl: 1.25174 tp: 1.25536
+0	00:12:45.908	'10010844': order #154663452 buy 0.01 GBPUSD at 1.25029 was modified -> sl: 1.25174 tp: 1.25536
+0	00:12:45.908	'10010844': modify order #154663452 buy 0.01 GBPUSD at 1.25029 sl: 1.25174 tp: 1.25536 -> sl: 1.25177 tp: 1.25539
+0	00:12:46.943	Notifications: 'order #154663452 buy 0.01 GBPUSD at 1.25029 modified: sl: 1.25173 tp: 1.25533 -> sl: 1.25174 tp: 1.25536' sent to 'D07ADD05'
+0	00:13:33.843	'10010844': order #154663452 buy 0.01 GBPUSD at 1.25029 was modified -> sl: 1.25177 tp: 1.25539
+0	00:13:33.844	'10010844': modify order #154663452 buy 0.01 GBPUSD at 1.25029 sl: 1.25177 tp: 1.25539 -> sl: 1.25188 tp: 1.25545
+0	00:13:34.847	Notifications: 'order #154663452 buy 0.01 GBPUSD at 1.25029 modified: sl: 1.25174 tp: 1.25536 -> sl: 1.25177 tp: 1.25539' sent to 'D07ADD05'
+0	00:13:48.918	'10010844': order #154663452 buy 0.01 GBPUSD at 1.25029 was modified -> sl: 1.25188 tp: 1.25545
+0	00:13:49.897	Notifications: 'order #154663452 buy 0.01 GBPUSD at 1.25029 modified: sl: 1.25177 tp: 1.25539 -> sl: 1.25188 tp: 1.25545' sent to 'D07ADD05'
+0	00:16:36.216	'10010844': order #154663452 buy 0.01 GBPUSD at 1.25029 closed due stop-loss at price 1.25188
+0	00:16:37.227	Notifications: 'order #154663452 buy 0.01 GBPUSD at 1.25029 closed due stop-loss at price 1.25188, profit: 2.10 AUD' sent to 'D07ADD05'
+0	01:37:45.559	'10010844': login on ICMarkets-Demo01 through Demo DC #2 (ping: 91.76 ms)
+0	01:38:51.450	'10010844': login on ICMarkets-Demo01 through Demo DC #3 (ping: 78.89 ms)
+0	01:38:52.255	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 78.89 ms)
+0	01:38:52.535	'10010844': previous successful authorization performed from 138.68.53.131
+0	01:39:15.418	'10010844': ping to current access point Demo DC #3 is 78.92 ms
+0	02:00:01.442	'10010844': order buy market 0.01 GBPUSD sl: 0.00000 tp: 1.25147
+0	02:00:07.953	'10010844': order was opened : #154780487 buy 0.01 GBPUSD at 1.24850 sl: 0.00000 tp: 1.25147
+0	02:00:09.261	Notifications: 'order opened #154780487 buy 0.01 GBPUSD at 1.24850 tp: 1.25147' sent to 'D07ADD05'
+0	06:00:00.406	'10010844': order buy market 0.01 GBPUSD sl: 0.00000 tp: 1.25044
+0	06:00:19.357	'10010844': order was opened : #154796695 buy 0.01 GBPUSD at 1.24749 sl: 0.00000 tp: 1.25044
+0	06:00:38.711	Notifications: 'order opened #154796695 buy 0.01 GBPUSD at 1.24749 tp: 1.25044' sent to 'D07ADD05'
+0	07:15:08.784	'10010844': modify order #154780487 buy 0.01 GBPUSD at 1.24850 sl: 0.00000 tp: 1.25147 -> sl: 1.24872 tp: 1.24977
+1	07:15:09.008	'10010844': modification of order #154780487 buy 0.01 GBPUSD at 1.24850 sl: 0.00000 tp: 1.25147 -> sl: 1.24872 tp: 1.24977 failed [Invalid S/L or T/P]
+0	07:15:09.009	'10010844': modify order #154796695 buy 0.01 GBPUSD at 1.24749 sl: 0.00000 tp: 1.25044 -> sl: 1.24871 tp: 1.24980
+0	07:15:09.506	'10010844': order #154796695 buy 0.01 GBPUSD at 1.24749 was modified -> sl: 1.24871 tp: 1.24980
+0	07:15:09.760	Notifications: 'Close up reached @ 228.06' sent to 'D07ADD05'
+0	07:15:10.111	'10010844': modify order #154780487 buy 0.01 GBPUSD at 1.24850 sl: 0.00000 tp: 1.25147 -> sl: 1.24875 tp: 1.24980
+0	07:15:10.229	'10010844': order #154796695 buy 0.01 GBPUSD at 1.24749 closed due stop-loss at price 1.24871
+1	07:15:10.754	'10010844': modification of order #154780487 buy 0.01 GBPUSD at 1.24850 sl: 0.00000 tp: 1.25147 -> sl: 1.24875 tp: 1.24980 failed [Invalid S/L or T/P]
+0	07:15:10.937	Notifications: 'order #154796695 buy 0.01 GBPUSD at 1.24749 modified: sl: 0.00000 tp: 1.25044 -> sl: 1.24871 tp: 1.24980' sent to 'D07ADD05'
+0	07:15:11.930	Notifications: 'order #154796695 buy 0.01 GBPUSD at 1.24749 closed due stop-loss at price 1.24871, profit: 1.61 AUD' sent to 'D07ADD05'
+0	07:15:22.968	'10010844': modify order #154780487 buy 0.01 GBPUSD at 1.24850 sl: 0.00000 tp: 1.25147 -> sl: 1.24877 tp: 1.24983
+0	07:15:23.210	'10010844': order #154780487 buy 0.01 GBPUSD at 1.24850 was modified -> sl: 1.24877 tp: 1.24983
+0	07:15:23.458	'10010844': modify order #154780487 buy 0.01 GBPUSD at 1.24850 sl: 1.24877 tp: 1.24983 -> sl: 1.24881 tp: 1.24983
+0	07:15:23.555	'10010844': order #154780487 buy 0.01 GBPUSD at 1.24850 closed due stop-loss at price 1.24877
+1	07:15:23.616	'10010844': modification of invalid order #154780487
+0	07:15:24.783	Notifications: 'order #154780487 buy 0.01 GBPUSD at 1.24850 modified: sl: 0.00000 tp: 1.25147 -> sl: 1.24877 tp: 1.24983' sent to 'D07ADD05'
+0	07:15:26.061	Notifications: 'order #154780487 buy 0.01 GBPUSD at 1.24850 closed due stop-loss at price 1.24877, profit: 0.35 AUD' sent to 'D07ADD05'
+0	07:15:27.288	Notifications: 'Close up completed @ 228.15' sent to 'D07ADD05'
+0	19:01:52.393	Automated trading disabled
+3	19:01:52.397	Automated trading disabled because the account has been changed
+0	19:01:52.829	'10010844': login on ICMarkets-Demo01 through Demo DC #3 (ping: 78.92 ms)
+0	19:01:53.633	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 78.92 ms)
+0	19:01:53.951	'10010844': previous successful authorization performed from 14.202.221.27
+0	19:02:16.441	'10010844': ping to current access point Demo DC #3 is 79.00 ms
+0	19:02:59.058	Automated trading enabled

@@ -1,0 +1,76 @@
+0	02:00:32.722	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 0.000 tp: 78.801 -> sl: 79.248 tp: 78.590
+0	02:00:33.858	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.248 tp: 78.590
+0	02:00:34.790	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 0.000 tp: 78.801 -> sl: 79.248 tp: 78.590' sent to 'D07ADD05'
+0	02:00:35.483	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.248 tp: 78.590 -> sl: 79.246 tp: 78.588
+0	02:00:37.906	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.246 tp: 78.588
+0	02:00:37.906	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.246 tp: 78.588 -> sl: 79.245 tp: 78.585
+0	02:00:38.900	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.248 tp: 78.590 -> sl: 79.246 tp: 78.588' sent to 'D07ADD05'
+0	02:00:39.516	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.245 tp: 78.585
+0	02:00:40.509	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.246 tp: 78.588 -> sl: 79.245 tp: 78.585' sent to 'D07ADD05'
+0	02:00:48.478	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.245 tp: 78.585 -> sl: 79.237 tp: 78.584
+0	02:00:58.865	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.237 tp: 78.584
+0	02:00:59.549	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.245 tp: 78.585 -> sl: 79.237 tp: 78.584' sent to 'D07ADD05'
+0	02:01:07.022	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.237 tp: 78.584 -> sl: 79.232 tp: 78.576
+0	02:01:07.533	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.232 tp: 78.576
+0	02:01:08.914	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.237 tp: 78.584 -> sl: 79.232 tp: 78.576' sent to 'D07ADD05'
+0	02:01:10.044	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.232 tp: 78.576 -> sl: 79.229 tp: 78.572
+0	02:01:13.739	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.229 tp: 78.572
+0	02:01:15.302	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.232 tp: 78.576 -> sl: 79.229 tp: 78.572' sent to 'D07ADD05'
+0	02:05:53.979	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.229 tp: 78.572 -> sl: 79.228 tp: 78.575
+0	02:07:40.257	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.228 tp: 78.575
+0	02:07:40.274	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.228 tp: 78.575 -> sl: 79.218 tp: 78.565
+0	02:07:40.538	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.229 tp: 78.572 -> sl: 79.228 tp: 78.575' sent to 'D07ADD05'
+0	02:07:40.837	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.218 tp: 78.565
+0	02:07:40.940	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.218 tp: 78.565 -> sl: 79.215 tp: 78.561
+0	02:07:41.653	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.228 tp: 78.575 -> sl: 79.218 tp: 78.565' sent to 'D07ADD05'
+0	02:07:44.617	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.215 tp: 78.561
+0	02:07:44.618	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.215 tp: 78.561 -> sl: 79.212 tp: 78.560
+0	02:07:45.446	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.212 tp: 78.560
+0	02:07:45.506	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.218 tp: 78.565 -> sl: 79.215 tp: 78.561' sent to 'D07ADD05'
+0	02:07:46.579	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.215 tp: 78.561 -> sl: 79.212 tp: 78.560' sent to 'D07ADD05'
+0	02:08:12.136	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.212 tp: 78.560 -> sl: 79.204 tp: 78.548
+0	02:08:12.979	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.204 tp: 78.548
+0	02:08:14.365	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.212 tp: 78.560 -> sl: 79.204 tp: 78.548' sent to 'D07ADD05'
+0	02:08:16.717	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.204 tp: 78.548 -> sl: 79.202 tp: 78.545
+0	02:08:42.875	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.202 tp: 78.545
+0	02:08:42.879	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.202 tp: 78.545 -> sl: 79.199 tp: 78.542
+0	02:08:43.233	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.199 tp: 78.542
+0	02:08:44.036	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.204 tp: 78.548 -> sl: 79.202 tp: 78.545' sent to 'D07ADD05'
+0	02:08:45.096	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.202 tp: 78.545 -> sl: 79.199 tp: 78.542' sent to 'D07ADD05'
+0	02:08:57.742	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.199 tp: 78.542 -> sl: 79.193 tp: 78.536
+0	02:08:58.579	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.193 tp: 78.536
+0	02:08:59.549	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.199 tp: 78.542 -> sl: 79.193 tp: 78.536' sent to 'D07ADD05'
+0	02:09:05.066	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.193 tp: 78.536 -> sl: 79.191 tp: 78.533
+0	02:09:14.424	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.191 tp: 78.533
+0	02:09:15.419	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.193 tp: 78.536 -> sl: 79.191 tp: 78.533' sent to 'D07ADD05'
+0	02:10:39.969	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.191 tp: 78.533 -> sl: 79.188 tp: 78.532
+0	02:10:40.729	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.188 tp: 78.532
+0	02:10:40.729	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.188 tp: 78.532 -> sl: 79.188 tp: 78.531
+0	02:10:41.891	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.188 tp: 78.531
+0	02:10:41.892	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.188 tp: 78.531 -> sl: 79.182 tp: 78.526
+0	02:10:41.908	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.191 tp: 78.533 -> sl: 79.188 tp: 78.532' sent to 'D07ADD05'
+0	02:10:43.069	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.188 tp: 78.532 -> sl: 79.188 tp: 78.531' sent to 'D07ADD05'
+0	02:10:43.183	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.182 tp: 78.526
+0	02:10:44.739	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.188 tp: 78.531 -> sl: 79.182 tp: 78.526' sent to 'D07ADD05'
+0	02:11:01.275	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.182 tp: 78.526 -> sl: 79.181 tp: 78.526
+0	02:11:01.967	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.181 tp: 78.526
+0	02:11:03.024	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.182 tp: 78.526 -> sl: 79.181 tp: 78.526' sent to 'D07ADD05'
+0	02:11:05.144	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.181 tp: 78.526 -> sl: 79.180 tp: 78.527
+0	02:11:05.515	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.180 tp: 78.527
+0	02:11:06.545	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.181 tp: 78.526 -> sl: 79.180 tp: 78.527' sent to 'D07ADD05'
+0	02:11:09.794	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.180 tp: 78.527 -> sl: 79.178 tp: 78.522
+0	02:11:10.476	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.178 tp: 78.522
+0	02:11:10.477	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.178 tp: 78.522 -> sl: 79.174 tp: 78.518
+0	02:11:11.105	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.174 tp: 78.518
+0	02:11:11.402	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.180 tp: 78.527 -> sl: 79.178 tp: 78.522' sent to 'D07ADD05'
+0	02:11:12.388	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.178 tp: 78.522 -> sl: 79.174 tp: 78.518' sent to 'D07ADD05'
+0	02:11:13.871	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.174 tp: 78.518 -> sl: 79.171 tp: 78.514
+0	02:14:34.442	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.174 tp: 78.518 -> sl: 79.091 tp: 78.437
+0	02:14:47.813	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.091 tp: 78.437
+0	02:14:48.854	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.174 tp: 78.518 -> sl: 79.091 tp: 78.437' sent to 'D07ADD05'
+0	02:14:49.364	'10010844': modify order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.091 tp: 78.437 -> sl: 79.088 tp: 78.436
+0	02:14:50.783	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 was modified -> sl: 79.088 tp: 78.436
+0	02:14:51.670	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 modified: sl: 79.091 tp: 78.437 -> sl: 79.088 tp: 78.436' sent to 'D07ADD05'
+0	02:15:22.581	'10010844': close order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.088 tp: 78.436 at price 0.000
+0	02:15:23.942	'10010844': order #152149049 sell 0.01 AUDJPY at 79.398 sl: 79.088 tp: 78.436 closed at price 79.080
+0	02:15:24.984	Notifications: 'order #152149049 sell 0.01 AUDJPY at 79.398 closed at price 79.080, profit: 4.02 AUD' sent to 'D07ADD05'

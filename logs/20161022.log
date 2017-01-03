@@ -1,0 +1,21 @@
+0	11:33:05.386	IC Markets MT4 build 1010 started (International Capital Markets Pty Ltd.)
+0	11:33:05.386	Microsoft Windows 7 (x64 based PC), IE 09.00, 1 x Intel Pentium 4  2.40GHz, RAM: 126 / 488 Mb, HDD: 10058 / 20029 Mb, GMT+00:00
+0	11:33:05.386	Data Folder: Z:\home\keith\MT4-1
+0	11:33:05.736	Sources recompilation started
+0	11:33:08.497	Sources recompilation finished (2 compiled in 2762 msec)
+1	11:33:29.054	'10010844': connect failed [Invalid account]
+2	11:33:58.493	Expert DumpTicks EURUSD,M1: loaded successfully
+0	11:35:04.534	'10010844': login on ICMarkets-Demo01 through Demo DC US (ping: 321.94 ms)
+0	11:35:05.557	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC US (ping: 321.94 ms)
+0	11:35:05.962	'10010844': previous successful authorization performed from 220.240.65.249
+2	11:35:26.180	Expert Elpheba-20161020 EURUSD,H4: loaded successfully
+0	11:35:28.975	'10010844': ping to current access point Demo DC US is 78.87 ms
+0	11:35:40.264	Automated trading enabled
+2	21:07:26.146	Expert Elpheba-20161020 EURUSD,H4: removed
+2	21:07:26.178	Expert Elpheba-20161020 EURUSD,H4: loaded successfully
+0	21:18:38.097	'10010844': investor password changed
+0	21:20:09.369	Notifications: 'Test message from ' Muggleton Keith', 'International Capital Markets Pty Ltd.'' sent to 'D07ADD05'
+0	22:15:16.138	'10010844': login on ICMarkets-Demo01 through Demo DC (ping: 75.46 ms)
+0	22:15:58.508	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC (ping: 75.46 ms)
+0	22:15:58.813	'10010844': previous successful authorization performed from 220.240.65.249
+0	22:16:32.746	'10010844': ping to current access point Demo DC is 75.64 ms

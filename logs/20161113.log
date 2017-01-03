@@ -1,0 +1,41 @@
+1	02:56:25.448	'10010844': ping failed
+1	02:56:25.713	'10010844': connect failed [No connection]
+0	02:59:50.518	'10010844': login on ICMarkets-Demo01 through Demo DC US (ping: n/a)
+0	03:00:04.793	'10010844': login datacenter on ICMarkets-Demo01
+0	03:00:05.090	'10010844': previous successful authorization performed from 138.68.53.131
+0	03:00:17.168	'10010844': auto connecting to a better access point Demo DC #2 (ping is 84.98 ms)
+0	03:00:17.641	'10010844': login on ICMarkets-Demo01 through Demo DC #2 (ping: 84.98 ms)
+0	03:00:27.387	'10010844': previous successful authorization performed from 69.65.41.151
+1	03:06:01.547	'10010844': connect failed [No connection]
+0	03:09:41.584	'10010844': login on ICMarkets-Demo01 through Demo DC (ping: n/a)
+0	03:10:46.576	'10010844': login on ICMarkets-Demo01 through Demo DC (ping: n/a)
+1	03:12:54.198	'10010844': connect failed [No connection]
+0	03:18:34.580	'10010844': login on ICMarkets-Demo01 through Demo DC (ping: n/a)
+0	03:19:00.630	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC (ping: n/a)
+0	03:19:00.917	'10010844': previous successful authorization performed from 138.68.53.131
+0	03:19:13.773	'10010844': ping to current access point Demo DC is 75.59 ms
+0	23:07:14.793	'10010844': login on ICMarkets-Demo01 through Demo DC (ping: 75.59 ms)
+0	23:08:20.505	'10010844': login on ICMarkets-Demo01 through Demo DC #3 (ping: 78.92 ms)
+0	23:09:26.976	'10010844': login on ICMarkets-Demo01 through Demo DC #2 (ping: 87.84 ms)
+0	23:10:31.075	'10010844': login on ICMarkets-Demo01 through Demo DC #2 (ping: 87.84 ms)
+0	23:10:48.629	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: 87.84 ms)
+0	23:10:50.037	'10010844': previous successful authorization performed from 138.68.53.131
+0	23:11:02.936	'10010844': auto connecting to a better access point Demo DC #3 (ping is 78.87 ms)
+0	23:11:03.348	'10010844': login on ICMarkets-Demo01 through Demo DC #3 (ping: 78.87 ms)
+0	23:11:09.853	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 78.87 ms)
+0	23:11:10.154	'10010844': previous successful authorization performed from 138.68.53.131
+0	23:34:37.584	'10010844': modify order #154494035 sell 0.01 EURAUD at 1.43404 sl: 0.00000 tp: 1.42747 -> sl: 1.43210 tp: 1.43105
+1	23:34:37.785	'10010844': modification of order #154494035 sell 0.01 EURAUD at 1.43404 sl: 0.00000 tp: 1.42747 -> sl: 1.43210 tp: 1.43105 failed [Invalid S/L or T/P]
+0	23:34:38.491	Notifications: 'Close up reached @ 222.02' sent to 'D07ADD05'
+0	23:34:40.259	'10010844': modify order #154494035 sell 0.01 EURAUD at 1.43404 sl: 0.00000 tp: 1.42747 -> sl: 1.43209 tp: 1.43104
+0	23:34:40.473	'10010844': order #154494035 sell 0.01 EURAUD at 1.43404 was modified -> sl: 1.43209 tp: 1.43104
+0	23:34:40.609	'10010844': modify order #154494035 sell 0.01 EURAUD at 1.43404 sl: 1.43209 tp: 1.43104 -> sl: 1.43208 tp: 1.43102
+0	23:34:40.817	'10010844': order #154494035 sell 0.01 EURAUD at 1.43404 was modified -> sl: 1.43208 tp: 1.43102
+0	23:34:40.818	'10010844': modify order #154494035 sell 0.01 EURAUD at 1.43404 sl: 1.43208 tp: 1.43102 -> sl: 1.43207 tp: 1.43102
+0	23:34:41.019	'10010844': order #154494035 sell 0.01 EURAUD at 1.43404 was modified -> sl: 1.43207 tp: 1.43102
+0	23:34:41.534	Notifications: 'order #154494035 sell 0.01 EURAUD at 1.43404 modified: sl: 0.00000 tp: 1.42747 -> sl: 1.43209 tp: 1.43104' sent to 'D07ADD05'
+0	23:34:42.066	'10010844': order #154494035 sell 0.01 EURAUD at 1.43404 closed due stop-loss at price 1.43207
+0	23:34:42.606	Notifications: 'order #154494035 sell 0.01 EURAUD at 1.43404 modified: sl: 1.43209 tp: 1.43104 -> sl: 1.43208 tp: 1.43102' sent to 'D07ADD05'
+0	23:34:43.604	Notifications: 'order #154494035 sell 0.01 EURAUD at 1.43404 modified: sl: 1.43208 tp: 1.43102 -> sl: 1.43207 tp: 1.43102' sent to 'D07ADD05'
+0	23:34:45.092	Notifications: 'order #154494035 sell 0.01 EURAUD at 1.43404 closed due stop-loss at price 1.43207, profit: 1.97 AUD' sent to 'D07ADD05'
+0	23:34:46.187	Notifications: 'Close up completed @ 222.10' sent to 'D07ADD05'

@@ -1,0 +1,86 @@
+Time=1480285268 Account=10010844 Event=Initialize Equity=625.93 CloseUp=638.00
+Time=1480285274.000 Account=10010844 Event=Report Equity=625.61 CloseUp=638.00 FreeMargin=507.57 MinEquity=563.34
+Time=1480285274.000 Symbol=AUDJPY Event=Open_Trade TicketNumber=156057777 OrderType=0 OpenPrice=83.98900 Lots=0.03 TP=84.28500 SL=0.00000 Profit=2.78 Points=92.67
+Time=1480285274.000 Symbol=USDCAD Event=Open_Trade TicketNumber=156056382 OrderType=1 OpenPrice=1.35079 Lots=0.03 TP=1.34779 SL=0.00000 Profit=-2.89 Points=-96.33
+Time=1480285274.000 Symbol=XAUUSD Event=Open_Trade TicketNumber=156065934 OrderType=1 OpenPrice=1180.13000 Lots=0.03 TP=1177.13000 SL=0.00000 Profit=-18.30 Points=-610.00
+Time=1475647892 Symbol= Event=Closed_Trade TicketNumber=148482602 OrderType=6 OpenPrice=0.00000 Lots=0.01 ClosePrice=0.00000 Profit=200.00 Commission=0.00
+Time=1475793986 Symbol=EURUSD Event=Closed_Trade TicketNumber=148876199 OrderType=0 OpenPrice=1.11469 Lots=0.01 ClosePrice=1.11458 Profit=-0.14 Commission=-0.07
+Time=1475794006 Symbol=AUDUSD Event=Closed_Trade TicketNumber=148876210 OrderType=0 OpenPrice=0.75855 Lots=0.01 ClosePrice=0.75826 Profit=-0.38 Commission=-0.07
+Time=1476112692 Symbol=AUDCAD Event=Closed_Trade TicketNumber=149057054 OrderType=1 OpenPrice=1.00367 Lots=0.01 ClosePrice=1.00289 Profit=0.78 Commission=-0.07
+Time=1476101459 Symbol=AUDJPY Event=Closed_Trade TicketNumber=149159507 OrderType=0 OpenPrice=78.29500 Lots=0.01 ClosePrice=78.45500 Profit=2.04 Commission=-0.07
+Time=1476102300 Symbol=EURAUD Event=Closed_Trade TicketNumber=149159567 OrderType=1 OpenPrice=1.47308 Lots=0.01 ClosePrice=1.47096 Profit=2.12 Commission=-0.07
+Time=1476083634 Symbol=USDJPY Event=Closed_Trade TicketNumber=149182649 OrderType=0 OpenPrice=102.89700 Lots=0.01 ClosePrice=103.10800 Profit=2.69 Commission=-0.07
+Time=1476101337 Symbol=EURJPY Event=Closed_Trade TicketNumber=149221285 OrderType=0 OpenPrice=115.29600 Lots=0.01 ClosePrice=115.46600 Profit=2.17 Commission=-0.07
+Time=1476156539 Symbol=AUDUSD Event=Closed_Trade TicketNumber=149326781 OrderType=1 OpenPrice=0.75858 Lots=0.01 ClosePrice=0.75700 Profit=2.09 Commission=-0.07
+Time=1476238820 Symbol=AUDJPY Event=Closed_Trade TicketNumber=149442340 OrderType=0 OpenPrice=78.35700 Lots=0.01 ClosePrice=78.38500 Profit=0.36 Commission=-0.07
+Time=1476197170 Symbol=USDCAD Event=Closed_Trade TicketNumber=149442390 OrderType=0 OpenPrice=1.31936 Lots=0.01 ClosePrice=1.32146 Profit=2.11 Commission=-0.07
+Time=1476229604 Symbol=EURAUD Event=Closed_Trade TicketNumber=149532380 OrderType=1 OpenPrice=1.46672 Lots=0.01 ClosePrice=1.46466 Profit=2.06 Commission=-0.07
+Time=1476346888 Symbol=EURJPY Event=Closed_Trade TicketNumber=150118977 OrderType=1 OpenPrice=114.35100 Lots=0.01 ClosePrice=114.19200 Profit=2.04 Commission=-0.07
+Time=1477004524 Symbol=AUDUSD Event=Closed_Trade TicketNumber=150436501 OrderType=1 OpenPrice=0.75732 Lots=0.01 ClosePrice=0.76249 Profit=-6.78 Commission=-0.07
+Time=1476412377 Symbol=AUDJPY Event=Closed_Trade TicketNumber=150436574 OrderType=0 OpenPrice=78.62100 Lots=0.01 ClosePrice=78.90300 Profit=3.57 Commission=-0.07
+Time=1476421708 Symbol=USDJPY Event=Closed_Trade TicketNumber=150436619 OrderType=0 OpenPrice=103.81000 Lots=0.01 ClosePrice=104.03200 Profit=2.81 Commission=-0.07
+Time=1477009746 Symbol=AUDUSD Event=Closed_Trade TicketNumber=150487074 OrderType=1 OpenPrice=0.75812 Lots=0.01 ClosePrice=0.76304 Profit=-6.45 Commission=-0.07
+Time=1476666016 Symbol=EURJPY Event=Closed_Trade TicketNumber=150661687 OrderType=1 OpenPrice=114.34700 Lots=0.01 ClosePrice=114.14200 Profit=2.59 Commission=-0.07
+Time=1476475674 Symbol=AUDCAD Event=Closed_Trade TicketNumber=150661741 OrderType=1 OpenPrice=1.00203 Lots=0.01 ClosePrice=0.99938 Profit=2.65 Commission=-0.07
+Time=1477004400 Symbol=AUDCAD Event=Closed_Trade TicketNumber=150718629 OrderType=1 OpenPrice=0.99948 Lots=0.01 ClosePrice=1.00911 Profit=-9.54 Commission=-0.07
+Time=1477321205 Symbol=XAUUSD Event=Closed_Trade TicketNumber=151916753 OrderType=1 OpenPrice=1263.87000 Lots=0.01 ClosePrice=1265.06000 Profit=-1.57 Commission=-0.07
+Time=1477316109 Symbol=XAUUSD Event=Closed_Trade TicketNumber=151972831 OrderType=0 OpenPrice=1266.20000 Lots=0.01 ClosePrice=1270.50000 Profit=5.64 Commission=-0.07
+Time=1477321206 Symbol=AUDUSD Event=Closed_Trade TicketNumber=152070941 OrderType=1 OpenPrice=0.76283 Lots=0.01 ClosePrice=0.76120 Profit=2.14 Commission=-0.07
+Time=1477321205 Symbol=AUDJPY Event=Closed_Trade TicketNumber=152070952 OrderType=1 OpenPrice=79.28400 Lots=0.01 ClosePrice=79.28800 Profit=-0.05 Commission=-0.07
+Time=1477356428 Symbol=GBPAUD Event=Closed_Trade TicketNumber=152103878 OrderType=0 OpenPrice=1.60646 Lots=0.01 ClosePrice=1.60861 Profit=2.15 Commission=-0.07
+Time=1478056523 Symbol=AUDJPY Event=Closed_Trade TicketNumber=152149049 OrderType=1 OpenPrice=79.39800 Lots=0.01 ClosePrice=79.08000 Profit=4.02 Commission=-0.07
+Time=1477441053 Symbol=EURJPY Event=Closed_Trade TicketNumber=152165190 OrderType=1 OpenPrice=113.56200 Lots=0.01 ClosePrice=113.39000 Profit=2.16 Commission=-0.07
+Time=1477510174 Symbol=EURUSD Event=Closed_Trade TicketNumber=152349737 OrderType=1 OpenPrice=1.09237 Lots=0.01 ClosePrice=1.09077 Profit=2.10 Commission=-0.07
+Time=1477533388 Symbol=GBPAUD Event=Closed_Trade TicketNumber=152425205 OrderType=1 OpenPrice=1.60034 Lots=0.01 ClosePrice=1.59820 Profit=2.14 Commission=-0.07
+Time=1477989746 Symbol=AUDUSD Event=Closed_Trade TicketNumber=152439327 OrderType=0 OpenPrice=0.76441 Lots=0.01 ClosePrice=0.76665 Profit=2.92 Commission=-0.07
+Time=1478506253 Symbol=EURAUD Event=Closed_Trade TicketNumber=152439332 OrderType=1 OpenPrice=1.42644 Lots=0.01 ClosePrice=1.43954 Profit=-13.10 Commission=-0.07
+Time=1477552319 Symbol=XAUUSD Event=Closed_Trade TicketNumber=152439335 OrderType=0 OpenPrice=1265.97000 Lots=0.01 ClosePrice=1268.51000 Profit=3.33 Commission=-0.07
+Time=1477975695 Symbol=AUDUSD Event=Closed_Trade TicketNumber=152454839 OrderType=0 OpenPrice=0.76316 Lots=0.01 ClosePrice=0.76479 Profit=2.13 Commission=-0.07
+Time=1478506253 Symbol=EURGBP Event=Closed_Trade TicketNumber=153325329 OrderType=1 OpenPrice=0.88670 Lots=0.01 ClosePrice=0.89037 Profit=-5.94 Commission=-0.07
+Time=1478263978 Symbol=GBPUSD Event=Closed_Trade TicketNumber=153325349 OrderType=0 OpenPrice=1.24790 Lots=0.01 ClosePrice=1.24940 Profit=1.95 Commission=-0.07
+Time=1478225167 Symbol=AUDCAD Event=Closed_Trade TicketNumber=153325360 OrderType=0 OpenPrice=1.02655 Lots=0.01 ClosePrice=1.02895 Profit=2.33 Commission=-0.07
+Time=1478485520 Symbol=EURAUD Event=Closed_Trade TicketNumber=153598515 OrderType=1 OpenPrice=1.44580 Lots=0.01 ClosePrice=1.44327 Profit=2.53 Commission=-0.07
+Time=1478506444 Symbol=USDJPY Event=Closed_Trade TicketNumber=153598561 OrderType=1 OpenPrice=104.12200 Lots=0.01 ClosePrice=104.41800 Profit=-3.69 Commission=-0.07
+Time=1478505953 Symbol=XAUUSD Event=Closed_Trade TicketNumber=153620312 OrderType=1 OpenPrice=1290.30000 Lots=0.01 ClosePrice=1287.66000 Profit=3.44 Commission=-0.07
+Time=1478658086 Symbol=GBPAUD Event=Closed_Trade TicketNumber=153683023 OrderType=0 OpenPrice=1.61615 Lots=0.01 ClosePrice=1.61907 Profit=2.92 Commission=-0.07
+Time=1479080081 Symbol=EURAUD Event=Closed_Trade TicketNumber=154494035 OrderType=1 OpenPrice=1.43404 Lots=0.01 ClosePrice=1.43207 Profit=1.97 Commission=-0.07
+Time=1479092897 Symbol=AUDJPY Event=Closed_Trade TicketNumber=154537251 OrderType=0 OpenPrice=80.98100 Lots=0.01 ClosePrice=81.16800 Profit=2.30 Commission=-0.07
+Time=1479168994 Symbol=GBPUSD Event=Closed_Trade TicketNumber=154663452 OrderType=0 OpenPrice=1.25029 Lots=0.01 ClosePrice=1.25188 Profit=2.10 Commission=-0.07
+Time=1479194123 Symbol=GBPUSD Event=Closed_Trade TicketNumber=154780487 OrderType=0 OpenPrice=1.24850 Lots=0.01 ClosePrice=1.24877 Profit=0.35 Commission=-0.07
+Time=1479194110 Symbol=GBPUSD Event=Closed_Trade TicketNumber=154796695 OrderType=0 OpenPrice=1.24749 Lots=0.01 ClosePrice=1.24871 Profit=1.61 Commission=-0.07
+Time=1479351344 Symbol=GBPUSD Event=Closed_Trade TicketNumber=155140671 OrderType=2 OpenPrice=0.00001 Lots=0.01 ClosePrice=1.24189 Profit=0.00 Commission=0.00
+Time=1479351646 Symbol=GBPUSD Event=Closed_Trade TicketNumber=155141098 OrderType=2 OpenPrice=0.00001 Lots=0.01 ClosePrice=1.24195 Profit=0.00 Commission=0.00
+Time=1479352145 Symbol=GBPUSD Event=Closed_Trade TicketNumber=155141527 OrderType=2 OpenPrice=0.00001 Lots=0.01 ClosePrice=1.24220 Profit=0.00 Commission=0.00
+Time=1479352448 Symbol=GBPUSD Event=Closed_Trade TicketNumber=155141921 OrderType=2 OpenPrice=0.00001 Lots=0.01 ClosePrice=1.24215 Profit=0.00 Commission=0.00
+Time=1479352749 Symbol=GBPUSD Event=Closed_Trade TicketNumber=155142162 OrderType=2 OpenPrice=0.00001 Lots=0.01 ClosePrice=1.24243 Profit=0.00 Commission=0.00
+Time=1479353051 Symbol=GBPUSD Event=Closed_Trade TicketNumber=155142281 OrderType=2 OpenPrice=0.00001 Lots=0.01 ClosePrice=1.24193 Profit=0.00 Commission=0.00
+Time=1479353351 Symbol=GBPUSD Event=Closed_Trade TicketNumber=155142458 OrderType=2 OpenPrice=0.00001 Lots=0.01 ClosePrice=1.24179 Profit=0.00 Commission=0.00
+Time=1479448199 Symbol=AUDJPY Event=Closed_Trade TicketNumber=155150821 OrderType=0 OpenPrice=81.64800 Lots=0.01 ClosePrice=81.81000 Profit=1.98 Commission=-0.07
+Time=1479483964 Symbol=AUDUSD Event=Closed_Trade TicketNumber=155309741 OrderType=1 OpenPrice=0.73714 Lots=0.01 ClosePrice=0.73546 Profit=2.28 Commission=-0.07
+Time=1479481697 Symbol=AUDUSD Event=Closed_Trade TicketNumber=155312850 OrderType=1 OpenPrice=0.73807 Lots=0.01 ClosePrice=0.73661 Profit=1.98 Commission=-0.07
+Time=1479486269 Symbol=EURGBP Event=Closed_Trade TicketNumber=155340089 OrderType=0 OpenPrice=0.85945 Lots=0.01 ClosePrice=0.85897 Profit=-0.80 Commission=-0.07
+Time=1479486279 Symbol=EURJPY Event=Closed_Trade TicketNumber=155340093 OrderType=0 OpenPrice=117.03700 Lots=0.01 ClosePrice=117.20100 Profit=2.02 Commission=-0.07
+Time=1479710514 Symbol=XAUUSD Event=Closed_Trade TicketNumber=155349095 OrderType=1 OpenPrice=1207.42000 Lots=0.01 ClosePrice=1213.14000 Profit=-7.80 Commission=-0.07
+Time=1479734817 Symbol=GBPAUD Event=Closed_Trade TicketNumber=155420914 OrderType=0 OpenPrice=1.68375 Lots=0.01 ClosePrice=1.68909 Profit=5.34 Commission=-0.07
+Time=1479734890 Symbol=GBPAUD Event=Closed_Trade TicketNumber=155466729 OrderType=1 OpenPrice=1.69402 Lots=0.01 ClosePrice=1.69029 Profit=3.73 Commission=-0.07
+Time=1479747533 Symbol=AUDUSD Event=Closed_Trade TicketNumber=155468048 OrderType=1 OpenPrice=0.73695 Lots=0.01 ClosePrice=0.73554 Profit=1.92 Commission=-0.07
+Time=1479875599 Symbol=USDCAD Event=Closed_Trade TicketNumber=155468175 OrderType=0 OpenPrice=1.34672 Lots=0.01 ClosePrice=1.34445 Profit=-2.27 Commission=-0.07
+Time=1479875569 Symbol= Event=Closed_Trade TicketNumber=155683331 OrderType=6 OpenPrice=0.00000 Lots=0.01 ClosePrice=0.00000 Profit=200.00 Commission=0.00
+Time=1479883478 Symbol=EURGBP Event=Closed_Trade TicketNumber=155683413 OrderType=0 OpenPrice=0.85565 Lots=0.02 ClosePrice=0.85704 Profit=4.64 Commission=-0.14
+Time=1479889937 Symbol=XAUUSD Event=Closed_Trade TicketNumber=155690115 OrderType=1 OpenPrice=1213.02000 Lots=0.02 ClosePrice=1211.37000 Profit=4.44 Commission=-0.14
+Time=1479898004 Symbol=EURGBP Event=Closed_Trade TicketNumber=155700929 OrderType=0 OpenPrice=0.85653 Lots=0.02 ClosePrice=0.85883 Profit=7.67 Commission=-0.14
+Time=1479897810 Symbol=EURAUD Event=Closed_Trade TicketNumber=155707406 OrderType=0 OpenPrice=1.42818 Lots=0.02 ClosePrice=1.43156 Profit=6.76 Commission=-0.14
+Time=1479902063 Symbol=EURAUD Event=Closed_Trade TicketNumber=155715717 OrderType=0 OpenPrice=1.42992 Lots=0.02 ClosePrice=1.43247 Profit=5.10 Commission=-0.14
+Time=1480090660 Symbol=GBPUSD Event=Closed_Trade TicketNumber=155715896 OrderType=1 OpenPrice=1.23768 Lots=0.02 ClosePrice=1.24576 Profit=-21.75 Commission=-0.14
+Time=1479902088 Symbol=EURAUD Event=Closed_Trade TicketNumber=155715899 OrderType=0 OpenPrice=1.43030 Lots=0.02 ClosePrice=1.43233 Profit=4.06 Commission=-0.14
+Time=1480091063 Symbol=USDCHF Event=Closed_Trade TicketNumber=155715900 OrderType=1 OpenPrice=1.01044 Lots=0.02 ClosePrice=1.01347 Profit=-8.05 Commission=-0.14
+Time=1480090545 Symbol= Event=Closed_Trade TicketNumber=156054943 OrderType=6 OpenPrice=0.00000 Lots=0.01 ClosePrice=0.00000 Profit=200.00 Commission=0.00
+Time=1480093334 Symbol=USDJPY Event=Closed_Trade TicketNumber=156057785 OrderType=0 OpenPrice=113.07300 Lots=0.03 ClosePrice=113.25500 Profit=6.49 Commission=-0.21
+Time=1480285324.000 Account=10010844 Event=Report Equity=612.89 CloseUp=638.00 FreeMargin=494.85 MinEquity=563.34
+Time=1480285324.000 Symbol=AUDJPY Event=Open_Trade TicketNumber=156057777 OrderType=0 OpenPrice=83.98900 Lots=0.03 TP=84.28500 SL=0.00000 Profit=2.46 Points=82.00
+Time=1480285324.000 Symbol=USDCAD Event=Open_Trade TicketNumber=156056382 OrderType=1 OpenPrice=1.35079 Lots=0.03 TP=1.34779 SL=0.00000 Profit=-2.89 Points=-96.33
+Time=1480285324.000 Symbol=XAUUSD Event=Open_Trade TicketNumber=156065934 OrderType=1 OpenPrice=1180.13000 Lots=0.03 TP=1177.13000 SL=0.00000 Profit=-18.30 Points=-610.00
+Time=1480285384.000 Account=10010844 Event=Report Equity=612.74 CloseUp=638.00 FreeMargin=494.69 MinEquity=563.34
+Time=1480285384.000 Symbol=AUDJPY Event=Open_Trade TicketNumber=156057777 OrderType=0 OpenPrice=83.98900 Lots=0.03 TP=84.28500 SL=0.00000 Profit=2.39 Points=79.67
+Time=1480285384.000 Symbol=USDCAD Event=Open_Trade TicketNumber=156056382 OrderType=1 OpenPrice=1.35079 Lots=0.03 TP=1.34779 SL=0.00000 Profit=-2.98 Points=-99.33
+Time=1480285384.000 Symbol=XAUUSD Event=Open_Trade TicketNumber=156065934 OrderType=1 OpenPrice=1180.13000 Lots=0.03 TP=1177.13000 SL=0.00000 Profit=-18.30 Points=-610.00

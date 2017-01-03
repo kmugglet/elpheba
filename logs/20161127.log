@@ -1,0 +1,16 @@
+0	00:01:09.414	IC Markets MT4 build 1010 started (International Capital Markets Pty Ltd.)
+0	00:01:09.415	Microsoft Windows 7 (x64 based PC), IE 09.00, 1 x Intel Pentium 4  2.40GHz, RAM: 244 / 488 Mb, HDD: 6008 / 20029 Mb, GMT+00:00
+0	00:01:09.415	Data Folder: Z:\home\keith\MT4-1
+2	00:01:12.334	Expert DumpTicks EURUSD,M15: loaded successfully
+2	00:01:12.453	Expert Elpheba-20161030 AUDUSD,M1: loaded successfully
+0	00:01:13.384	'10010844': login on ICMarkets-Demo01 through Demo DC (ping: 75.36 ms)
+0	00:01:14.391	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC (ping: 75.36 ms)
+0	00:01:14.704	'10010844': previous successful authorization performed from 138.68.53.131
+1	11:38:40.607	'10010844': connect failed [No connection]
+0	11:42:08.443	'10010844': login on ICMarkets-Demo01 through Demo DC #3 (ping: n/a)
+0	11:42:36.887	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: n/a)
+0	11:42:37.183	'10010844': previous successful authorization performed from 138.68.53.131
+0	11:42:49.622	'10010844': ping to current access point Demo DC #3 is 78.03 ms
+2	21:21:20.420	Expert DumpTicks EURUSD,M15: removed
+2	21:21:20.455	Expert Elpheba-20161030 AUDUSD,M1: removed
+0	21:21:21.529	IC Markets MT4 build 1010 stopped

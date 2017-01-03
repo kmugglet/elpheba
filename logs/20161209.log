@@ -1,0 +1,618 @@
+0	00:34:25.676	'10019548': modify order #157430092 sell 0.08 EURJPY at 122.384 sl: 0.000 tp: 122.086 -> sl: 122.193 tp: 122.040
+0	00:34:34.241	'10019548': order #157430092 sell 0.08 EURJPY at 122.384 was modified -> sl: 122.193 tp: 122.040
+0	00:34:36.051	Notifications: 'order #157430092 sell 0.08 EURJPY at 122.384 modified: sl: 0.000 tp: 122.086 -> sl: 122.193 tp: 122.040' sent to 'D07ADD05'
+0	00:35:01.761	'10019548': modify order #157416546 buy 0.08 AUDCAD at 0.99075 sl: 0.00000 tp: 0.99376 -> sl: 0.98616 tp: 0.98781
+0	00:35:03.784	Notifications: 'Close up reached @ 1635.75' sent to 'D07ADD05'
+0	00:36:05.845	'10019548': order #157430092 sell 0.08 EURJPY at 122.384 closed due stop-loss at price 122.193
+0	00:36:07.795	Notifications: 'order #157430092 sell 0.08 EURJPY at 122.384 closed due stop-loss at price 122.193, profit: 17.96 AUD' sent to 'D07ADD05'
+0	00:37:55.617	'10019548': order #157053430 buy 0.09 USDCHF at 1.00999 closed due take-profit at price 1.01297
+0	00:37:57.733	Notifications: 'order #157053430 buy 0.09 USDCHF at 1.00999 closed due take-profit at price 1.01297, profit: 35.51 AUD' sent to 'D07ADD05'
+0	00:38:22.489	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 0.000 tp: 85.611 -> sl: 85.016 tp: 85.177
+0	00:39:31.166	'10019548': order #157220037 sell 0.09 EURJPY at 122.064 closed due take-profit at price 121.773
+0	00:39:33.386	Notifications: 'order #157220037 sell 0.09 EURJPY at 122.064 closed due take-profit at price 121.773, profit: 30.78 AUD' sent to 'D07ADD05'
+0	00:41:43.419	'10019548': modify order #157416536 buy 0.08 AUDUSD at 0.74955 sl: 0.00000 tp: 0.75255 -> sl: 0.74508 tp: 0.74668
+0	00:45:04.038	'10019548': modify order #157429682 sell 0.08 USDJPY at 113.484 sl: 0.000 tp: 113.184 -> sl: 114.236 tp: 114.081
+0	00:45:05.247	'10019548': order #157429682 sell 0.08 USDJPY at 113.484 was modified -> sl: 114.236 tp: 114.081
+0	00:45:05.247	'10019548': modify order #157430098 sell 0.08 USDJPY at 113.441 sl: 0.000 tp: 113.143 -> sl: 114.239 tp: 114.083
+0	00:45:07.207	Notifications: 'order #157429682 sell 0.08 USDJPY at 113.484 modified: sl: 0.000 tp: 113.184 -> sl: 114.236 tp: 114.081' sent to 'D07ADD05'
+0	00:45:39.138	'10019548': order #157429682 sell 0.08 USDJPY at 113.484 closed due stop-loss at price 114.236
+0	00:45:41.115	Notifications: 'order #157429682 sell 0.08 USDJPY at 113.484 closed due stop-loss at price 114.236, profit: -70.71 AUD' sent to 'D07ADD05'
+1	00:48:26.248	'10019548': modification of order #157430098 sell 0.08 USDJPY at 113.441 sl: 0.000 tp: 113.143 -> sl: 114.239 tp: 114.083 failed [Trade timeout]
+0	00:48:26.298	'10019548': modify order #157416546 buy 0.08 AUDCAD at 0.99075 sl: 0.00000 tp: 0.99376 -> sl: 0.98554 tp: 0.98716
+0	00:48:27.137	'10019548': order #157416546 buy 0.08 AUDCAD at 0.99075 was modified -> sl: 0.98554 tp: 0.98716
+0	00:48:27.138	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 0.000 tp: 85.611 -> sl: 85.036 tp: 85.199
+0	00:48:27.849	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.036 tp: 85.199
+0	00:48:27.849	'10019548': modify order #157416536 buy 0.08 AUDUSD at 0.74955 sl: 0.00000 tp: 0.75255 -> sl: 0.74422 tp: 0.74580
+0	00:48:30.421	Notifications: 'order #157416546 buy 0.08 AUDCAD at 0.99075 modified: sl: 0.00000 tp: 0.99376 -> sl: 0.98554 tp: 0.98716' sent to 'D07ADD05'
+0	00:48:33.754	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 0.000 tp: 85.611 -> sl: 85.036 tp: 85.199' sent to 'D07ADD05'
+0	00:48:43.316	'10019548': order #157416536 buy 0.08 AUDUSD at 0.74955 was modified -> sl: 0.74422 tp: 0.74580
+0	00:48:43.316	'10019548': modify order #157430098 sell 0.08 USDJPY at 113.441 sl: 0.000 tp: 113.143 -> sl: 114.304 tp: 114.152
+0	00:48:43.872	'10019548': order #157430098 sell 0.08 USDJPY at 113.441 was modified -> sl: 114.304 tp: 114.152
+0	00:48:43.872	'10019548': modify order #157049251 sell 0.09 XAUUSD at 1163.67 sl: 0.00 tp: 1160.57 -> sl: 1170.57 tp: 1169.00
+0	00:48:44.558	'10019548': order #157049251 sell 0.09 XAUUSD at 1163.67 was modified -> sl: 1170.57 tp: 1169.00
+0	00:48:44.610	'10019548': modify order #157416536 buy 0.08 AUDUSD at 0.74955 sl: 0.74422 tp: 0.74580 -> sl: 0.74428 tp: 0.74581
+0	00:48:45.257	'10019548': order #157416536 buy 0.08 AUDUSD at 0.74955 was modified -> sl: 0.74428 tp: 0.74581
+0	00:48:45.258	'10019548': modify order #157430098 sell 0.08 USDJPY at 113.441 sl: 114.304 tp: 114.152 -> sl: 114.293 tp: 114.138
+0	00:48:45.282	Notifications: 'order #157416536 buy 0.08 AUDUSD at 0.74955 modified: sl: 0.00000 tp: 0.75255 -> sl: 0.74422 tp: 0.74580' sent to 'D07ADD05'
+0	00:48:45.934	'10019548': order #157430098 sell 0.08 USDJPY at 113.441 was modified -> sl: 114.293 tp: 114.138
+0	00:48:45.934	'10019548': modify order #157430098 sell 0.08 USDJPY at 113.441 sl: 114.293 tp: 114.138 -> sl: 114.290 tp: 114.136
+0	00:48:47.246	Notifications: 'order #157430098 sell 0.08 USDJPY at 113.441 modified: sl: 0.000 tp: 113.143 -> sl: 114.304 tp: 114.152' sent to 'D07ADD05'
+0	00:48:48.808	'10019548': order #157430098 sell 0.08 USDJPY at 113.441 was modified -> sl: 114.290 tp: 114.136
+0	00:48:49.168	Notifications: 'order #157049251 sell 0.09 XAUUSD at 1163.67 modified: sl: 0.00 tp: 1160.57 -> sl: 1170.57 tp: 1169.00' sent to 'D07ADD05'
+0	00:48:51.166	Notifications: 'order #157416536 buy 0.08 AUDUSD at 0.74955 modified: sl: 0.74422 tp: 0.74580 -> sl: 0.74428 tp: 0.74581' sent to 'D07ADD05'
+0	00:48:51.377	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.036 tp: 85.199 -> sl: 85.037 tp: 85.196
+0	00:48:52.470	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.037 tp: 85.196
+0	00:48:52.470	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.037 tp: 85.196 -> sl: 85.041 tp: 85.203
+0	00:48:53.252	Notifications: 'order #157430098 sell 0.08 USDJPY at 113.441 modified: sl: 114.304 tp: 114.152 -> sl: 114.293 tp: 114.138' sent to 'D07ADD05'
+0	00:48:53.545	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.041 tp: 85.203
+0	00:48:53.545	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.041 tp: 85.203 -> sl: 85.048 tp: 85.210
+0	00:48:54.282	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.048 tp: 85.210
+0	00:48:54.282	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.048 tp: 85.210 -> sl: 85.052 tp: 85.213
+0	00:48:54.731	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.052 tp: 85.213
+0	00:48:55.206	Notifications: 'order #157430098 sell 0.08 USDJPY at 113.441 modified: sl: 114.293 tp: 114.138 -> sl: 114.290 tp: 114.136' sent to 'D07ADD05'
+0	00:48:55.658	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.052 tp: 85.213 -> sl: 85.054 tp: 85.214
+0	00:48:56.169	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.054 tp: 85.214
+0	00:48:57.185	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.036 tp: 85.199 -> sl: 85.037 tp: 85.196' sent to 'D07ADD05'
+0	00:48:59.058	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.054 tp: 85.214 -> sl: 85.055 tp: 85.213
+0	00:48:59.116	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.037 tp: 85.196 -> sl: 85.041 tp: 85.203' sent to 'D07ADD05'
+0	00:49:00.012	'10019548': order #157430098 sell 0.08 USDJPY at 113.441 closed due stop-loss at price 114.290
+0	00:49:01.038	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.041 tp: 85.203 -> sl: 85.048 tp: 85.210' sent to 'D07ADD05'
+0	00:49:02.964	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.048 tp: 85.210 -> sl: 85.052 tp: 85.213' sent to 'D07ADD05'
+0	00:49:04.902	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.052 tp: 85.213 -> sl: 85.054 tp: 85.214' sent to 'D07ADD05'
+0	00:49:06.832	Notifications: 'order #157430098 sell 0.08 USDJPY at 113.441 closed due stop-loss at price 114.290, profit: -79.80 AUD' sent to 'D07ADD05'
+0	00:49:58.877	'10019548': order #157049251 sell 0.09 XAUUSD at 1163.67 closed due stop-loss at price 1170.57
+0	00:50:00.820	Notifications: 'order #157049251 sell 0.09 XAUUSD at 1163.67 closed due stop-loss at price 1170.57, profit: -83.41 AUD' sent to 'D07ADD05'
+0	00:50:13.412	'10019548': order #157416536 buy 0.08 AUDUSD at 0.74955 closed due stop-loss at price 0.74428
+0	00:50:15.452	Notifications: 'order #157416536 buy 0.08 AUDUSD at 0.74955 closed due stop-loss at price 0.74428, profit: -56.65 AUD' sent to 'D07ADD05'
+1	00:52:20.060	'10019548': modification of order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.054 tp: 85.214 -> sl: 85.055 tp: 85.213 failed [Trade timeout]
+0	00:52:20.061	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.054 tp: 85.214 -> sl: 85.079 tp: 85.241
+0	00:54:47.640	'10019548': order #157416546 buy 0.08 AUDCAD at 0.99075 closed due stop-loss at price 0.98554
+0	00:54:49.690	Notifications: 'order #157416546 buy 0.08 AUDCAD at 0.99075 closed due stop-loss at price 0.98554, profit: -42.29 AUD' sent to 'D07ADD05'
+1	00:55:41.062	'10019548': modification of order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.054 tp: 85.214 -> sl: 85.079 tp: 85.241 failed [Trade timeout]
+0	00:58:05.243	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.054 tp: 85.214 -> sl: 85.080 tp: 85.240
+0	00:58:05.803	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.080 tp: 85.240
+0	00:58:06.520	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.080 tp: 85.240 -> sl: 85.082 tp: 85.243
+0	00:58:07.005	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.082 tp: 85.243
+0	00:58:07.093	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.082 tp: 85.243 -> sl: 85.086 tp: 85.248
+0	00:58:07.693	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.086 tp: 85.248
+0	00:58:07.835	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.054 tp: 85.214 -> sl: 85.080 tp: 85.240' sent to 'D07ADD05'
+0	00:58:08.095	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.086 tp: 85.248 -> sl: 85.087 tp: 85.247
+0	00:58:08.636	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.087 tp: 85.247
+0	00:58:08.751	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.087 tp: 85.247 -> sl: 85.089 tp: 85.251
+0	00:58:09.786	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.080 tp: 85.240 -> sl: 85.082 tp: 85.243' sent to 'D07ADD05'
+0	00:58:09.789	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.089 tp: 85.251
+0	00:58:09.790	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.089 tp: 85.251 -> sl: 85.093 tp: 85.256
+0	00:58:10.476	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.093 tp: 85.256
+0	00:58:10.477	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.093 tp: 85.256 -> sl: 85.095 tp: 85.254
+0	00:58:11.302	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.095 tp: 85.254
+0	00:58:11.647	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.095 tp: 85.254 -> sl: 85.096 tp: 85.258
+0	00:58:11.846	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.082 tp: 85.243 -> sl: 85.086 tp: 85.248' sent to 'D07ADD05'
+0	00:58:12.101	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.096 tp: 85.258
+0	00:58:12.101	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.096 tp: 85.258 -> sl: 85.099 tp: 85.261
+0	00:58:12.975	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.099 tp: 85.261
+0	00:58:13.790	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.086 tp: 85.248 -> sl: 85.087 tp: 85.247' sent to 'D07ADD05'
+0	00:58:15.863	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.087 tp: 85.247 -> sl: 85.089 tp: 85.251' sent to 'D07ADD05'
+0	00:58:17.781	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.089 tp: 85.251 -> sl: 85.093 tp: 85.256' sent to 'D07ADD05'
+0	00:58:19.716	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.093 tp: 85.256 -> sl: 85.095 tp: 85.254' sent to 'D07ADD05'
+0	00:58:21.703	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.095 tp: 85.254 -> sl: 85.096 tp: 85.258' sent to 'D07ADD05'
+0	00:58:23.649	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.096 tp: 85.258 -> sl: 85.099 tp: 85.261' sent to 'D07ADD05'
+0	00:58:37.635	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.099 tp: 85.261 -> sl: 85.101 tp: 85.263
+0	00:58:38.312	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.101 tp: 85.263
+0	00:58:38.313	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.101 tp: 85.263 -> sl: 85.103 tp: 85.262
+0	00:58:38.898	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.103 tp: 85.262
+0	00:58:40.092	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.099 tp: 85.261 -> sl: 85.101 tp: 85.263' sent to 'D07ADD05'
+0	00:58:42.080	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.101 tp: 85.263 -> sl: 85.103 tp: 85.262' sent to 'D07ADD05'
+0	01:00:20.570	'10019548': modify order #157052952 buy 0.09 AUDJPY at 85.311 sl: 85.103 tp: 85.262 -> sl: 85.105 tp: 85.268
+0	01:00:23.917	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 was modified -> sl: 85.105 tp: 85.268
+0	01:00:25.801	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 modified: sl: 85.103 tp: 85.262 -> sl: 85.105 tp: 85.268' sent to 'D07ADD05'
+0	01:01:31.598	'10019548': order #157052952 buy 0.09 AUDJPY at 85.311 closed due stop-loss at price 85.105
+0	01:01:33.552	Notifications: 'order #157052952 buy 0.09 AUDJPY at 85.311 closed due stop-loss at price 85.105, profit: -21.78 AUD' sent to 'D07ADD05'
+0	01:01:35.478	Notifications: 'Close up completed @ 1633.27' sent to 'D07ADD05'
+0	01:06:09.295	'10019548': order buy market 0.08 EURUSD sl: 0.00000 tp: 1.07014
+1	01:09:30.296	'10019548': order buy 0.08 EURUSD opening at market sl: 0.00000 tp: 1.07014 failed [Trade timeout]
+0	01:10:01.239	'10019548': order buy market 0.08 USDCAD sl: 0.00000 tp: 1.32522
+1	01:13:22.240	'10019548': order buy 0.08 USDCAD opening at market sl: 0.00000 tp: 1.32522 failed [Trade timeout]
+0	01:13:22.242	'10019548': order sell market 0.08 XAUUSD sl: 0.00 tp: 1170.89
+1	01:16:43.245	'10019548': order sell 0.08 XAUUSD opening at market sl: 0.00 tp: 1170.89 failed [Trade timeout]
+0	01:16:43.248	'10019548': order buy market 0.08 AUDJPY sl: 0.000 tp: 85.407
+0	01:16:43.940	'10019548': order was opened : #157467685 buy 0.08 AUDJPY at 85.107 sl: 0.000 tp: 85.407
+0	01:16:43.942	'10019548': order sell market 0.08 XAUUSD sl: 0.00 tp: 1168.85
+0	01:16:45.768	Notifications: 'order opened #157467685 buy 0.08 AUDJPY at 85.107 tp: 85.407' sent to 'D07ADD05'
+0	01:16:50.639	'10019548': order was opened : #157467718 sell 0.08 XAUUSD at 1171.80 sl: 0.00 tp: 1168.85
+0	01:16:52.581	Notifications: 'order opened #157467718 sell 0.08 XAUUSD at 1171.80 tp: 1168.85' sent to 'D07ADD05'
+0	01:50:00.786	'10019548': order sell market 0.08 GBPAUD sl: 0.00000 tp: 1.68939
+0	01:52:08.560	'10019548': order was opened : #157477985 sell 0.08 GBPAUD at 1.69312 sl: 0.00000 tp: 1.68939
+0	01:52:10.644	Notifications: 'order opened #157477985 sell 0.08 GBPAUD at 1.69312 tp: 1.68939' sent to 'D07ADD05'
+0	01:53:29.764	'10019548': modify order #157467718 sell 0.08 XAUUSD at 1171.80 sl: 0.00 tp: 1168.85 -> sl: 1170.29 tp: 1168.67
+0	01:53:37.309	'10019548': order #157467718 sell 0.08 XAUUSD at 1171.80 was modified -> sl: 1170.29 tp: 1168.67
+0	01:53:39.185	Notifications: 'order #157467718 sell 0.08 XAUUSD at 1171.80 modified: sl: 0.00 tp: 1168.85 -> sl: 1170.29 tp: 1168.67' sent to 'D07ADD05'
+0	01:53:44.700	'10019548': order #157467718 sell 0.08 XAUUSD at 1171.80 closed due stop-loss at price 1170.29
+0	01:53:47.787	Notifications: 'order #157467718 sell 0.08 XAUUSD at 1171.80 closed due stop-loss at price 1170.29, profit: 16.24 AUD' sent to 'D07ADD05'
+0	02:00:00.322	'10019548': order sell market 0.08 GBPAUD sl: 0.00000 tp: 1.68874
+1	02:03:21.322	'10019548': order sell 0.08 GBPAUD opening at market sl: 0.00000 tp: 1.68874 failed [Trade timeout]
+0	02:20:24.347	Notifications: 'order opened #157484974 sell 0.08 GBPAUD at 1.69180 tp: 1.68874' sent to 'D07ADD05'
+0	02:23:28.932	Notifications: 'order opened #157486066 sell 0.08 XAUUSD at 1171.99 tp: 1170.89' sent to 'D07ADD05'
+0	02:23:30.873	Notifications: 'order opened #157486110 buy 0.08 USDCAD at 1.32030 tp: 1.32522' sent to 'D07ADD05'
+0	02:23:36.975	Notifications: 'order opened #157486249 buy 0.08 EURUSD at 1.06262 tp: 1.07014' sent to 'D07ADD05'
+0	02:26:13.686	'10019548': order #157486066 sell 0.08 XAUUSD at 1171.99 closed due take-profit at price 1170.89
+0	02:26:15.627	Notifications: 'order #157486066 sell 0.08 XAUUSD at 1171.99 closed due take-profit at price 1170.89, profit: 11.83 AUD' sent to 'D07ADD05'
+1	02:34:19.245	'10019548': datacenter connecting failed [6]
+1	02:34:28.293	'10019548': connect failed [No connection]
+1	04:51:47.910	MQL5.community: failed to start thread
+1	04:52:07.940	MQL5.community: failed to start thread
+1	04:52:26.944	MQL5.community: failed to start thread
+1	04:52:46.942	MQL5.community: failed to start thread
+1	04:53:05.944	MQL5.community: failed to start thread
+1	04:53:25.964	MQL5.community: failed to start thread
+1	04:53:45.984	MQL5.community: failed to start thread
+1	04:54:04.980	MQL5.community: failed to start thread
+1	04:54:24.988	MQL5.community: failed to start thread
+1	04:54:43.996	MQL5.community: failed to start thread
+1	04:55:04.016	MQL5.community: failed to start thread
+1	04:55:24.036	MQL5.community: failed to start thread
+1	04:55:43.032	MQL5.community: failed to start thread
+1	04:56:03.045	MQL5.community: failed to start thread
+1	04:56:22.045	MQL5.community: failed to start thread
+1	04:56:42.065	MQL5.community: failed to start thread
+1	04:57:02.085	MQL5.community: failed to start thread
+1	04:57:21.073	MQL5.community: failed to start thread
+1	04:57:41.092	MQL5.community: failed to start thread
+1	04:58:00.101	MQL5.community: failed to start thread
+1	04:58:20.126	MQL5.community: failed to start thread
+1	04:58:40.144	MQL5.community: failed to start thread
+1	04:58:59.133	MQL5.community: failed to start thread
+1	04:59:19.137	MQL5.community: failed to start thread
+1	04:59:38.149	MQL5.community: failed to start thread
+1	04:59:58.169	MQL5.community: failed to start thread
+1	05:00:18.206	MQL5.community: failed to start thread
+1	05:00:37.174	MQL5.community: failed to start thread
+1	05:00:57.184	MQL5.community: failed to start thread
+1	05:01:16.197	MQL5.community: failed to start thread
+1	05:01:36.216	MQL5.community: failed to start thread
+1	05:01:56.232	MQL5.community: failed to start thread
+1	05:02:15.216	MQL5.community: failed to start thread
+1	05:02:35.228	MQL5.community: failed to start thread
+1	05:02:54.228	MQL5.community: failed to start thread
+1	05:03:14.249	MQL5.community: failed to start thread
+1	05:03:34.269	MQL5.community: failed to start thread
+1	05:03:53.262	MQL5.community: failed to start thread
+1	05:04:27.276	MQL5.community: failed to start thread
+1	05:04:46.285	MQL5.community: failed to start thread
+1	05:05:21.337	MQL5.community: failed to start thread
+1	05:05:40.188	MQL5.community: failed to start thread
+1	05:05:59.316	MQL5.community: failed to start thread
+1	05:06:34.361	MQL5.community: failed to start thread
+1	05:06:54.380	MQL5.community: failed to start thread
+1	05:07:43.377	MQL5.community: failed to start thread
+1	05:08:02.388	MQL5.community: failed to start thread
+1	05:08:37.442	MQL5.community: failed to start thread
+1	05:08:57.461	MQL5.community: failed to start thread
+1	05:09:32.511	MQL5.community: failed to start thread
+1	05:10:05.417	MQL5.community: failed to start thread
+1	05:10:25.417	MQL5.community: failed to start thread
+1	05:10:44.418	MQL5.community: authorization failed
+1	05:19:00.893	MQL5.community: failed to start thread
+1	05:24:00.893	MQL5.community: failed to start thread
+1	05:29:00.894	MQL5.community: failed to start thread
+1	05:33:09.146	MQL5.community: authorization failed
+1	05:39:00.893	MQL5.community: failed to start thread
+1	05:44:00.893	MQL5.community: failed to start thread
+1	05:49:00.894	MQL5.community: failed to start thread
+1	05:54:00.893	MQL5.community: failed to start thread
+1	05:55:33.879	MQL5.community: authorization failed
+1	06:04:00.892	MQL5.community: failed to start thread
+1	06:09:00.894	MQL5.community: failed to start thread
+1	06:14:00.893	MQL5.community: failed to start thread
+1	06:17:58.583	MQL5.community: authorization failed
+1	06:24:00.892	MQL5.community: failed to start thread
+1	06:29:00.892	MQL5.community: failed to start thread
+1	06:34:00.892	MQL5.community: failed to start thread
+1	06:39:00.893	MQL5.community: failed to start thread
+1	06:40:23.279	MQL5.community: authorization failed
+1	06:49:00.893	MQL5.community: failed to start thread
+1	06:54:00.893	MQL5.community: failed to start thread
+1	06:59:00.892	MQL5.community: failed to start thread
+1	07:02:47.948	MQL5.community: authorization failed
+1	07:09:00.894	MQL5.community: failed to start thread
+1	07:14:00.893	MQL5.community: failed to start thread
+1	07:19:00.893	MQL5.community: failed to start thread
+1	07:24:00.892	MQL5.community: failed to start thread
+1	07:25:12.660	MQL5.community: authorization failed
+1	07:34:00.893	MQL5.community: failed to start thread
+1	07:39:00.894	MQL5.community: failed to start thread
+1	07:44:00.893	MQL5.community: failed to start thread
+1	07:47:37.400	MQL5.community: authorization failed
+1	07:54:00.893	MQL5.community: failed to start thread
+1	07:59:00.893	MQL5.community: failed to start thread
+1	08:04:00.893	MQL5.community: failed to start thread
+1	08:09:00.893	MQL5.community: failed to start thread
+1	08:10:02.090	MQL5.community: authorization failed
+1	08:19:00.894	MQL5.community: failed to start thread
+1	08:24:00.892	MQL5.community: failed to start thread
+1	08:29:00.894	MQL5.community: failed to start thread
+1	08:32:26.803	MQL5.community: authorization failed
+1	08:39:00.893	MQL5.community: failed to start thread
+1	08:44:00.892	MQL5.community: failed to start thread
+1	08:49:00.892	MQL5.community: failed to start thread
+1	08:54:00.892	MQL5.community: failed to start thread
+1	08:54:51.490	MQL5.community: authorization failed
+1	09:04:00.893	MQL5.community: failed to start thread
+1	09:09:00.894	MQL5.community: failed to start thread
+1	09:14:00.896	MQL5.community: failed to start thread
+1	09:17:16.159	MQL5.community: authorization failed
+1	09:24:00.893	MQL5.community: failed to start thread
+1	09:29:00.893	MQL5.community: failed to start thread
+1	09:34:00.893	MQL5.community: failed to start thread
+1	09:39:00.892	MQL5.community: failed to start thread
+1	09:39:40.868	MQL5.community: authorization failed
+1	09:49:00.893	MQL5.community: failed to start thread
+1	09:54:00.892	MQL5.community: failed to start thread
+1	09:59:00.892	MQL5.community: failed to start thread
+1	10:02:05.594	MQL5.community: authorization failed
+1	10:09:00.894	MQL5.community: failed to start thread
+1	10:14:00.892	MQL5.community: failed to start thread
+1	10:19:00.893	MQL5.community: failed to start thread
+1	10:24:00.894	MQL5.community: failed to start thread
+1	10:24:30.223	MQL5.community: authorization failed
+1	10:34:00.892	MQL5.community: failed to start thread
+1	10:39:00.893	MQL5.community: failed to start thread
+1	10:44:00.892	MQL5.community: failed to start thread
+1	10:46:54.931	MQL5.community: authorization failed
+1	10:54:00.892	MQL5.community: failed to start thread
+1	10:59:00.892	MQL5.community: failed to start thread
+1	11:04:00.894	MQL5.community: failed to start thread
+1	11:09:00.892	MQL5.community: failed to start thread
+1	11:09:19.607	MQL5.community: authorization failed
+1	11:19:00.893	MQL5.community: failed to start thread
+1	11:24:00.892	MQL5.community: failed to start thread
+1	11:29:00.893	MQL5.community: failed to start thread
+1	11:31:44.307	MQL5.community: authorization failed
+1	11:39:00.893	MQL5.community: failed to start thread
+1	11:44:00.892	MQL5.community: failed to start thread
+1	11:49:00.893	MQL5.community: failed to start thread
+1	11:54:00.892	MQL5.community: failed to start thread
+1	11:54:09.006	MQL5.community: authorization failed
+1	12:04:00.893	MQL5.community: failed to start thread
+1	12:09:00.893	MQL5.community: failed to start thread
+1	12:14:00.892	MQL5.community: failed to start thread
+1	12:16:33.683	MQL5.community: authorization failed
+1	12:24:00.894	MQL5.community: failed to start thread
+1	12:29:00.892	MQL5.community: failed to start thread
+1	12:34:00.894	MQL5.community: failed to start thread
+1	12:38:58.361	MQL5.community: authorization failed
+1	12:44:00.894	MQL5.community: failed to start thread
+1	12:49:00.894	MQL5.community: failed to start thread
+1	12:54:00.893	MQL5.community: failed to start thread
+1	12:59:00.893	MQL5.community: failed to start thread
+1	13:01:23.043	MQL5.community: authorization failed
+1	13:09:00.893	MQL5.community: failed to start thread
+1	13:14:00.894	MQL5.community: failed to start thread
+1	13:19:00.893	MQL5.community: failed to start thread
+1	13:23:47.773	MQL5.community: authorization failed
+1	13:29:00.893	MQL5.community: failed to start thread
+1	13:34:00.893	MQL5.community: failed to start thread
+1	13:39:00.893	MQL5.community: failed to start thread
+1	13:44:00.893	MQL5.community: failed to start thread
+1	13:46:12.472	MQL5.community: authorization failed
+1	13:54:00.893	MQL5.community: failed to start thread
+1	13:59:00.893	MQL5.community: failed to start thread
+1	14:04:00.893	MQL5.community: failed to start thread
+1	14:08:37.188	MQL5.community: authorization failed
+1	14:14:00.892	MQL5.community: failed to start thread
+1	14:19:00.892	MQL5.community: failed to start thread
+1	14:24:00.893	MQL5.community: failed to start thread
+1	14:29:00.893	MQL5.community: failed to start thread
+1	14:31:01.908	MQL5.community: authorization failed
+1	14:39:00.894	MQL5.community: failed to start thread
+1	14:44:00.892	MQL5.community: failed to start thread
+1	14:49:00.893	MQL5.community: failed to start thread
+1	14:53:26.628	MQL5.community: authorization failed
+1	14:59:00.893	MQL5.community: failed to start thread
+1	15:04:00.893	MQL5.community: failed to start thread
+1	15:09:00.894	MQL5.community: failed to start thread
+1	15:14:00.893	MQL5.community: failed to start thread
+1	15:15:51.376	MQL5.community: authorization failed
+1	15:24:00.894	MQL5.community: failed to start thread
+1	15:29:00.892	MQL5.community: failed to start thread
+1	15:34:00.892	MQL5.community: failed to start thread
+1	15:38:16.124	MQL5.community: authorization failed
+1	15:44:00.892	MQL5.community: failed to start thread
+1	15:49:00.893	MQL5.community: failed to start thread
+1	15:54:00.892	MQL5.community: failed to start thread
+1	15:59:00.893	MQL5.community: failed to start thread
+1	16:00:40.832	MQL5.community: authorization failed
+1	16:09:00.892	MQL5.community: failed to start thread
+1	16:14:00.894	MQL5.community: failed to start thread
+1	16:19:00.892	MQL5.community: failed to start thread
+1	16:23:05.590	MQL5.community: authorization failed
+1	16:29:00.894	MQL5.community: failed to start thread
+1	16:34:00.892	MQL5.community: failed to start thread
+1	16:39:00.893	MQL5.community: failed to start thread
+1	16:44:00.892	MQL5.community: failed to start thread
+1	16:45:30.352	MQL5.community: authorization failed
+1	16:54:00.893	MQL5.community: failed to start thread
+1	16:59:00.892	MQL5.community: failed to start thread
+1	17:04:00.892	MQL5.community: failed to start thread
+1	17:07:55.041	MQL5.community: authorization failed
+0	17:09:44.981	'10019548': login on ICMarkets-Demo01 through Demo DC (ping: n/a)
+0	17:09:48.191	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC (ping: n/a)
+0	17:09:48.816	'10019548': modify order #157467685 buy 0.08 AUDJPY at 85.107 sl: 0.000 tp: 85.407 -> sl: 85.355 tp: 85.510
+0	17:09:48.863	'10019548': previous successful authorization performed from 139.5.78.154
+0	17:09:48.863	'10019548': modify order #157477985 sell 0.08 GBPAUD at 1.69312 sl: 0.00000 tp: 1.68939 -> sl: 1.68694 tp: 1.68518
+0	17:09:50.774	Notifications: 'Close up reached @ 1763.80' sent to 'D07ADD05'
+0	17:10:07.154	'10019548': auto connecting to a better access point Demo DC #2 (ping is 265.95 ms)
+0	17:10:09.487	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 265.95 ms)
+0	17:10:14.287	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: 265.95 ms)
+0	17:10:15.215	'10019548': previous successful authorization performed from 139.5.78.154
+0	17:10:15.215	'10019548': modify order #157486249 buy 0.08 EURUSD at 1.06262 sl: 0.00000 tp: 1.07014 -> sl: 1.06104 tp: 1.06256
+0	17:10:15.967	'10019548': order #157486249 buy 0.08 EURUSD at 1.06262 was modified -> sl: 1.06104 tp: 1.06256
+0	17:10:15.968	'10019548': modify order #157486110 buy 0.08 USDCAD at 1.32030 sl: 0.00000 tp: 1.32522 -> sl: 1.31901 tp: 1.32061
+0	17:10:17.147	'10019548': order #157486110 buy 0.08 USDCAD at 1.32030 was modified -> sl: 1.31901 tp: 1.32061
+0	17:10:17.208	'10019548': modify order #157486249 buy 0.08 EURUSD at 1.06262 sl: 1.06104 tp: 1.06256 -> sl: 1.06105 tp: 1.06257
+0	17:10:17.757	Notifications: 'order #157486249 buy 0.08 EURUSD at 1.06262 modified: sl: 0.00000 tp: 1.07014 -> sl: 1.06104 tp: 1.06256' sent to 'D07ADD05'
+0	17:10:17.902	'10019548': order #157486249 buy 0.08 EURUSD at 1.06262 was modified -> sl: 1.06105 tp: 1.06257
+0	17:10:19.675	Notifications: 'order #157486110 buy 0.08 USDCAD at 1.32030 modified: sl: 0.00000 tp: 1.32522 -> sl: 1.31901 tp: 1.32061' sent to 'D07ADD05'
+0	17:10:21.585	Notifications: 'order #157486249 buy 0.08 EURUSD at 1.06262 modified: sl: 1.06104 tp: 1.06256 -> sl: 1.06105 tp: 1.06257' sent to 'D07ADD05'
+0	17:12:08.351	'10019548': modify order #157486249 buy 0.08 EURUSD at 1.06262 sl: 1.06105 tp: 1.06257 -> sl: 1.06112 tp: 1.06263
+0	17:12:11.375	'10019548': order #157486249 buy 0.08 EURUSD at 1.06262 was modified -> sl: 1.06112 tp: 1.06263
+0	17:12:11.376	'10019548': modify order #157486249 buy 0.08 EURUSD at 1.06262 sl: 1.06112 tp: 1.06263 -> sl: 1.06117 tp: 1.06269
+0	17:12:13.254	Notifications: 'order #157486249 buy 0.08 EURUSD at 1.06262 modified: sl: 1.06105 tp: 1.06257 -> sl: 1.06112 tp: 1.06263' sent to 'D07ADD05'
+0	17:12:13.600	'10019548': order #157486249 buy 0.08 EURUSD at 1.06262 was modified -> sl: 1.06117 tp: 1.06269
+0	17:12:13.600	'10019548': modify order #157486249 buy 0.08 EURUSD at 1.06262 sl: 1.06117 tp: 1.06269 -> sl: 1.06124 tp: 1.06276
+0	17:12:15.396	Notifications: 'order #157486249 buy 0.08 EURUSD at 1.06262 modified: sl: 1.06112 tp: 1.06263 -> sl: 1.06117 tp: 1.06269' sent to 'D07ADD05'
+0	17:12:16.150	'10019548': order #157486249 buy 0.08 EURUSD at 1.06262 was modified -> sl: 1.06124 tp: 1.06276
+0	17:12:17.956	Notifications: 'order #157486249 buy 0.08 EURUSD at 1.06262 modified: sl: 1.06117 tp: 1.06269 -> sl: 1.06124 tp: 1.06276' sent to 'D07ADD05'
+0	17:12:20.928	'10019548': modify order #157486249 buy 0.08 EURUSD at 1.06262 sl: 1.06124 tp: 1.06276 -> sl: 1.06127 tp: 1.06279
+0	17:12:23.436	'10019548': order #157486249 buy 0.08 EURUSD at 1.06262 was modified -> sl: 1.06127 tp: 1.06279
+0	17:12:25.202	Notifications: 'order #157486249 buy 0.08 EURUSD at 1.06262 modified: sl: 1.06124 tp: 1.06276 -> sl: 1.06127 tp: 1.06279' sent to 'D07ADD05'
+0	17:14:21.971	'10019548': modify order #157486249 buy 0.08 EURUSD at 1.06262 sl: 1.06127 tp: 1.06279 -> sl: 1.06130 tp: 1.06281
+0	17:14:23.392	'10019548': order #157486249 buy 0.08 EURUSD at 1.06262 was modified -> sl: 1.06130 tp: 1.06281
+0	17:14:23.392	'10019548': modify order #157486249 buy 0.08 EURUSD at 1.06262 sl: 1.06130 tp: 1.06281 -> sl: 1.06134 tp: 1.06284
+0	17:14:24.062	'10019548': order #157486249 buy 0.08 EURUSD at 1.06262 was modified -> sl: 1.06134 tp: 1.06284
+0	17:14:25.327	Notifications: 'order #157486249 buy 0.08 EURUSD at 1.06262 modified: sl: 1.06127 tp: 1.06279 -> sl: 1.06130 tp: 1.06281' sent to 'D07ADD05'
+0	17:14:27.275	Notifications: 'order #157486249 buy 0.08 EURUSD at 1.06262 modified: sl: 1.06130 tp: 1.06281 -> sl: 1.06134 tp: 1.06284' sent to 'D07ADD05'
+0	17:20:00.922	'10019548': order #157486110 buy 0.08 USDCAD at 1.32030 closed due stop-loss at price 1.31901
+0	17:20:02.955	Notifications: 'order #157486110 buy 0.08 USDCAD at 1.32030 closed due stop-loss at price 1.31901, profit: -10.47 AUD' sent to 'D07ADD05'
+0	17:33:28.879	'10019548': modify order #157486249 buy 0.08 EURUSD at 1.06262 sl: 1.06134 tp: 1.06284 -> sl: 1.06135 tp: 1.06286
+0	17:33:31.130	'10019548': order #157486249 buy 0.08 EURUSD at 1.06262 was modified -> sl: 1.06135 tp: 1.06286
+0	17:33:33.041	Notifications: 'order #157486249 buy 0.08 EURUSD at 1.06262 modified: sl: 1.06134 tp: 1.06284 -> sl: 1.06135 tp: 1.06286' sent to 'D07ADD05'
+0	17:33:42.946	'10019548': modify order #157486249 buy 0.08 EURUSD at 1.06262 sl: 1.06135 tp: 1.06286 -> sl: 1.06138 tp: 1.06289
+0	17:33:44.723	'10019548': order #157486249 buy 0.08 EURUSD at 1.06262 was modified -> sl: 1.06138 tp: 1.06289
+0	17:33:46.690	Notifications: 'order #157486249 buy 0.08 EURUSD at 1.06262 modified: sl: 1.06135 tp: 1.06286 -> sl: 1.06138 tp: 1.06289' sent to 'D07ADD05'
+0	17:58:58.015	'10019548': order #157486249 buy 0.08 EURUSD at 1.06262 closed due stop-loss at price 1.06138
+0	17:58:59.944	Notifications: 'order #157486249 buy 0.08 EURUSD at 1.06262 closed due stop-loss at price 1.06138, profit: -13.27 AUD' sent to 'D07ADD05'
+0	17:59:04.150	Notifications: 'Close up completed @ 1715.92' sent to 'D07ADD05'
+0	18:10:09.009	'10019548': order buy market 0.09 AUDJPY sl: 0.000 tp: 85.727
+0	18:10:20.684	'10019548': order was opened : #157561726 buy 0.09 AUDJPY at 85.432 sl: 0.000 tp: 85.727
+0	18:10:22.679	Notifications: 'order opened #157561726 buy 0.09 AUDJPY at 85.432 tp: 85.727' sent to 'D07ADD05'
+0	18:15:06.383	'10019548': order buy market 0.09 AUDUSD sl: 0.00000 tp: 0.74963
+0	18:15:07.373	'10019548': order was opened : #157562061 buy 0.09 AUDUSD at 0.74664 sl: 0.00000 tp: 0.74963
+0	18:15:07.376	'10019548': order buy market 0.09 AUDJPY sl: 0.000 tp: 85.735
+0	18:15:08.177	'10019548': order was opened : #157562065 buy 0.09 AUDJPY at 85.435 sl: 0.000 tp: 85.735
+0	18:15:09.255	Notifications: 'order opened #157562061 buy 0.09 AUDUSD at 0.74664 tp: 0.74963' sent to 'D07ADD05'
+0	18:15:11.199	Notifications: 'order opened #157562065 buy 0.09 AUDJPY at 85.435 tp: 85.735' sent to 'D07ADD05'
+0	18:50:10.276	'10019548': order buy market 0.09 XAUUSD sl: 0.00 tp: 1171.30
+0	18:50:17.655	'10019548': order was opened : #157565812 buy 0.09 XAUUSD at 1168.35 sl: 0.00 tp: 1171.30
+0	18:50:19.589	Notifications: 'order opened #157565812 buy 0.09 XAUUSD at 1168.35 tp: 1171.30' sent to 'D07ADD05'
+0	18:55:10.787	'10019548': order buy market 0.09 EURUSD sl: 0.00000 tp: 1.06477
+0	18:55:21.730	'10019548': order was opened : #157566509 buy 0.09 EURUSD at 1.06177 sl: 0.00000 tp: 1.06477
+0	18:55:23.708	Notifications: 'order opened #157566509 buy 0.09 EURUSD at 1.06177 tp: 1.06477' sent to 'D07ADD05'
+0	19:00:15.718	'10019548': order buy market 0.09 EURUSD sl: 0.00000 tp: 1.06521
+0	19:00:26.103	'10019548': order was opened : #157567199 buy 0.09 EURUSD at 1.06237 sl: 0.00000 tp: 1.06521
+0	19:00:26.110	'10019548': modify order #157561726 buy 0.09 AUDJPY at 85.432 sl: 0.000 tp: 85.727 -> sl: 85.461 tp: 85.618
+0	19:00:27.980	Notifications: 'order opened #157567199 buy 0.09 EURUSD at 1.06237 tp: 1.06521' sent to 'D07ADD05'
+0	19:00:29.896	Notifications: 'Close up reached @ 1750.61' sent to 'D07ADD05'
+0	19:00:34.499	'10019548': order #157561726 buy 0.09 AUDJPY at 85.432 was modified -> sl: 85.461 tp: 85.618
+0	19:00:34.499	'10019548': modify order #157562061 buy 0.09 AUDUSD at 0.74664 sl: 0.00000 tp: 0.74963 -> sl: 0.74679 tp: 0.74834
+0	19:00:36.385	Notifications: 'order #157561726 buy 0.09 AUDJPY at 85.432 modified: sl: 0.000 tp: 85.727 -> sl: 85.461 tp: 85.618' sent to 'D07ADD05'
+0	19:00:44.714	'10019548': order #157562061 buy 0.09 AUDUSD at 0.74664 was modified -> sl: 0.74679 tp: 0.74834
+0	19:00:44.714	'10019548': modify order #157562065 buy 0.09 AUDJPY at 85.435 sl: 0.000 tp: 85.735 -> sl: 85.457 tp: 85.614
+0	19:00:46.712	Notifications: 'order #157562061 buy 0.09 AUDUSD at 0.74664 modified: sl: 0.00000 tp: 0.74963 -> sl: 0.74679 tp: 0.74834' sent to 'D07ADD05'
+0	19:00:55.834	'10019548': order #157562065 buy 0.09 AUDJPY at 85.435 was modified -> sl: 85.457 tp: 85.614
+0	19:00:55.834	'10019548': modify order #157565812 buy 0.09 XAUUSD at 1168.35 sl: 0.00 tp: 1171.30 -> sl: 1168.54 tp: 1170.15
+0	19:00:57.758	Notifications: 'order #157562065 buy 0.09 AUDJPY at 85.435 modified: sl: 0.000 tp: 85.735 -> sl: 85.457 tp: 85.614' sent to 'D07ADD05'
+0	19:01:14.107	'10019548': order #157565812 buy 0.09 XAUUSD at 1168.35 was modified -> sl: 1168.54 tp: 1170.15
+0	19:01:14.107	'10019548': modify order #157566509 buy 0.09 EURUSD at 1.06177 sl: 0.00000 tp: 1.06477 -> sl: 1.06165 tp: 1.06316
+0	19:01:16.072	Notifications: 'order #157565812 buy 0.09 XAUUSD at 1168.35 modified: sl: 0.00 tp: 1171.30 -> sl: 1168.54 tp: 1170.15' sent to 'D07ADD05'
+0	19:01:20.574	'10019548': order #157566509 buy 0.09 EURUSD at 1.06177 was modified -> sl: 1.06165 tp: 1.06316
+0	19:01:20.574	'10019548': modify order #157567199 buy 0.09 EURUSD at 1.06237 sl: 0.00000 tp: 1.06521 -> sl: 1.06156 tp: 1.06308
+0	19:01:22.505	Notifications: 'order #157566509 buy 0.09 EURUSD at 1.06177 modified: sl: 0.00000 tp: 1.06477 -> sl: 1.06165 tp: 1.06316' sent to 'D07ADD05'
+0	19:01:36.428	'10019548': order #157567199 buy 0.09 EURUSD at 1.06237 was modified -> sl: 1.06156 tp: 1.06308
+0	19:01:36.429	'10019548': modify order #157567199 buy 0.09 EURUSD at 1.06237 sl: 1.06156 tp: 1.06308 -> sl: 1.06162 tp: 1.06313
+0	19:01:38.371	Notifications: 'order #157567199 buy 0.09 EURUSD at 1.06237 modified: sl: 0.00000 tp: 1.06521 -> sl: 1.06156 tp: 1.06308' sent to 'D07ADD05'
+0	19:01:53.292	'10019548': order #157565812 buy 0.09 XAUUSD at 1168.35 closed due stop-loss at price 1168.54
+0	19:01:53.871	'10019548': order #157567199 buy 0.09 EURUSD at 1.06237 was modified -> sl: 1.06162 tp: 1.06313
+0	19:01:53.968	'10019548': modify order #157561726 buy 0.09 AUDJPY at 85.432 sl: 85.461 tp: 85.618 -> sl: 85.476 tp: 85.634
+0	19:01:55.286	Notifications: 'order #157565812 buy 0.09 XAUUSD at 1168.35 closed due stop-loss at price 1168.54, profit: 2.29 AUD' sent to 'D07ADD05'
+0	19:01:57.199	Notifications: 'order #157567199 buy 0.09 EURUSD at 1.06237 modified: sl: 1.06156 tp: 1.06308 -> sl: 1.06162 tp: 1.06313' sent to 'D07ADD05'
+0	19:02:05.242	'10019548': order #157561726 buy 0.09 AUDJPY at 85.432 was modified -> sl: 85.476 tp: 85.634
+0	19:02:05.242	'10019548': modify order #157562065 buy 0.09 AUDJPY at 85.435 sl: 85.457 tp: 85.614 -> sl: 85.484 tp: 85.644
+0	19:02:07.934	Notifications: 'order #157561726 buy 0.09 AUDJPY at 85.432 modified: sl: 85.461 tp: 85.618 -> sl: 85.476 tp: 85.634' sent to 'D07ADD05'
+0	19:02:18.414	'10019548': order #157562065 buy 0.09 AUDJPY at 85.435 was modified -> sl: 85.484 tp: 85.644
+0	19:02:20.053	Notifications: 'order #157562065 buy 0.09 AUDJPY at 85.435 modified: sl: 85.457 tp: 85.614 -> sl: 85.484 tp: 85.644' sent to 'D07ADD05'
+0	19:02:55.120	'10019548': order #157566509 buy 0.09 EURUSD at 1.06177 closed due stop-loss at price 1.06165
+0	19:02:55.601	'10019548': order #157567199 buy 0.09 EURUSD at 1.06237 closed due stop-loss at price 1.06162
+0	19:02:57.053	Notifications: 'order #157566509 buy 0.09 EURUSD at 1.06177 closed due stop-loss at price 1.06165, profit: -1.45 AUD' sent to 'D07ADD05'
+0	19:02:57.304	'10019548': order #157562061 buy 0.09 AUDUSD at 0.74664 closed due stop-loss at price 0.74679
+0	19:02:58.994	Notifications: 'order #157567199 buy 0.09 EURUSD at 1.06237 closed due stop-loss at price 1.06162, profit: -9.04 AUD' sent to 'D07ADD05'
+0	19:03:00.944	Notifications: 'order #157562061 buy 0.09 AUDUSD at 0.74664 closed due stop-loss at price 0.74679, profit: 1.81 AUD' sent to 'D07ADD05'
+0	19:03:00.958	'10019548': order #157562065 buy 0.09 AUDJPY at 85.435 closed due stop-loss at price 85.484
+0	19:03:02.890	Notifications: 'order #157562065 buy 0.09 AUDJPY at 85.435 closed due stop-loss at price 85.484, profit: 5.16 AUD' sent to 'D07ADD05'
+0	19:06:14.916	'10019548': order #157561726 buy 0.09 AUDJPY at 85.432 closed due stop-loss at price 85.476
+0	19:06:16.875	Notifications: 'order #157561726 buy 0.09 AUDJPY at 85.432 closed due stop-loss at price 85.476, profit: 4.63 AUD' sent to 'D07ADD05'
+0	19:06:18.827	Notifications: 'Close up completed @ 1715.54' sent to 'D07ADD05'
+0	19:25:08.986	'10019548': order buy market 0.09 EURGBP sl: 0.00000 tp: 0.84681
+0	19:25:18.967	'10019548': order was opened : #157570756 buy 0.09 EURGBP at 0.84377 sl: 0.00000 tp: 0.84681
+0	19:25:18.973	'10019548': order sell market 0.09 GBPAUD sl: 0.00000 tp: 1.68164
+0	19:25:21.629	Notifications: 'order opened #157570756 buy 0.09 EURGBP at 0.84377 tp: 0.84681' sent to 'D07ADD05'
+0	19:25:32.438	'10019548': order was opened : #157570774 sell 0.09 GBPAUD at 1.68434 sl: 0.00000 tp: 1.68164
+0	19:25:34.374	Notifications: 'order opened #157570774 sell 0.09 GBPAUD at 1.68434 tp: 1.68164' sent to 'D07ADD05'
+0	19:30:12.838	'10019548': order buy market 0.09 USDCHF sl: 0.00000 tp: 1.01883
+0	19:30:17.258	'10019548': order was opened : #157571144 buy 0.09 USDCHF at 1.01586 sl: 0.00000 tp: 1.01883
+0	19:30:18.859	Notifications: 'order opened #157571144 buy 0.09 USDCHF at 1.01586 tp: 1.01883' sent to 'D07ADD05'
+0	19:35:05.367	'10019548': order buy market 0.09 AUDJPY sl: 0.000 tp: 85.805
+0	19:35:22.530	'10019548': order was opened : #157571531 buy 0.09 AUDJPY at 85.507 sl: 0.000 tp: 85.805
+0	19:35:22.530	'10019548': order sell market 0.09 EURAUD sl: 0.00000 tp: 1.41831
+0	19:35:24.500	Notifications: 'order opened #157571531 buy 0.09 AUDJPY at 85.507 tp: 85.805' sent to 'D07ADD05'
+0	19:35:33.503	'10019548': order was opened : #157571546 sell 0.09 EURAUD at 1.42130 sl: 0.00000 tp: 1.41831
+0	19:35:35.480	Notifications: 'order opened #157571546 sell 0.09 EURAUD at 1.42130 tp: 1.41831' sent to 'D07ADD05'
+0	19:40:06.358	'10019548': order sell market 0.09 GBPCAD sl: 0.00000 tp: 1.65708
+0	19:40:19.470	'10019548': order was opened : #157571985 sell 0.09 GBPCAD at 1.66012 sl: 0.00000 tp: 1.65708
+0	19:40:21.351	Notifications: 'order opened #157571985 sell 0.09 GBPCAD at 1.66012 tp: 1.65708' sent to 'D07ADD05'
+0	20:24:17.401	'10019548': modify order #157571546 sell 0.09 EURAUD at 1.42130 sl: 0.00000 tp: 1.41831 -> sl: 1.41926 tp: 1.41761
+0	20:24:29.474	'10019548': order #157571546 sell 0.09 EURAUD at 1.42130 was modified -> sl: 1.41926 tp: 1.41761
+0	20:24:29.475	'10019548': modify order #157571546 sell 0.09 EURAUD at 1.42130 sl: 1.41926 tp: 1.41761 -> sl: 1.41911 tp: 1.41751
+0	20:24:31.511	Notifications: 'order #157571546 sell 0.09 EURAUD at 1.42130 modified: sl: 0.00000 tp: 1.41831 -> sl: 1.41926 tp: 1.41761' sent to 'D07ADD05'
+0	20:24:37.671	'10019548': order #157571546 sell 0.09 EURAUD at 1.42130 was modified -> sl: 1.41911 tp: 1.41751
+0	20:24:39.844	Notifications: 'order #157571546 sell 0.09 EURAUD at 1.42130 modified: sl: 1.41926 tp: 1.41761 -> sl: 1.41911 tp: 1.41751' sent to 'D07ADD05'
+0	20:24:44.196	'10019548': modify order #157571546 sell 0.09 EURAUD at 1.42130 sl: 1.41911 tp: 1.41751 -> sl: 1.41908 tp: 1.41748
+0	20:25:04.031	'10019548': order #157571546 sell 0.09 EURAUD at 1.42130 was modified -> sl: 1.41908 tp: 1.41748
+0	20:25:04.032	'10019548': modify order #157571546 sell 0.09 EURAUD at 1.42130 sl: 1.41908 tp: 1.41748 -> sl: 1.41890 tp: 1.41731
+0	20:25:06.222	Notifications: 'order #157571546 sell 0.09 EURAUD at 1.42130 modified: sl: 1.41911 tp: 1.41751 -> sl: 1.41908 tp: 1.41748' sent to 'D07ADD05'
+0	20:25:19.437	'10019548': order #157571546 sell 0.09 EURAUD at 1.42130 was modified -> sl: 1.41890 tp: 1.41731
+0	20:25:19.438	'10019548': modify order #157571546 sell 0.09 EURAUD at 1.42130 sl: 1.41890 tp: 1.41731 -> sl: 1.41889 tp: 1.41724
+0	20:25:21.064	Notifications: 'order #157571546 sell 0.09 EURAUD at 1.42130 modified: sl: 1.41908 tp: 1.41748 -> sl: 1.41890 tp: 1.41731' sent to 'D07ADD05'
+0	20:25:35.713	'10019548': order #157571546 sell 0.09 EURAUD at 1.42130 was modified -> sl: 1.41889 tp: 1.41724
+0	20:25:35.791	'10019548': order sell market 0.09 XAUUSD sl: 0.00 tp: 1168.66
+0	20:25:37.669	'10019548': order was opened : #157577521 sell 0.09 XAUUSD at 1171.63 sl: 0.00 tp: 1168.66
+0	20:25:37.711	Notifications: 'order #157571546 sell 0.09 EURAUD at 1.42130 modified: sl: 1.41890 tp: 1.41731 -> sl: 1.41889 tp: 1.41724' sent to 'D07ADD05'
+0	20:25:39.646	Notifications: 'order opened #157577521 sell 0.09 XAUUSD at 1171.63 tp: 1168.66' sent to 'D07ADD05'
+0	20:28:19.185	'10019548': order #157571546 sell 0.09 EURAUD at 1.42130 closed due stop-loss at price 1.41889
+0	20:28:21.154	Notifications: 'order #157571546 sell 0.09 EURAUD at 1.42130 closed due stop-loss at price 1.41889, profit: 21.69 AUD' sent to 'D07ADD05'
+0	21:05:53.163	'10019548': order buy market 0.09 GBPAUD sl: 0.00000 tp: 1.68850
+0	21:08:21.586	'10019548': order was opened : #157582885 buy 0.09 GBPAUD at 1.68666 sl: 0.00000 tp: 1.68850
+0	21:08:22.999	Notifications: 'order opened #157582885 buy 0.09 GBPAUD at 1.68666 tp: 1.68850' sent to 'D07ADD05'
+0	21:30:02.336	'10019548': order buy market 0.09 GBPCAD sl: 0.00000 tp: 1.66431
+0	21:30:10.918	'10019548': order was opened : #157585406 buy 0.09 GBPCAD at 1.66131 sl: 0.00000 tp: 1.66431
+0	21:30:13.031	Notifications: 'order opened #157585406 buy 0.09 GBPCAD at 1.66131 tp: 1.66431' sent to 'D07ADD05'
+0	21:30:38.349	'10019548': modify order #157577521 sell 0.09 XAUUSD at 1171.63 sl: 0.00 tp: 1168.66 -> sl: 1170.00 tp: 1168.38
+0	21:30:43.380	'10019548': order #157577521 sell 0.09 XAUUSD at 1171.63 was modified -> sl: 1170.00 tp: 1168.38
+0	21:30:43.381	'10019548': modify order #157577521 sell 0.09 XAUUSD at 1171.63 sl: 1170.00 tp: 1168.38 -> sl: 1169.91 tp: 1168.32
+0	21:30:45.582	Notifications: 'order #157577521 sell 0.09 XAUUSD at 1171.63 modified: sl: 0.00 tp: 1168.66 -> sl: 1170.00 tp: 1168.38' sent to 'D07ADD05'
+0	21:30:46.018	'10019548': order #157577521 sell 0.09 XAUUSD at 1171.63 was modified -> sl: 1169.91 tp: 1168.32
+0	21:30:48.212	Notifications: 'order #157577521 sell 0.09 XAUUSD at 1171.63 modified: sl: 1170.00 tp: 1168.38 -> sl: 1169.91 tp: 1168.32' sent to 'D07ADD05'
+0	21:31:00.445	'10019548': modify order #157577521 sell 0.09 XAUUSD at 1171.63 sl: 1169.91 tp: 1168.32 -> sl: 1169.62 tp: 1167.98
+0	21:31:18.549	'10019548': order #157577521 sell 0.09 XAUUSD at 1171.63 was modified -> sl: 1169.62 tp: 1167.98
+0	21:31:20.849	Notifications: 'order #157577521 sell 0.09 XAUUSD at 1171.63 modified: sl: 1169.91 tp: 1168.32 -> sl: 1169.62 tp: 1167.98' sent to 'D07ADD05'
+0	21:32:40.424	'10019548': order #157577521 sell 0.09 XAUUSD at 1171.63 closed due stop-loss at price 1169.62
+0	21:32:42.367	Notifications: 'order #157577521 sell 0.09 XAUUSD at 1171.63 closed due stop-loss at price 1169.62, profit: 24.19 AUD' sent to 'D07ADD05'
+0	21:35:08.390	'10019548': order buy market 0.09 EURUSD sl: 0.00000 tp: 1.06475
+0	21:35:12.156	'10019548': order was opened : #157585861 buy 0.09 EURUSD at 1.06176 sl: 0.00000 tp: 1.06475
+0	21:35:12.157	'10019548': order buy market 0.09 GBPUSD sl: 0.00000 tp: 1.26270
+0	21:35:13.080	'10019548': order was opened : #157585867 buy 0.09 GBPUSD at 1.25970 sl: 0.00000 tp: 1.26270
+0	21:35:13.086	'10019548': order buy market 0.09 XAUUSD sl: 0.00 tp: 1172.49
+0	21:35:13.547	'10019548': order was opened : #157585869 buy 0.09 XAUUSD at 1169.49 sl: 0.00 tp: 1172.49
+0	21:35:14.375	Notifications: 'order opened #157585861 buy 0.09 EURUSD at 1.06176 tp: 1.06475' sent to 'D07ADD05'
+0	21:35:16.517	Notifications: 'order opened #157585867 buy 0.09 GBPUSD at 1.25970 tp: 1.26270' sent to 'D07ADD05'
+0	21:35:18.723	Notifications: 'order opened #157585869 buy 0.09 XAUUSD at 1169.49 tp: 1172.49' sent to 'D07ADD05'
+0	21:40:02.586	'10019548': order buy market 0.09 EURUSD sl: 0.00000 tp: 1.06471
+0	21:40:09.212	'10019548': order was opened : #157586263 buy 0.09 EURUSD at 1.06169 sl: 0.00000 tp: 1.06471
+0	21:40:11.096	Notifications: 'order opened #157586263 buy 0.09 EURUSD at 1.06169 tp: 1.06471' sent to 'D07ADD05'
+0	21:50:28.236	'10019548': modify order #157571531 buy 0.09 AUDJPY at 85.507 sl: 0.000 tp: 85.805 -> sl: 85.674 tp: 85.830
+0	21:50:35.080	'10019548': order #157571531 buy 0.09 AUDJPY at 85.507 was modified -> sl: 85.674 tp: 85.830
+0	21:50:35.561	'10019548': modify order #157571531 buy 0.09 AUDJPY at 85.507 sl: 85.674 tp: 85.830 -> sl: 85.681 tp: 85.838
+0	21:50:37.045	Notifications: 'order #157571531 buy 0.09 AUDJPY at 85.507 modified: sl: 0.000 tp: 85.805 -> sl: 85.674 tp: 85.830' sent to 'D07ADD05'
+0	21:50:37.720	'10019548': order #157571531 buy 0.09 AUDJPY at 85.507 was modified -> sl: 85.681 tp: 85.838
+0	21:50:37.720	'10019548': modify order #157571531 buy 0.09 AUDJPY at 85.507 sl: 85.681 tp: 85.838 -> sl: 85.688 tp: 85.846
+0	21:50:39.750	Notifications: 'order #157571531 buy 0.09 AUDJPY at 85.507 modified: sl: 85.674 tp: 85.830 -> sl: 85.681 tp: 85.838' sent to 'D07ADD05'
+0	21:50:40.389	'10019548': order #157571531 buy 0.09 AUDJPY at 85.507 was modified -> sl: 85.688 tp: 85.846
+0	21:50:40.389	'10019548': modify order #157571531 buy 0.09 AUDJPY at 85.507 sl: 85.688 tp: 85.846 -> sl: 85.689 tp: 85.847
+0	21:50:42.372	Notifications: 'order #157571531 buy 0.09 AUDJPY at 85.507 modified: sl: 85.681 tp: 85.838 -> sl: 85.688 tp: 85.846' sent to 'D07ADD05'
+0	21:50:44.176	'10019548': order #157571531 buy 0.09 AUDJPY at 85.507 was modified -> sl: 85.689 tp: 85.847
+0	21:50:46.168	Notifications: 'order #157571531 buy 0.09 AUDJPY at 85.507 modified: sl: 85.688 tp: 85.846 -> sl: 85.689 tp: 85.847' sent to 'D07ADD05'
+0	21:51:59.435	'10019548': modify order #157571531 buy 0.09 AUDJPY at 85.507 sl: 85.689 tp: 85.847 -> sl: 85.697 tp: 85.851
+0	21:52:02.841	'10019548': order #157571531 buy 0.09 AUDJPY at 85.507 was modified -> sl: 85.697 tp: 85.851
+0	21:52:04.123	Notifications: 'order #157571531 buy 0.09 AUDJPY at 85.507 modified: sl: 85.689 tp: 85.847 -> sl: 85.697 tp: 85.851' sent to 'D07ADD05'
+0	21:52:05.837	'10019548': modify order #157571531 buy 0.09 AUDJPY at 85.507 sl: 85.697 tp: 85.851 -> sl: 85.699 tp: 85.853
+0	21:52:11.776	'10019548': order #157571531 buy 0.09 AUDJPY at 85.507 was modified -> sl: 85.699 tp: 85.853
+0	21:52:11.776	'10019548': modify order #157571531 buy 0.09 AUDJPY at 85.507 sl: 85.699 tp: 85.853 -> sl: 85.715 tp: 85.870
+0	21:52:13.141	Notifications: 'order #157571531 buy 0.09 AUDJPY at 85.507 modified: sl: 85.697 tp: 85.851 -> sl: 85.699 tp: 85.853' sent to 'D07ADD05'
+0	21:52:19.043	'10019548': order #157571531 buy 0.09 AUDJPY at 85.507 was modified -> sl: 85.715 tp: 85.870
+0	21:52:19.044	'10019548': modify order #157571531 buy 0.09 AUDJPY at 85.507 sl: 85.715 tp: 85.870 -> sl: 85.717 tp: 85.873
+0	21:52:20.993	Notifications: 'order #157571531 buy 0.09 AUDJPY at 85.507 modified: sl: 85.699 tp: 85.853 -> sl: 85.715 tp: 85.870' sent to 'D07ADD05'
+0	21:52:23.870	'10019548': order #157571531 buy 0.09 AUDJPY at 85.507 was modified -> sl: 85.717 tp: 85.873
+0	21:52:23.870	'10019548': modify order #157571531 buy 0.09 AUDJPY at 85.507 sl: 85.717 tp: 85.873 -> sl: 85.718 tp: 85.874
+0	21:52:25.735	Notifications: 'order #157571531 buy 0.09 AUDJPY at 85.507 modified: sl: 85.715 tp: 85.870 -> sl: 85.717 tp: 85.873' sent to 'D07ADD05'
+0	21:52:30.169	'10019548': order #157571531 buy 0.09 AUDJPY at 85.507 was modified -> sl: 85.718 tp: 85.874
+0	21:52:32.091	Notifications: 'order #157571531 buy 0.09 AUDJPY at 85.507 modified: sl: 85.717 tp: 85.873 -> sl: 85.718 tp: 85.874' sent to 'D07ADD05'
+0	21:52:50.509	'10019548': modify order #157571531 buy 0.09 AUDJPY at 85.507 sl: 85.718 tp: 85.874 -> sl: 85.724 tp: 85.881
+0	21:53:10.046	'10019548': order #157571531 buy 0.09 AUDJPY at 85.507 was modified -> sl: 85.724 tp: 85.881
+0	21:53:10.046	'10019548': modify order #157571531 buy 0.09 AUDJPY at 85.507 sl: 85.724 tp: 85.881 -> sl: 85.754 tp: 85.912
+0	21:53:12.034	Notifications: 'order #157571531 buy 0.09 AUDJPY at 85.507 modified: sl: 85.718 tp: 85.874 -> sl: 85.724 tp: 85.881' sent to 'D07ADD05'
+0	21:53:37.920	'10019548': order #157571531 buy 0.09 AUDJPY at 85.507 was modified -> sl: 85.754 tp: 85.912
+0	21:53:39.890	Notifications: 'order #157571531 buy 0.09 AUDJPY at 85.507 modified: sl: 85.724 tp: 85.881 -> sl: 85.754 tp: 85.912' sent to 'D07ADD05'
+0	21:54:26.127	'10019548': order #157571531 buy 0.09 AUDJPY at 85.507 closed due stop-loss at price 85.754
+0	21:54:28.102	Notifications: 'order #157571531 buy 0.09 AUDJPY at 85.507 closed due stop-loss at price 85.754, profit: 25.92 AUD' sent to 'D07ADD05'
+0	21:55:12.144	'10019548': order sell market 0.09 EURGBP sl: 0.00000 tp: 0.83858
+0	21:55:18.544	'10019548': order was opened : #157587907 sell 0.09 EURGBP at 0.84161 sl: 0.00000 tp: 0.83858
+0	21:55:18.545	'10019548': order buy market 0.09 GBPUSD sl: 0.00000 tp: 1.26396
+0	21:55:20.379	Notifications: 'order opened #157587907 sell 0.09 EURGBP at 0.84161 tp: 0.83858' sent to 'D07ADD05'
+0	21:55:35.191	'10019548': order was opened : #157587944 buy 0.09 GBPUSD at 1.26089 sl: 0.00000 tp: 1.26396
+0	21:55:37.074	Notifications: 'order opened #157587944 buy 0.09 GBPUSD at 1.26089 tp: 1.26396' sent to 'D07ADD05'
+0	22:03:22.785	'10019548': modify order #157585867 buy 0.09 GBPUSD at 1.25970 sl: 0.00000 tp: 1.26270 -> sl: 1.26110 tp: 1.26264
+0	22:06:43.489	'10019548': modify order #157585867 buy 0.09 GBPUSD at 1.25970 sl: 0.00000 tp: 1.26270 -> sl: 1.26116 tp: 1.26268
+0	22:06:46.167	'10019548': order #157585867 buy 0.09 GBPUSD at 1.25970 was modified -> sl: 1.26116 tp: 1.26268
+0	22:06:48.159	Notifications: 'order #157585867 buy 0.09 GBPUSD at 1.25970 modified: sl: 0.00000 tp: 1.26270 -> sl: 1.26116 tp: 1.26268' sent to 'D07ADD05'
+0	22:07:15.794	'10019548': order #157585867 buy 0.09 GBPUSD at 1.25970 closed due stop-loss at price 1.26116
+0	22:07:17.827	Notifications: 'order #157585867 buy 0.09 GBPUSD at 1.25970 closed due stop-loss at price 1.26116, profit: 17.55 AUD' sent to 'D07ADD05'
+0	22:10:00.702	'10019548': order sell market 0.09 GBPAUD sl: 0.00000 tp: 1.68190
+0	22:10:05.899	'10019548': order was opened : #157589805 sell 0.09 GBPAUD at 1.68488 sl: 0.00000 tp: 1.68190
+0	22:10:07.844	Notifications: 'order opened #157589805 sell 0.09 GBPAUD at 1.68488 tp: 1.68190' sent to 'D07ADD05'
+0	22:34:08.731	'10019548': modify order #157589805 sell 0.09 GBPAUD at 1.68488 sl: 0.00000 tp: 1.68190 -> sl: 1.68285 tp: 1.68119
+0	22:34:20.238	'10019548': order #157589805 sell 0.09 GBPAUD at 1.68488 was modified -> sl: 1.68285 tp: 1.68119
+0	22:34:22.267	Notifications: 'order #157589805 sell 0.09 GBPAUD at 1.68488 modified: sl: 0.00000 tp: 1.68190 -> sl: 1.68285 tp: 1.68119' sent to 'D07ADD05'
+0	22:34:56.788	'10019548': order #157589805 sell 0.09 GBPAUD at 1.68488 closed due stop-loss at price 1.68285
+0	22:34:58.256	'10019548': modify order #157587907 sell 0.09 EURGBP at 0.84161 sl: 0.00000 tp: 0.83858 -> sl: 0.84059 tp: 0.83905
+0	22:34:58.713	Notifications: 'order #157589805 sell 0.09 GBPAUD at 1.68488 closed due stop-loss at price 1.68285, profit: 18.27 AUD' sent to 'D07ADD05'
+0	22:35:14.732	'10019548': order #157587907 sell 0.09 EURGBP at 0.84161 was modified -> sl: 0.84059 tp: 0.83905
+0	22:35:14.825	'10019548': order sell market 0.09 GBPCAD sl: 0.00000 tp: 1.65699
+0	22:35:16.669	Notifications: 'order #157587907 sell 0.09 EURGBP at 0.84161 modified: sl: 0.00000 tp: 0.83858 -> sl: 0.84059 tp: 0.83905' sent to 'D07ADD05'
+0	22:35:26.834	'10019548': order was opened : #157594872 sell 0.09 GBPCAD at 1.65996 sl: 0.00000 tp: 1.65699
+0	22:35:28.459	Notifications: 'order opened #157594872 sell 0.09 GBPCAD at 1.65996 tp: 1.65699' sent to 'D07ADD05'
+0	22:35:55.067	'10019548': modify order #157587907 sell 0.09 EURGBP at 0.84161 sl: 0.84059 tp: 0.83905 -> sl: 0.84058 tp: 0.83904
+0	22:36:17.862	'10019548': order #157587907 sell 0.09 EURGBP at 0.84161 was modified -> sl: 0.84058 tp: 0.83904
+0	22:36:19.699	Notifications: 'order #157587907 sell 0.09 EURGBP at 0.84161 modified: sl: 0.84059 tp: 0.83905 -> sl: 0.84058 tp: 0.83904' sent to 'D07ADD05'
+0	22:41:48.300	'10019548': modify order #157587907 sell 0.09 EURGBP at 0.84161 sl: 0.84058 tp: 0.83904 -> sl: 0.84054 tp: 0.83901
+0	22:41:49.000	'10019548': order #157587907 sell 0.09 EURGBP at 0.84161 was modified -> sl: 0.84054 tp: 0.83901
+0	22:41:50.840	Notifications: 'order #157587907 sell 0.09 EURGBP at 0.84161 modified: sl: 0.84058 tp: 0.83904 -> sl: 0.84054 tp: 0.83901' sent to 'D07ADD05'
+0	22:42:29.906	'10019548': modify order #157587907 sell 0.09 EURGBP at 0.84161 sl: 0.84054 tp: 0.83901 -> sl: 0.84022 tp: 0.83868
+0	22:42:36.408	'10019548': order #157587907 sell 0.09 EURGBP at 0.84161 was modified -> sl: 0.84022 tp: 0.83868
+0	22:42:36.409	'10019548': modify order #157587907 sell 0.09 EURGBP at 0.84161 sl: 0.84022 tp: 0.83868 -> sl: 0.84014 tp: 0.83861
+0	22:42:38.061	Notifications: 'order #157587907 sell 0.09 EURGBP at 0.84161 modified: sl: 0.84054 tp: 0.83901 -> sl: 0.84022 tp: 0.83868' sent to 'D07ADD05'
+0	22:42:46.366	'10019548': order #157587907 sell 0.09 EURGBP at 0.84161 was modified -> sl: 0.84014 tp: 0.83861
+0	22:42:46.367	'10019548': modify order #157587907 sell 0.09 EURGBP at 0.84161 sl: 0.84014 tp: 0.83861 -> sl: 0.84012 tp: 0.83858
+0	22:42:47.400	'10019548': order #157587907 sell 0.09 EURGBP at 0.84161 was modified -> sl: 0.84012 tp: 0.83858
+0	22:42:48.142	Notifications: 'order #157587907 sell 0.09 EURGBP at 0.84161 modified: sl: 0.84022 tp: 0.83868 -> sl: 0.84014 tp: 0.83861' sent to 'D07ADD05'
+0	22:42:50.060	Notifications: 'order #157587907 sell 0.09 EURGBP at 0.84161 modified: sl: 0.84014 tp: 0.83861 -> sl: 0.84012 tp: 0.83858' sent to 'D07ADD05'
+0	22:42:58.798	'10019548': modify order #157587907 sell 0.09 EURGBP at 0.84161 sl: 0.84012 tp: 0.83858 -> sl: 0.84006 tp: 0.83853
+0	22:46:19.489	'10019548': modify order #157587907 sell 0.09 EURGBP at 0.84161 sl: 0.84012 tp: 0.83858 -> sl: 0.83992 tp: 0.83837
+0	22:46:30.333	'10019548': order #157587907 sell 0.09 EURGBP at 0.84161 was modified -> sl: 0.83992 tp: 0.83837
+0	22:46:30.430	'10019548': modify order #157571144 buy 0.09 USDCHF at 1.01586 sl: 0.00000 tp: 1.01883 -> sl: 1.01750 tp: 1.01906
+0	22:46:31.963	Notifications: 'order #157587907 sell 0.09 EURGBP at 0.84161 modified: sl: 0.84012 tp: 0.83858 -> sl: 0.83992 tp: 0.83837' sent to 'D07ADD05'
+0	22:46:43.995	'10019548': order #157571144 buy 0.09 USDCHF at 1.01586 was modified -> sl: 1.01750 tp: 1.01906
+0	22:46:45.928	Notifications: 'order #157571144 buy 0.09 USDCHF at 1.01586 modified: sl: 0.00000 tp: 1.01883 -> sl: 1.01750 tp: 1.01906' sent to 'D07ADD05'
+0	22:47:07.215	'10019548': modify order #157571144 buy 0.09 USDCHF at 1.01586 sl: 1.01750 tp: 1.01906 -> sl: 1.01752 tp: 1.01907
+0	22:47:19.155	'10019548': order #157571144 buy 0.09 USDCHF at 1.01586 was modified -> sl: 1.01752 tp: 1.01907
+0	22:47:20.904	Notifications: 'order #157571144 buy 0.09 USDCHF at 1.01586 modified: sl: 1.01750 tp: 1.01906 -> sl: 1.01752 tp: 1.01907' sent to 'D07ADD05'
+0	22:47:22.637	'10019548': modify order #157571144 buy 0.09 USDCHF at 1.01586 sl: 1.01752 tp: 1.01907 -> sl: 1.01755 tp: 1.01908
+0	22:48:09.244	'10019548': order #157587907 sell 0.09 EURGBP at 0.84161 closed due stop-loss at price 0.83992
+0	22:48:11.206	Notifications: 'order #157587907 sell 0.09 EURGBP at 0.84161 closed due stop-loss at price 0.83992, profit: 25.59 AUD' sent to 'D07ADD05'
+0	22:50:43.489	'10019548': modify order #157571144 buy 0.09 USDCHF at 1.01586 sl: 1.01752 tp: 1.01907 -> sl: 1.01777 tp: 1.01932
+0	22:50:47.522	'10019548': order #157571144 buy 0.09 USDCHF at 1.01586 was modified -> sl: 1.01777 tp: 1.01932
+0	22:50:48.264	'10019548': modify order #157571144 buy 0.09 USDCHF at 1.01586 sl: 1.01777 tp: 1.01932 -> sl: 1.01778 tp: 1.01933
+0	22:50:49.460	Notifications: 'order #157571144 buy 0.09 USDCHF at 1.01586 modified: sl: 1.01752 tp: 1.01907 -> sl: 1.01777 tp: 1.01932' sent to 'D07ADD05'
+1	22:54:09.266	'10019548': modification of order #157571144 buy 0.09 USDCHF at 1.01586 sl: 1.01777 tp: 1.01932 -> sl: 1.01778 tp: 1.01933 failed [Trade timeout]
+0	22:54:09.266	'10019548': modify order #157571144 buy 0.09 USDCHF at 1.01586 sl: 1.01777 tp: 1.01932 -> sl: 1.01789 tp: 1.01946
+0	22:54:25.866	'10019548': order #157571144 buy 0.09 USDCHF at 1.01586 was modified -> sl: 1.01789 tp: 1.01946
+0	22:54:25.967	'10019548': modify order #157571144 buy 0.09 USDCHF at 1.01586 sl: 1.01789 tp: 1.01946 -> sl: 1.01800 tp: 1.01957
+0	22:54:27.658	Notifications: 'order #157571144 buy 0.09 USDCHF at 1.01586 modified: sl: 1.01777 tp: 1.01932 -> sl: 1.01789 tp: 1.01946' sent to 'D07ADD05'
+0	22:54:49.610	'10019548': order #157571144 buy 0.09 USDCHF at 1.01586 was modified -> sl: 1.01800 tp: 1.01957
+0	22:54:49.611	'10019548': modify order #157571144 buy 0.09 USDCHF at 1.01586 sl: 1.01800 tp: 1.01957 -> sl: 1.01805 tp: 1.01962
+0	22:54:51.549	Notifications: 'order #157571144 buy 0.09 USDCHF at 1.01586 modified: sl: 1.01789 tp: 1.01946 -> sl: 1.01800 tp: 1.01957' sent to 'D07ADD05'
+0	22:54:55.679	'10019548': order #157571144 buy 0.09 USDCHF at 1.01586 was modified -> sl: 1.01805 tp: 1.01962
+0	22:54:55.680	'10019548': modify order #157571144 buy 0.09 USDCHF at 1.01586 sl: 1.01805 tp: 1.01962 -> sl: 1.01815 tp: 1.01971
+0	22:54:57.598	Notifications: 'order #157571144 buy 0.09 USDCHF at 1.01586 modified: sl: 1.01800 tp: 1.01957 -> sl: 1.01805 tp: 1.01962' sent to 'D07ADD05'
+0	22:57:53.489	'10019548': order #157571144 buy 0.09 USDCHF at 1.01586 closed due stop-loss at price 1.01805
+0	22:57:55.427	Notifications: 'order #157571144 buy 0.09 USDCHF at 1.01586 closed due stop-loss at price 1.01805, profit: 25.87 AUD' sent to 'D07ADD05'
+0	23:50:36.372	'10019548': order #157582885 buy 0.09 GBPAUD at 1.68666 closed due take-profit at price 1.68850
+0	23:50:38.381	Notifications: 'order #157582885 buy 0.09 GBPAUD at 1.68666 closed due take-profit at price 1.68850, profit: 16.56 AUD' sent to 'D07ADD05'

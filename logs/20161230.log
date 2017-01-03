@@ -1,0 +1,63 @@
+0	07:02:09.160	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 233.45 ms)
+0	07:03:15.600	'10019548': login on ICMarkets-Demo01 through Demo DC (ping: 236.50 ms)
+0	07:04:22.009	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 694.60 ms)
+1	07:05:28.038	'10019548': connect failed [No connection]
+0	07:05:33.624	'10019548': login on ICMarkets-Demo01 through Demo DC (ping: n/a)
+0	07:07:40.737	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: n/a)
+0	07:07:55.866	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: n/a)
+0	07:07:56.796	'10019548': previous successful authorization performed from 220.244.203.12
+0	07:08:14.106	'10019548': auto connecting to a better access point Demo DC #3 (ping is 234.19 ms)
+0	07:08:14.865	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 234.19 ms)
+0	07:08:17.731	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 234.19 ms)
+0	07:08:18.309	'10019548': previous successful authorization performed from 220.244.203.12
+1	09:08:18.937	'10019548': ping failed
+0	09:08:19.637	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 234.19 ms)
+0	09:08:37.343	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 234.19 ms)
+0	09:08:37.923	'10019548': previous successful authorization performed from 220.244.203.12
+0	09:08:55.647	'10019548': ping to current access point Demo DC #3 is 233.33 ms
+1	13:09:49.003	'10019548': connect failed [No connection]
+0	13:09:54.633	'10019548': login on ICMarkets-Demo01 through Demo DC (ping: 236.13 ms)
+0	13:11:03.150	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 511.78 ms)
+0	13:11:31.845	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: 511.78 ms)
+0	13:11:34.960	'10019548': previous successful authorization performed from 220.244.203.12
+0	13:12:00.609	'10019548': auto connecting to a better access point Demo DC #3 (ping is 233.94 ms)
+0	13:12:01.377	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 233.94 ms)
+0	13:12:04.197	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 233.94 ms)
+0	13:12:05.103	'10019548': previous successful authorization performed from 220.244.203.12
+0	20:09:17.101	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 233.94 ms)
+0	20:09:34.450	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 233.94 ms)
+0	20:09:35.075	'10019548': previous successful authorization performed from 220.244.203.12
+0	20:10:00.439	'10019548': ping to current access point Demo DC #3 is 234.68 ms
+0	20:58:29.085	'10019548': modify order #158899588 buy 0.15 GBPAUD at 1.70301 sl: 0.00000 tp: 1.70467 -> sl: 1.70443 tp: 1.70520
+1	20:58:45.363	'10019548': modification of order #158899588 buy 0.15 GBPAUD at 1.70301 sl: 0.00000 tp: 1.70467 -> sl: 1.70443 tp: 1.70520 failed [Invalid S/L or T/P]
+0	20:59:28.948	'10019548': modify order #158899588 buy 0.15 GBPAUD at 1.70301 sl: 0.00000 tp: 1.70467 -> sl: 1.70444 tp: 1.70514
+0	20:59:29.509	'10019548': order #158899588 buy 0.15 GBPAUD at 1.70301 was modified -> sl: 1.70444 tp: 1.70514
+0	20:59:31.631	Notifications: 'order #158899588 buy 0.15 GBPAUD at 1.70301 modified: sl: 0.00000 tp: 1.70467 -> sl: 1.70444 tp: 1.70514' sent to 'D07ADD05'
+0	20:59:32.102	'10019548': order #158899588 buy 0.15 GBPAUD at 1.70301 closed due stop-loss at price 1.70444
+0	20:59:37.133	Notifications: 'order #158899588 buy 0.15 GBPAUD at 1.70301 closed due stop-loss at price 1.70444, profit: 21.45 AUD' sent to 'D07ADD05'
+1	21:14:07.504	'10019548': connect failed [No connection]
+0	21:17:48.747	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: n/a)
+1	21:19:54.988	'10019548': connect failed [No connection]
+0	21:20:00.802	'10019548': login on ICMarkets-Demo01 through Demo DC (ping: n/a)
+0	21:20:04.130	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC (ping: n/a)
+0	21:20:04.789	'10019548': previous successful authorization performed from 220.244.203.12
+0	21:20:29.293	'10019548': auto connecting to a better access point Demo DC #3 (ping is 233.88 ms)
+0	21:20:30.039	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 233.88 ms)
+0	21:20:32.903	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 233.88 ms)
+0	21:20:33.433	'10019548': previous successful authorization performed from 220.244.203.12
+1	22:07:33.753	'10019548': ping failed
+0	22:07:34.535	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 233.88 ms)
+0	22:08:40.808	'10019548': login on ICMarkets-Demo01 through Demo DC (ping: 238.05 ms)
+0	22:09:46.773	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 546.56 ms)
+0	22:10:23.495	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: 546.56 ms)
+0	22:10:24.246	'10019548': previous successful authorization performed from 220.244.203.12
+1	23:08:04.833	'10019548': ping failed
+0	23:08:05.598	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 546.56 ms)
+1	23:09:11.022	'10019548': connect failed [No connection]
+0	23:09:16.719	'10019548': login on ICMarkets-Demo01 through Demo DC (ping: n/a)
+0	23:09:39.545	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC (ping: n/a)
+0	23:09:40.180	'10019548': previous successful authorization performed from 220.244.203.12
+0	23:10:22.107	'10019548': auto connecting to a better access point Demo DC #3 (ping is 233.01 ms)
+0	23:10:22.752	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 233.01 ms)
+0	23:10:25.618	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 233.01 ms)
+0	23:10:26.149	'10019548': previous successful authorization performed from 220.244.203.12

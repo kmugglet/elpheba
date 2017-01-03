@@ -1,0 +1,45 @@
+0	04:40:00.341	'10019548': order buy market 0.09 USDJPY sl: 0.000 tp: 114.254
+0	04:40:00.728	'10019548': order was opened : #157216522 buy 0.09 USDJPY at 113.954 sl: 0.000 tp: 114.254
+0	04:40:02.831	Notifications: 'order opened #157216522 buy 0.09 USDJPY at 113.954 tp: 114.254' sent to 'D07ADD05'
+0	05:35:15.782	'10019548': order sell market 0.09 EURJPY sl: 0.000 tp: 121.773
+0	05:35:16.110	'10019548': order was opened : #157220037 sell 0.09 EURJPY at 122.064 sl: 0.000 tp: 121.773
+0	05:35:18.000	Notifications: 'order opened #157220037 sell 0.09 EURJPY at 122.064 tp: 121.773' sent to 'D07ADD05'
+0	11:06:48.767	'10019548': modify order #157216522 buy 0.09 USDJPY at 113.954 sl: 0.000 tp: 114.254 -> sl: 114.138 tp: 114.295
+0	11:06:49.121	'10019548': order #157216522 buy 0.09 USDJPY at 113.954 was modified -> sl: 114.138 tp: 114.295
+0	11:06:49.277	'10019548': modify order #157216522 buy 0.09 USDJPY at 113.954 sl: 114.138 tp: 114.295 -> sl: 114.139 tp: 114.295
+0	11:06:49.713	'10019548': order #157216522 buy 0.09 USDJPY at 113.954 was modified -> sl: 114.139 tp: 114.295
+0	11:06:50.484	'10019548': modify order #157216522 buy 0.09 USDJPY at 113.954 sl: 114.139 tp: 114.295 -> sl: 114.146 tp: 114.302
+0	11:06:50.811	'10019548': order #157216522 buy 0.09 USDJPY at 113.954 was modified -> sl: 114.146 tp: 114.302
+0	11:06:50.812	'10019548': modify order #157216522 buy 0.09 USDJPY at 113.954 sl: 114.146 tp: 114.302 -> sl: 114.150 tp: 114.302
+0	11:06:51.049	Notifications: 'order #157216522 buy 0.09 USDJPY at 113.954 modified: sl: 0.000 tp: 114.254 -> sl: 114.138 tp: 114.295' sent to 'D07ADD05'
+0	11:06:51.245	'10019548': order #157216522 buy 0.09 USDJPY at 113.954 was modified -> sl: 114.150 tp: 114.302
+0	11:06:52.010	'10019548': modify order #157216522 buy 0.09 USDJPY at 113.954 sl: 114.150 tp: 114.302 -> sl: 114.155 tp: 114.309
+0	11:06:52.407	'10019548': order #157216522 buy 0.09 USDJPY at 113.954 was modified -> sl: 114.155 tp: 114.309
+0	11:06:52.968	Notifications: 'order #157216522 buy 0.09 USDJPY at 113.954 modified: sl: 114.138 tp: 114.295 -> sl: 114.139 tp: 114.295' sent to 'D07ADD05'
+0	11:06:54.877	Notifications: 'order #157216522 buy 0.09 USDJPY at 113.954 modified: sl: 114.139 tp: 114.295 -> sl: 114.146 tp: 114.302' sent to 'D07ADD05'
+0	11:06:56.768	Notifications: 'order #157216522 buy 0.09 USDJPY at 113.954 modified: sl: 114.146 tp: 114.302 -> sl: 114.150 tp: 114.302' sent to 'D07ADD05'
+0	11:06:59.670	Notifications: 'order #157216522 buy 0.09 USDJPY at 113.954 modified: sl: 114.150 tp: 114.302 -> sl: 114.155 tp: 114.309' sent to 'D07ADD05'
+0	11:08:45.811	'10019548': order #157216522 buy 0.09 USDJPY at 113.954 closed due stop-loss at price 114.155
+0	11:08:47.664	Notifications: 'order #157216522 buy 0.09 USDJPY at 113.954 closed due stop-loss at price 114.155, profit: 21.21 AUD' sent to 'D07ADD05'
+1	17:26:55.501	'10019548': datacenter connecting failed [6]
+0	17:26:56.348	'10019548': login on ICMarkets-Demo01 through Demo DC (ping: 238.73 ms)
+0	17:26:59.227	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC (ping: 238.73 ms)
+0	17:26:59.876	'10019548': previous successful authorization performed from 210.185.106.34
+0	17:27:17.866	'10019548': auto connecting to a better access point Demo DC #3 (ping is 243.51 ms)
+0	17:27:18.691	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 243.51 ms)
+0	17:27:21.787	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 243.51 ms)
+0	17:27:22.514	'10019548': previous successful authorization performed from 210.185.106.34
+0	17:29:03.276	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 261.36 ms)
+0	17:29:11.149	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: 261.36 ms)
+0	17:29:13.753	'10019548': previous successful authorization performed from 210.185.106.34
+0	17:47:46.004	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 261.36 ms)
+0	17:48:52.660	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 261.36 ms)
+0	17:49:06.647	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: 261.36 ms)
+0	17:49:07.308	'10019548': previous successful authorization performed from 210.185.106.34
+0	19:20:36.404	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 261.36 ms)
+0	19:20:54.190	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: 261.36 ms)
+0	19:20:58.844	'10019548': previous successful authorization performed from 210.185.106.34
+0	19:21:31.524	'10019548': auto connecting to a better access point Demo DC (ping is 236.35 ms)
+0	19:21:32.236	'10019548': login on ICMarkets-Demo01 through Demo DC (ping: 236.35 ms)
+0	19:21:36.542	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC (ping: 236.35 ms)
+0	19:21:37.121	'10019548': previous successful authorization performed from 210.185.106.34

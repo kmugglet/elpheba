@@ -1,0 +1,71 @@
+0	09:01:54.767	Notifications: 'Close up completed @ 214.42' sent to 'D07ADD05'
+0	11:08:13.452	'10010844': login on ICMarkets-Demo01 through Demo DC US (ping: 78.38 ms)
+0	11:08:45.867	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC US (ping: 78.38 ms)
+0	11:08:46.179	'10010844': previous successful authorization performed from 14.203.207.42
+0	11:09:08.871	'10010844': ping to current access point Demo DC US is 78.36 ms
+1	11:48:26.067	'10010844': ping failed
+0	11:48:26.836	'10010844': login on ICMarkets-Demo01 through Demo DC (ping: 75.26 ms)
+0	11:48:27.581	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC (ping: 75.26 ms)
+0	11:48:27.860	'10010844': previous successful authorization performed from 138.68.53.131
+0	13:00:04.728	'10010844': order sell market 0.01 EURAUD sl: 0.00000 tp: 1.44327
+0	13:00:04.932	'10010844': order was opened : #153598515 sell 0.01 EURAUD at 1.44580 sl: 0.00000 tp: 1.44327
+0	13:00:04.938	'10010844': order sell market 0.01 USDJPY sl: 0.000 tp: 103.869
+0	13:00:05.549	'10010844': order was opened : #153598561 sell 0.01 USDJPY at 104.122 sl: 0.000 tp: 103.869
+0	13:00:06.582	Notifications: 'order opened #153598515 sell 0.01 EURAUD at 1.44580 tp: 1.44327' sent to 'D07ADD05'
+0	13:00:07.714	Notifications: 'order opened #153598561 sell 0.01 USDJPY at 104.122 tp: 103.869' sent to 'D07ADD05'
+0	13:25:20.695	'10010844': order #153598515 sell 0.01 EURAUD at 1.44580 closed due take-profit at price 1.44327
+0	13:25:22.463	Notifications: 'order #153598515 sell 0.01 EURAUD at 1.44580 closed due take-profit at price 1.44327, profit: 2.53 AUD' sent to 'D07ADD05'
+2	13:26:35.229	Expert Elpheba-20161030 EURUSD,H4: removed
+2	13:26:35.314	Expert Elpheba-20161020 EURUSD,H4: loaded successfully
+0	13:46:54.283	Sources recompilation started
+2	13:47:00.855	Expert Elpheba-20161020 EURUSD,H4: removed
+2	13:47:00.904	Expert Elpheba-20161030 EURUSD,H4: loaded successfully
+0	17:00:01.601	'10010844': order sell market 0.01 XAUUSD sl: 0.00 tp: 1287.86
+0	17:00:07.166	'10010844': order was opened : #153620312 sell 0.01 XAUUSD at 1290.30 sl: 0.00 tp: 1287.86
+0	18:26:58.746	IC Markets MT4 build 1010 started (International Capital Markets Pty Ltd.)
+0	18:26:58.752	Microsoft Windows 7 (x64 based PC), IE 09.00, 1 x Intel Pentium 4  2.40GHz, RAM: 172 / 488 Mb, HDD: 6358 / 20029 Mb, GMT+10:00
+0	18:26:58.752	Data Folder: Z:\home\keith\MT4-1
+0	18:26:59.455	Sources recompilation started
+0	18:27:02.645	Sources recompilation finished (1 compiled in 3190 msec)
+2	18:27:04.518	Expert DumpTicks EURUSD,M1: loaded successfully
+2	18:27:04.585	Expert Elpheba-20161030 EURUSD,H4: loaded successfully
+0	18:27:05.697	'10010844': login on ICMarkets-Demo01 through Demo DC (ping: 75.26 ms)
+0	18:27:06.810	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC (ping: 75.26 ms)
+0	18:27:07.143	'10010844': previous successful authorization performed from 14.203.207.42
+0	18:27:29.977	'10010844': auto connecting to a better access point Demo DC US (ping is 78.24 ms)
+0	18:27:30.390	'10010844': login on ICMarkets-Demo01 through Demo DC US (ping: 78.24 ms)
+0	18:27:31.290	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC US (ping: 78.24 ms)
+0	18:27:31.603	'10010844': previous successful authorization performed from 138.68.53.131
+0	18:31:47.989	Notifications: 'order #153620312 sell 0.01 XAUUSD at 1290.30 modified: sl: 0.00 tp: 1287.86 -> sl: 0.00 tp: 1287.79' sent to 'D07ADD05'
+0	18:32:07.456	Notifications: 'order #153620312 sell 0.01 XAUUSD at 1290.30 modified: sl: 0.00 tp: 1287.79 -> sl: 0.00 tp: 1287.66' sent to 'D07ADD05'
+0	19:05:53.646	'10010844': order #153620312 sell 0.01 XAUUSD at 1290.30 closed due take-profit at price 1287.66
+0	19:05:55.305	Notifications: 'order #153620312 sell 0.01 XAUUSD at 1290.30 closed due take-profit at price 1287.66, profit: 3.44 AUD' sent to 'D07ADD05'
+0	19:10:53.030	'10010844': modify order #152439332 sell 0.01 EURAUD at 1.42644 sl: 0.00000 tp: 1.42044 -> sl: 1.43954 tp: 1.43846
+0	19:10:53.234	'10010844': order #152439332 sell 0.01 EURAUD at 1.42644 was modified -> sl: 1.43954 tp: 1.43846
+0	19:10:53.235	'10010844': modify order #153325329 sell 0.01 EURGBP at 0.88670 sl: 0.00000 tp: 0.88106 -> sl: 0.89037 tp: 0.88931
+0	19:10:53.392	'10010844': order #153325329 sell 0.01 EURGBP at 0.88670 was modified -> sl: 0.89037 tp: 0.88931
+0	19:10:53.766	'10010844': order #153325329 sell 0.01 EURGBP at 0.88670 closed due stop-loss at price 0.89037
+0	19:10:53.828	'10010844': order #152439332 sell 0.01 EURAUD at 1.42644 closed due stop-loss at price 1.43954
+0	19:10:54.229	Notifications: 'Close up reached @ 217.00' sent to 'D07ADD05'
+0	19:10:55.374	Notifications: 'order #152439332 sell 0.01 EURAUD at 1.42644 modified: sl: 0.00000 tp: 1.42044 -> sl: 1.43954 tp: 1.43846' sent to 'D07ADD05'
+0	19:10:56.391	Notifications: 'order #153325329 sell 0.01 EURGBP at 0.88670 modified: sl: 0.00000 tp: 0.88106 -> sl: 0.89037 tp: 0.88931' sent to 'D07ADD05'
+0	19:10:57.484	Notifications: 'order #153325329 sell 0.01 EURGBP at 0.88670 closed due stop-loss at price 0.89037, profit: -5.94 AUD' sent to 'D07ADD05'
+0	19:10:58.554	Notifications: 'order #152439332 sell 0.01 EURAUD at 1.42644 closed due stop-loss at price 1.43954, profit: -13.10 AUD' sent to 'D07ADD05'
+0	19:14:06.282	Notifications: 'order #153598561 sell 0.01 USDJPY at 104.122 closed at price 104.418, profit: -3.69 AUD' sent to 'D07ADD05'
+0	19:14:07.396	Notifications: 'Close up completed @ 217.35' sent to 'D07ADD05'
+2	19:19:55.147	Expert DumpTicks EURUSD,M1: removed
+2	19:19:55.183	Expert Elpheba-20161030 EURUSD,H4: removed
+0	19:19:56.249	IC Markets MT4 build 1010 stopped
+0	19:32:02.784	IC Markets MT4 build 1010 started (International Capital Markets Pty Ltd.)
+0	19:32:02.784	Microsoft Windows 7 (x64 based PC), IE 09.00, 1 x Intel Pentium 4  2.40GHz, RAM: 200 / 488 Mb, HDD: 6342 / 20029 Mb, GMT+10:00
+0	19:32:02.784	Data Folder: Z:\home\keith\MT4-1
+0	19:32:03.283	Sources recompilation started
+0	19:32:08.457	Sources recompilation finished (1 compiled in 5175 msec)
+2	19:32:10.684	Expert DumpTicks EURUSD,M1: loaded successfully
+2	19:32:10.757	Expert Elpheba-20161030 EURUSD,H4: loaded successfully
+0	19:32:11.748	'10010844': login on ICMarkets-Demo01 through Demo DC US (ping: 78.24 ms)
+0	19:32:12.978	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC US (ping: 78.24 ms)
+0	19:32:13.289	'10010844': previous successful authorization performed from 14.203.207.42
+0	19:32:36.672	'10010844': ping to current access point Demo DC US is 78.34 ms
+2	19:38:05.180	Expert Elpheba-20161030 EURUSD,H4: removed
+2	19:38:05.321	Expert Elpheba-20161030 EURUSD,H4: loaded successfully

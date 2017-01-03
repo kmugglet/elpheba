@@ -1,0 +1,15 @@
+1	10:14:13.388	'10010844': datacenter connecting failed [6]
+1	10:14:13.608	'10010844': connect failed [No connection]
+0	10:17:44.739	'10010844': login on ICMarkets-Demo01 through Demo DC US (ping: n/a)
+0	10:17:45.535	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC US (ping: n/a)
+0	10:17:45.876	'10010844': previous successful authorization performed from 203.221.144.194
+0	10:18:09.171	'10010844': ping to current access point Demo DC US is 78.41 ms
+0	13:00:03.552	'10010844': order sell market 0.01 EURGBP sl: 0.00000 tp: 0.88106
+0	13:00:11.024	'10010844': order was opened : #153325329 sell 0.01 EURGBP at 0.88670 sl: 0.00000 tp: 0.88106
+0	13:00:11.027	'10010844': order buy market 0.01 GBPUSD sl: 0.00000 tp: 1.25395
+0	13:00:11.614	'10010844': order was opened : #153325349 buy 0.01 GBPUSD at 1.24790 sl: 0.00000 tp: 1.25395
+0	13:00:11.631	'10010844': order buy market 0.01 AUDCAD sl: 0.00000 tp: 1.03255
+0	13:00:11.947	'10010844': order was opened : #153325360 buy 0.01 AUDCAD at 1.02655 sl: 0.00000 tp: 1.03255
+0	13:00:12.350	Notifications: 'order opened #153325329 sell 0.01 EURGBP at 0.88670 tp: 0.88106' sent to 'D07ADD05'
+0	13:00:13.476	Notifications: 'order opened #153325349 buy 0.01 GBPUSD at 1.24790 tp: 1.25395' sent to 'D07ADD05'
+0	13:00:14.552	Notifications: 'order opened #153325360 buy 0.01 AUDCAD at 1.02655 tp: 1.03255' sent to 'D07ADD05'

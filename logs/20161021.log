@@ -1,0 +1,177 @@
+0	22:16:47.468	Migration: data to 'C:\Program Files\MetaTrader 4 IC Markets' migration started
+0	22:16:47.468	Migration: experts migration from 'C:\Program Files\MetaTrader 4 IC Markets' to 'C:\Program Files\MetaTrader 4 IC Markets' started
+0	22:16:47.468	Migration: experts folder updated from 'C:\Program Files\MetaTrader 4 IC Markets\experts' to 'C:\Program Files\MetaTrader 4 IC Markets\MQL4\Experts'
+0	22:16:47.468	Migration: include folder updated from 'C:\Program Files\MetaTrader 4 IC Markets\experts\include' to 'C:\Program Files\MetaTrader 4 IC Markets\MQL4\Include'
+0	22:16:47.468	Migration: indicators folder updated from 'C:\Program Files\MetaTrader 4 IC Markets\experts\indicators' to 'C:\Program Files\MetaTrader 4 IC Markets\MQL4\Indicators'
+0	22:16:47.468	Migration: scripts folder updated from 'C:\Program Files\MetaTrader 4 IC Markets\experts\scripts' to 'C:\Program Files\MetaTrader 4 IC Markets\MQL4\Scripts'
+0	22:16:47.468	Migration: expert logs folder updated from 'C:\Program Files\MetaTrader 4 IC Markets\experts\logs' to 'C:\Program Files\MetaTrader 4 IC Markets\MQL4\Logs'
+0	22:16:47.468	Migration: expert files folder updated from 'C:\Program Files\MetaTrader 4 IC Markets\experts\files' to 'C:\Program Files\MetaTrader 4 IC Markets\MQL4\Files'
+0	22:16:47.468	Migration: libraries folder updated from 'C:\Program Files\MetaTrader 4 IC Markets\experts\libraries' to 'C:\Program Files\MetaTrader 4 IC Markets\MQL4\Libraries'
+0	22:16:47.484	Migration: expert presets folder updated from 'C:\Program Files\MetaTrader 4 IC Markets\experts\presets' to 'C:\Program Files\MetaTrader 4 IC Markets\MQL4\Presets'
+0	22:16:47.484	Migration: expert images folder updated from 'C:\Program Files\MetaTrader 4 IC Markets\experts\images' to 'C:\Program Files\MetaTrader 4 IC Markets\MQL4\Images'
+0	22:16:47.484	Migration: experts migration finished
+0	22:16:47.484	Migration: data migration finished, no virtual folder
+0	22:16:47.484	LiveUpdate: update C:\Program Files\MetaTrader 4 IC Markets\MQL4 folder started
+0	22:16:47.484	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Experts/MACD Sample.mq4 updated
+0	22:16:47.484	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Experts/Moving Average.mq4 updated
+0	22:16:47.484	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Arrays/Array.mqh updated
+0	22:16:47.500	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Arrays/ArrayChar.mqh updated
+0	22:16:47.500	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Arrays/ArrayDouble.mqh updated
+0	22:16:47.500	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Arrays/ArrayFloat.mqh updated
+0	22:16:47.500	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Arrays/ArrayInt.mqh updated
+0	22:16:47.500	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Arrays/ArrayLong.mqh updated
+0	22:16:47.500	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Arrays/ArrayObj.mqh updated
+0	22:16:47.500	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Arrays/ArrayShort.mqh updated
+0	22:16:47.500	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Arrays/ArrayString.mqh updated
+0	22:16:47.515	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Arrays/List.mqh updated
+0	22:16:47.515	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Arrays/Tree.mqh updated
+0	22:16:47.515	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Arrays/TreeNode.mqh updated
+0	22:16:47.515	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Canvas/Canvas.mqh updated
+0	22:16:47.515	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/ChartObjects/ChartObject.mqh updated
+0	22:16:47.515	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/ChartObjects/ChartObjectPanel.mqh updated
+0	22:16:47.531	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/ChartObjects/ChartObjectsArrows.mqh updated
+0	22:16:47.531	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/ChartObjects/ChartObjectsBmpControls.mqh updated
+0	22:16:47.531	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/ChartObjects/ChartObjectsChannels.mqh updated
+0	22:16:47.531	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/ChartObjects/ChartObjectsFibo.mqh updated
+0	22:16:47.531	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/ChartObjects/ChartObjectsGann.mqh updated
+0	22:16:47.531	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/ChartObjects/ChartObjectsLines.mqh updated
+0	22:16:47.531	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/ChartObjects/ChartObjectsShapes.mqh updated
+0	22:16:47.546	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/ChartObjects/ChartObjectsTxtControls.mqh updated
+0	22:16:47.718	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Charts/Chart.mqh updated
+0	22:16:47.718	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/BmpButton.mqh updated
+0	22:16:47.718	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/Button.mqh updated
+0	22:16:47.718	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/CheckBox.mqh updated
+0	22:16:47.718	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/CheckGroup.mqh updated
+0	22:16:47.718	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/ComboBox.mqh updated
+0	22:16:47.734	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/DateDropList.mqh updated
+0	22:16:47.828	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/DatePicker.mqh updated
+0	22:16:47.828	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/Defines.mqh updated
+0	22:16:47.828	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/Dialog.mqh updated
+0	22:16:47.828	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/Edit.mqh updated
+0	22:16:47.859	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/Label.mqh updated
+0	22:16:47.859	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/ListView.mqh updated
+0	22:16:47.859	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/Panel.mqh updated
+0	22:16:47.859	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/Picture.mqh updated
+0	22:16:47.859	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/RadioButton.mqh updated
+0	22:16:47.859	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/RadioGroup.mqh updated
+0	22:16:47.859	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/Rect.mqh updated
+0	22:16:47.859	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/CheckBoxOff.bmp updated
+0	22:16:47.859	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/CheckBoxOn.bmp updated
+0	22:16:47.875	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/Close.bmp updated
+0	22:16:47.890	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/CloseDisable.bmp updated
+0	22:16:47.921	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/CloseOff.bmp updated
+0	22:16:47.921	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/CloseOn.bmp updated
+0	22:16:47.937	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/DateDropOff.bmp updated
+0	22:16:47.937	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/DateDropOn.bmp updated
+0	22:16:47.953	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/Down.bmp updated
+0	22:16:47.953	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/DownDisable.bmp updated
+0	22:16:47.968	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/DownSmall.bmp updated
+0	22:16:47.984	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/DownTransp.bmp updated
+0	22:16:47.984	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/down_smoll.bmp updated
+0	22:16:47.984	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/DropOff.bmp updated
+0	22:16:47.984	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/DropOn.bmp updated
+0	22:16:47.984	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/ExpandDisable.bmp updated
+0	22:16:47.984	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/ExpandOff.bmp updated
+0	22:16:47.984	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/ExpandOn.bmp updated
+0	22:16:48.000	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/HelpDisable.bmp updated
+0	22:16:48.000	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/HelpOff.bmp updated
+0	22:16:48.000	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/HelpOn.bmp updated
+0	22:16:48.000	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/Left.bmp updated
+0	22:16:48.000	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/LeftDisable.bmp updated
+0	22:16:48.000	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/LeftTransp.bmp updated
+0	22:16:48.000	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/RadioButtonOff.bmp updated
+0	22:16:48.000	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/RadioButtonOn.bmp updated
+0	22:16:48.015	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/Restore.bmp updated
+0	22:16:48.015	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/RestoreDisable.bmp updated
+0	22:16:48.015	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/RestoreOff.bmp updated
+0	22:16:48.015	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/RestoreOn.bmp updated
+0	22:16:48.015	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/Right.bmp updated
+0	22:16:48.015	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/RightDisable.bmp updated
+0	22:16:48.015	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/RightTransp.bmp updated
+0	22:16:48.015	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/SpinDec.bmp updated
+0	22:16:48.031	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/SpinInc.bmp updated
+0	22:16:48.031	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/ThumbHor.bmp updated
+0	22:16:48.031	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/ThumbHorDisable.bmp updated
+0	22:16:48.031	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/ThumbVert.bmp updated
+0	22:16:48.031	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/ThumbVertDisable.bmp updated
+0	22:16:48.046	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/Turn.bmp updated
+0	22:16:48.046	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/TurnOff.bmp updated
+0	22:16:48.046	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/TurnOn.bmp updated
+0	22:16:48.046	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/Up.bmp updated
+0	22:16:48.046	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/UpDisable.bmp updated
+0	22:16:48.046	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/UpSmall.bmp updated
+0	22:16:48.046	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/UpTransp.bmp updated
+0	22:16:48.046	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/res/up_smoll.bmp updated
+0	22:16:48.046	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/Scrolls.mqh updated
+0	22:16:48.062	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/SpinEdit.mqh updated
+0	22:16:48.062	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/TimePicker.mqh updated
+0	22:16:48.062	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/Wnd.mqh updated
+0	22:16:48.062	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/WndClient.mqh updated
+0	22:16:48.062	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/WndContainer.mqh updated
+0	22:16:48.062	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Controls/WndObj.mqh updated
+0	22:16:48.078	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Files/File.mqh updated
+0	22:16:48.078	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Files/FileBin.mqh updated
+0	22:16:48.078	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Files/FilePipe.mqh updated
+0	22:16:48.078	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Files/FileTxt.mqh updated
+0	22:16:48.078	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Indicators/BillWilliams.mqh updated
+0	22:16:48.078	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Indicators/Custom.mqh updated
+0	22:16:48.078	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Indicators/Indicator.mqh updated
+0	22:16:48.078	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Indicators/Indicators.mqh updated
+0	22:16:48.093	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Indicators/Oscilators.mqh updated
+0	22:16:48.093	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Indicators/Series.mqh updated
+0	22:16:48.093	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Indicators/TimeSeries.mqh updated
+0	22:16:48.093	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Indicators/Trend.mqh updated
+0	22:16:48.125	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Indicators/Volumes.mqh updated
+0	22:16:48.125	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/MovingAverages.mqh updated
+0	22:16:48.125	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Object.mqh updated
+0	22:16:48.125	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/stderror.mqh updated
+0	22:16:48.125	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/stdlib.mqh updated
+0	22:16:48.125	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/StdLibErr.mqh updated
+0	22:16:48.125	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Strings/String.mqh updated
+0	22:16:48.140	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/Tools/DateTime.mqh updated
+0	22:16:48.140	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Include/WinUser32.mqh updated
+0	22:16:48.140	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/Accelerator.mq4 updated
+0	22:16:48.140	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/Accumulation.mq4 updated
+0	22:16:48.140	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/Alligator.mq4 updated
+0	22:16:48.140	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/ATR.mq4 updated
+0	22:16:48.140	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/Awesome.mq4 updated
+0	22:16:48.156	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/Bands.mq4 updated
+0	22:16:48.156	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/Bears.mq4 updated
+0	22:16:48.156	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/Bulls.mq4 updated
+0	22:16:48.156	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/CCI.mq4 updated
+0	22:16:48.156	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/Custom Moving Averages.mq4 updated
+0	22:16:48.156	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/Examples/SimplePanel/PanelDialog.mqh updated
+0	22:16:48.156	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/Examples/SimplePanel/SimplePanel.mq4 updated
+0	22:16:48.171	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/Heiken Ashi.mq4 updated
+0	22:16:48.171	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/Ichimoku.mq4 updated
+0	22:16:48.171	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/iExposure.mq4 updated
+0	22:16:48.171	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/MACD.mq4 updated
+0	22:16:48.171	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/Momentum.mq4 updated
+0	22:16:48.171	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/OsMA.mq4 updated
+0	22:16:48.171	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/Parabolic.mq4 updated
+0	22:16:48.171	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/RSI.mq4 updated
+0	22:16:48.171	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/Stochastic.mq4 updated
+0	22:16:48.187	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Indicators/ZigZag.mq4 updated
+0	22:16:48.187	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Libraries/stdlib.mq4 updated
+0	22:16:48.187	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Scripts/Examples/DLL/DLLSample.cpp updated
+0	22:16:48.187	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Scripts/Examples/DLL/DLLSample.def updated
+0	22:16:48.187	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Scripts/Examples/DLL/DLLSample.vcxproj updated
+0	22:16:48.203	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Scripts/Examples/DLL/DLLSampleTester.mq4 updated
+0	22:16:48.234	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Scripts/Examples/DLL/Libraries/DLLSample.dll updated
+0	22:16:48.234	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Scripts/Examples/Pipes/PipeClient.mq4 updated
+0	22:16:48.234	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Scripts/Examples/Pipes/PipeClientPure.mq4 updated
+0	22:16:48.234	LiveUpdate: C:\Program Files\MetaTrader 4 IC Markets\MQL4/Scripts/PeriodConverter.mq4 updated
+0	22:16:48.234	LiveUpdate: update C:\Program Files\MetaTrader 4 IC Markets\MQL4 folder finished
+0	22:16:48.296	IC Markets MT4 build 1010 started (International Capital Markets Pty Ltd.)
+0	22:16:48.312	Microsoft Windows XP (X86 based PC), IE 06.00, 4 x Common KVM processor, RAM: 2602 / 2947 Mb, HDD: 26474 / 32757 Mb, GMT+10:00
+0	22:16:48.312	Data Folder: C:\Program Files\MetaTrader 4 IC Markets
+0	22:16:49.015	Sources recompilation started
+0	22:17:06.750	Sources recompilation finished (28 compiled in 17734 msec)
+3	22:17:07.875	Please upgrade your Internet Explorer to 8.0 or higher
+0	22:18:01.328	'10010844': login on ICMarkets-Demo01
+0	22:18:16.796	'10010844': previous successful authorization performed from 220.240.65.249
+0	22:18:45.406	'10010844': auto connecting to a better access point Demo DC US (ping is 321.94 ms)
+0	22:18:46.218	'10010844': login on ICMarkets-Demo01 through Demo DC US (ping: 321.94 ms)
+0	22:18:49.140	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC US (ping: 321.94 ms)
+0	22:18:49.937	'10010844': previous successful authorization performed from 220.240.65.249
+0	22:21:09.812	IC Markets MT4 build 1010 stopped

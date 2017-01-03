@@ -1,0 +1,31 @@
+1	06:19:15.294	'10019548': ping failed
+0	06:19:16.109	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 351.87 ms)
+0	06:19:19.055	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 351.87 ms)
+0	06:19:19.582	'10019548': previous successful authorization performed from 203.87.120.147
+0	06:19:36.562	'10019548': ping to current access point Demo DC #3 is 233.37 ms
+0	10:06:52.185	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 239.01 ms)
+0	10:07:58.181	'10019548': login on ICMarkets-Demo01 through Demo DC (ping: 235.71 ms)
+0	10:08:28.713	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC (ping: 235.71 ms)
+0	10:08:29.253	'10019548': previous successful authorization performed from 59.102.103.241
+0	10:08:46.295	'10019548': auto connecting to a better access point Demo DC #2 (ping is 237.09 ms)
+0	10:08:46.911	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 237.09 ms)
+0	10:08:59.930	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: 237.09 ms)
+0	10:09:00.528	'10019548': previous successful authorization performed from 59.102.103.241
+0	21:47:01.529	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 237.09 ms)
+0	21:47:06.210	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: 237.09 ms)
+0	21:47:07.004	'10019548': previous successful authorization performed from 59.102.103.241
+0	21:47:26.572	'10019548': auto connecting to a better access point Demo DC #3 (ping is 303.58 ms)
+0	21:47:27.546	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 303.58 ms)
+0	21:47:31.046	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 303.58 ms)
+0	21:47:31.705	'10019548': previous successful authorization performed from 59.102.100.176
+0	22:12:27.302	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 303.58 ms)
+0	22:12:31.188	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 303.58 ms)
+0	22:12:31.934	'10019548': previous successful authorization performed from 59.102.100.176
+1	22:44:19.748	'10019548': datacenter connecting failed [6]
+0	22:44:20.597	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 303.58 ms)
+0	22:44:23.370	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 303.58 ms)
+0	22:44:23.932	'10019548': previous successful authorization performed from 14.200.238.56
+0	23:07:02.044	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 303.58 ms)
+0	23:07:04.926	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 303.58 ms)
+0	23:07:05.475	'10019548': previous successful authorization performed from 14.200.247.232
+0	23:07:22.245	'10019548': ping to current access point Demo DC #3 is 229.68 ms

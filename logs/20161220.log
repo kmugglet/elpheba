@@ -1,0 +1,932 @@
+0	00:16:20.325	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 0.00000 tp: 1.02903 -> sl: 1.02725 tp: 1.02878
+1	00:16:20.677	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 0.00000 tp: 1.02903 -> sl: 1.02725 tp: 1.02878'
+0	00:16:20.677	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02725 tp: 1.02878
+0	00:17:50.323	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02725 tp: 1.02878 -> sl: 1.02730 tp: 1.02886
+1	00:17:50.677	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02725 tp: 1.02878 -> sl: 1.02730 tp: 1.02886'
+0	00:17:50.689	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02730 tp: 1.02886
+0	00:17:50.713	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02730 tp: 1.02886 -> sl: 1.02731 tp: 1.02886
+1	00:17:51.179	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02730 tp: 1.02886 -> sl: 1.02731 tp: 1.02886'
+0	00:17:51.179	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02731 tp: 1.02886
+0	00:18:01.951	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02731 tp: 1.02886 -> sl: 1.02733 tp: 1.02888
+1	00:18:02.578	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02731 tp: 1.02886 -> sl: 1.02733 tp: 1.02888'
+0	00:18:02.578	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02733 tp: 1.02888
+0	00:18:13.929	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02733 tp: 1.02888 -> sl: 1.02734 tp: 1.02891
+1	00:18:14.252	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02733 tp: 1.02888 -> sl: 1.02734 tp: 1.02891'
+0	00:18:14.277	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02734 tp: 1.02891
+0	00:18:17.554	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02734 tp: 1.02891 -> sl: 1.02737 tp: 1.02892
+1	00:18:18.111	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02734 tp: 1.02891 -> sl: 1.02737 tp: 1.02892'
+0	00:18:18.126	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02737 tp: 1.02892
+0	00:18:19.254	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02737 tp: 1.02892 -> sl: 1.02738 tp: 1.02895
+1	00:18:19.595	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02737 tp: 1.02892 -> sl: 1.02738 tp: 1.02895'
+0	00:18:19.595	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02738 tp: 1.02895
+0	00:20:02.350	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02738 tp: 1.02895 -> sl: 1.02740 tp: 1.02897
+1	00:20:02.716	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02738 tp: 1.02895 -> sl: 1.02740 tp: 1.02897'
+0	00:20:02.777	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02740 tp: 1.02897
+0	00:20:06.313	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02740 tp: 1.02897 -> sl: 1.02740 tp: 1.02896
+1	00:20:06.995	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02740 tp: 1.02897 -> sl: 1.02740 tp: 1.02896'
+0	00:20:06.995	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02740 tp: 1.02896
+0	00:20:06.996	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02740 tp: 1.02896 -> sl: 1.02743 tp: 1.02899
+1	00:20:07.622	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02740 tp: 1.02896 -> sl: 1.02743 tp: 1.02899'
+0	00:20:07.670	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02743 tp: 1.02899
+0	00:20:50.739	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02743 tp: 1.02899 -> sl: 1.02743 tp: 1.02897
+1	00:20:51.266	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02743 tp: 1.02899 -> sl: 1.02743 tp: 1.02897'
+0	00:20:51.281	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02743 tp: 1.02897
+0	00:21:30.898	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02743 tp: 1.02897 -> sl: 1.02744 tp: 1.02898
+1	00:21:31.331	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02743 tp: 1.02897 -> sl: 1.02744 tp: 1.02898'
+0	00:21:31.379	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02744 tp: 1.02898
+0	00:31:16.299	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02744 tp: 1.02898 -> sl: 1.02745 tp: 1.02900
+1	00:31:16.700	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02744 tp: 1.02898 -> sl: 1.02745 tp: 1.02900'
+0	00:31:16.700	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02745 tp: 1.02900
+0	00:31:30.692	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02745 tp: 1.02900 -> sl: 1.02749 tp: 1.02905
+1	00:31:31.041	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02745 tp: 1.02900 -> sl: 1.02749 tp: 1.02905'
+0	00:31:31.057	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02749 tp: 1.02905
+0	00:31:34.508	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02749 tp: 1.02905 -> sl: 1.02750 tp: 1.02905
+1	00:31:34.948	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02749 tp: 1.02905 -> sl: 1.02750 tp: 1.02905'
+0	00:31:35.010	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02750 tp: 1.02905
+0	00:31:35.410	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02750 tp: 1.02905 -> sl: 1.02763 tp: 1.02920
+1	00:31:35.855	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02750 tp: 1.02905 -> sl: 1.02763 tp: 1.02920'
+0	00:31:35.855	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02763 tp: 1.02920
+0	00:31:35.856	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02763 tp: 1.02920 -> sl: 1.02764 tp: 1.02920
+1	00:31:37.074	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02763 tp: 1.02920 -> sl: 1.02764 tp: 1.02920'
+0	00:31:37.074	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02764 tp: 1.02920
+0	00:31:37.074	'10019548': modify order #158374378 buy 0.11 USDCHF at 1.02586 sl: 1.02764 tp: 1.02920 -> sl: 1.02766 tp: 1.02920
+1	00:31:37.480	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 modified: sl: 1.02764 tp: 1.02920 -> sl: 1.02766 tp: 1.02920'
+0	00:31:37.541	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 was modified -> sl: 1.02766 tp: 1.02920
+0	00:49:26.016	'10019548': order #158374378 buy 0.11 USDCHF at 1.02586 closed due stop-loss at price 1.02766
+1	00:49:26.016	Notifications: not enough space for notification 'order #158374378 buy 0.11 USDCHF at 1.02586 closed due stop-loss at price 1.02766, profit: 26.57 AUD'
+0	00:53:12.892	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 0.00000 tp: 1.43781 -> sl: 1.43682 tp: 1.43841
+1	00:53:13.256	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 0.00000 tp: 1.43781 -> sl: 1.43682 tp: 1.43841'
+0	00:53:13.267	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43682 tp: 1.43841
+0	00:53:13.317	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43682 tp: 1.43841 -> sl: 1.43683 tp: 1.43844
+1	00:53:14.228	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43682 tp: 1.43841 -> sl: 1.43683 tp: 1.43844'
+0	00:53:14.228	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43683 tp: 1.43844
+0	00:53:17.663	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43683 tp: 1.43844 -> sl: 1.43685 tp: 1.43845
+1	00:53:18.024	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43683 tp: 1.43844 -> sl: 1.43685 tp: 1.43845'
+0	00:53:18.037	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43685 tp: 1.43845
+0	00:53:18.037	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43685 tp: 1.43845 -> sl: 1.43689 tp: 1.43848
+1	00:53:18.385	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43685 tp: 1.43845 -> sl: 1.43689 tp: 1.43848'
+0	00:53:18.397	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43689 tp: 1.43848
+0	00:53:26.026	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43689 tp: 1.43848 -> sl: 1.43692 tp: 1.43850
+1	00:53:26.383	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43689 tp: 1.43848 -> sl: 1.43692 tp: 1.43850'
+0	00:53:26.383	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43692 tp: 1.43850
+0	00:53:46.685	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43692 tp: 1.43850 -> sl: 1.43693 tp: 1.43852
+1	00:53:47.055	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43692 tp: 1.43850 -> sl: 1.43693 tp: 1.43852'
+0	00:53:47.056	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43693 tp: 1.43852
+0	00:53:47.056	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43693 tp: 1.43852 -> sl: 1.43699 tp: 1.43859
+1	00:53:47.398	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43693 tp: 1.43852 -> sl: 1.43699 tp: 1.43859'
+0	00:53:47.415	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43699 tp: 1.43859
+0	00:53:47.415	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43699 tp: 1.43859 -> sl: 1.43704 tp: 1.43863
+1	00:53:47.758	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43699 tp: 1.43859 -> sl: 1.43704 tp: 1.43863'
+0	00:53:47.775	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43704 tp: 1.43863
+0	00:54:16.252	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43704 tp: 1.43863 -> sl: 1.43705 tp: 1.43862
+1	00:54:16.639	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43704 tp: 1.43863 -> sl: 1.43705 tp: 1.43862'
+0	00:54:16.639	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43705 tp: 1.43862
+0	00:54:16.691	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43705 tp: 1.43862 -> sl: 1.43707 tp: 1.43865
+1	00:54:17.170	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43705 tp: 1.43862 -> sl: 1.43707 tp: 1.43865'
+0	00:54:17.170	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43707 tp: 1.43865
+0	00:54:17.171	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43707 tp: 1.43865 -> sl: 1.43709 tp: 1.43867
+1	00:54:17.511	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43707 tp: 1.43865 -> sl: 1.43709 tp: 1.43867'
+0	00:54:17.573	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43709 tp: 1.43867
+0	00:55:19.205	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43709 tp: 1.43867 -> sl: 1.43711 tp: 1.43869
+1	00:55:19.548	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43709 tp: 1.43867 -> sl: 1.43711 tp: 1.43869'
+0	00:55:19.610	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43711 tp: 1.43869
+0	00:55:19.625	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43711 tp: 1.43869 -> sl: 1.43715 tp: 1.43872
+1	00:55:19.985	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43711 tp: 1.43869 -> sl: 1.43715 tp: 1.43872'
+0	00:55:19.986	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43715 tp: 1.43872
+0	00:55:23.842	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43715 tp: 1.43872 -> sl: 1.43719 tp: 1.43879
+1	00:55:24.191	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43715 tp: 1.43872 -> sl: 1.43719 tp: 1.43879'
+0	00:55:24.191	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43719 tp: 1.43879
+0	00:57:53.378	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43719 tp: 1.43879 -> sl: 1.43726 tp: 1.43883
+1	00:57:53.802	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43719 tp: 1.43879 -> sl: 1.43726 tp: 1.43883'
+0	00:57:53.802	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43726 tp: 1.43883
+0	00:57:53.803	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43726 tp: 1.43883 -> sl: 1.43739 tp: 1.43901
+1	00:57:54.188	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43726 tp: 1.43883 -> sl: 1.43739 tp: 1.43901'
+0	00:57:54.188	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43739 tp: 1.43901
+0	00:57:54.189	'10019548': modify order #158374294 buy 0.11 EURAUD at 1.43481 sl: 1.43739 tp: 1.43901 -> sl: 1.43744 tp: 1.43906
+1	00:57:54.532	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 modified: sl: 1.43739 tp: 1.43901 -> sl: 1.43744 tp: 1.43906'
+0	00:57:54.597	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 was modified -> sl: 1.43744 tp: 1.43906
+0	00:58:30.179	'10019548': order #158374294 buy 0.11 EURAUD at 1.43481 closed due stop-loss at price 1.43744
+1	00:58:30.179	Notifications: not enough space for notification 'order #158374294 buy 0.11 EURAUD at 1.43481 closed due stop-loss at price 1.43744, profit: 28.93 AUD'
+0	02:00:51.564	'10019548': modify order #158369311 sell 0.11 XAUUSD at 1138.91 sl: 0.00 tp: 1135.91 -> sl: 1137.56 tp: 1135.99
+1	02:00:52.151	Notifications: not enough space for notification 'order #158369311 sell 0.11 XAUUSD at 1138.91 modified: sl: 0.00 tp: 1135.91 -> sl: 1137.56 tp: 1135.99'
+0	02:00:52.162	'10019548': order #158369311 sell 0.11 XAUUSD at 1138.91 was modified -> sl: 1137.56 tp: 1135.99
+0	02:01:01.681	'10019548': order #158369311 sell 0.11 XAUUSD at 1138.91 closed due stop-loss at price 1137.56
+1	02:01:01.682	Notifications: not enough space for notification 'order #158369311 sell 0.11 XAUUSD at 1138.91 closed due stop-loss at price 1137.56, profit: 20.48 AUD'
+0	05:35:00.984	'10019548': order buy market 0.11 USDCHF sl: 0.00000 tp: 1.02727
+1	05:35:01.397	Notifications: not enough space for notification 'order opened #158417971 buy 0.11 USDCHF at 1.02426 tp: 1.02727'
+0	05:35:01.449	'10019548': order was opened : #158417971 buy 0.11 USDCHF at 1.02426 sl: 0.00000 tp: 1.02727
+1	05:36:00.101	Notifications: not enough space for notification 'Close up reached @ 2343.18'
+0	05:36:00.101	'10019548': modify order #158368748 sell 0.11 EURGBP at 0.83812 sl: 0.00000 tp: 0.83524 -> sl: 0.84032 tp: 0.83878
+1	05:36:00.471	Notifications: not enough space for notification 'order #158368748 sell 0.11 EURGBP at 0.83812 modified: sl: 0.00000 tp: 0.83524 -> sl: 0.84032 tp: 0.83878'
+0	05:36:00.471	'10019548': order #158368748 sell 0.11 EURGBP at 0.83812 was modified -> sl: 0.84032 tp: 0.83878
+0	05:36:00.472	'10019548': modify order #158369307 buy 0.11 USDJPY at 117.463 sl: 0.000 tp: 117.762 -> sl: 117.123 tp: 117.275
+1	05:36:00.861	Notifications: not enough space for notification 'order #158369307 buy 0.11 USDJPY at 117.463 modified: sl: 0.000 tp: 117.762 -> sl: 117.123 tp: 117.275'
+0	05:36:00.862	'10019548': order #158369307 buy 0.11 USDJPY at 117.463 was modified -> sl: 117.123 tp: 117.275
+0	05:36:00.862	'10019548': modify order #158369309 buy 0.11 AUDCAD at 0.97371 sl: 0.00000 tp: 0.97669 -> sl: 0.97151 tp: 0.97312
+1	05:36:01.721	Notifications: not enough space for notification 'order #158369309 buy 0.11 AUDCAD at 0.97371 modified: sl: 0.00000 tp: 0.97669 -> sl: 0.97151 tp: 0.97312'
+0	05:36:01.830	'10019548': order #158369309 buy 0.11 AUDCAD at 0.97371 was modified -> sl: 0.97151 tp: 0.97312
+0	05:36:01.830	'10019548': modify order #158369588 buy 0.11 AUDCAD at 0.97378 sl: 0.00000 tp: 0.97685 -> sl: 0.97151 tp: 0.97312
+1	05:36:02.364	Notifications: not enough space for notification 'order #158369588 buy 0.11 AUDCAD at 0.97378 modified: sl: 0.00000 tp: 0.97685 -> sl: 0.97151 tp: 0.97312'
+0	05:36:02.377	'10019548': order #158369588 buy 0.11 AUDCAD at 0.97378 was modified -> sl: 0.97151 tp: 0.97312
+0	05:36:02.378	'10019548': modify order #158370189 sell 0.11 EURGBP at 0.83817 sl: 0.00000 tp: 0.83550 -> sl: 0.84032 tp: 0.83878
+1	05:36:02.816	Notifications: not enough space for notification 'order #158370189 sell 0.11 EURGBP at 0.83817 modified: sl: 0.00000 tp: 0.83550 -> sl: 0.84032 tp: 0.83878'
+0	05:36:02.831	'10019548': order #158370189 sell 0.11 EURGBP at 0.83817 was modified -> sl: 0.84032 tp: 0.83878
+0	05:36:02.831	'10019548': modify order #158370699 buy 0.11 AUDCAD at 0.97365 sl: 0.00000 tp: 0.97665 -> sl: 0.97151 tp: 0.97312
+1	05:36:03.222	Notifications: not enough space for notification 'order #158370699 buy 0.11 AUDCAD at 0.97365 modified: sl: 0.00000 tp: 0.97665 -> sl: 0.97151 tp: 0.97312'
+0	05:36:03.239	'10019548': order #158370699 buy 0.11 AUDCAD at 0.97365 was modified -> sl: 0.97151 tp: 0.97312
+0	05:36:03.239	'10019548': modify order #158373230 buy 0.11 GBPAUD at 1.71113 sl: 0.00000 tp: 1.71398 -> sl: 1.71192 tp: 1.71368
+1	05:36:03.876	Notifications: not enough space for notification 'order #158373230 buy 0.11 GBPAUD at 1.71113 modified: sl: 0.00000 tp: 1.71398 -> sl: 1.71192 tp: 1.71368'
+0	05:36:03.989	'10019548': order #158373230 buy 0.11 GBPAUD at 1.71113 was modified -> sl: 1.71192 tp: 1.71368
+0	05:36:03.989	'10019548': modify order #158417971 buy 0.11 USDCHF at 1.02426 sl: 0.00000 tp: 1.02727 -> sl: 1.02442 tp: 1.02600
+1	05:36:07.285	Notifications: not enough space for notification 'order #158417971 buy 0.11 USDCHF at 1.02426 modified: sl: 0.00000 tp: 1.02727 -> sl: 1.02442 tp: 1.02600'
+0	05:36:07.285	'10019548': order #158417971 buy 0.11 USDCHF at 1.02426 was modified -> sl: 1.02442 tp: 1.02600
+0	05:36:07.286	'10019548': modify order #158368748 sell 0.11 EURGBP at 0.83812 sl: 0.84032 tp: 0.83878 -> sl: 0.84022 tp: 0.83868
+1	05:36:08.441	Notifications: not enough space for notification 'order #158368748 sell 0.11 EURGBP at 0.83812 modified: sl: 0.84032 tp: 0.83878 -> sl: 0.84022 tp: 0.83868'
+0	05:36:08.502	'10019548': order #158368748 sell 0.11 EURGBP at 0.83812 was modified -> sl: 0.84022 tp: 0.83868
+0	05:36:08.502	'10019548': modify order #158369309 buy 0.11 AUDCAD at 0.97371 sl: 0.97151 tp: 0.97312 -> sl: 0.97154 tp: 0.97315
+1	05:36:09.223	Notifications: not enough space for notification 'order #158369309 buy 0.11 AUDCAD at 0.97371 modified: sl: 0.97151 tp: 0.97312 -> sl: 0.97154 tp: 0.97315'
+0	05:36:09.284	'10019548': order #158369309 buy 0.11 AUDCAD at 0.97371 was modified -> sl: 0.97154 tp: 0.97315
+0	05:36:09.284	'10019548': modify order #158369588 buy 0.11 AUDCAD at 0.97378 sl: 0.97151 tp: 0.97312 -> sl: 0.97157 tp: 0.97316
+1	05:36:09.819	Notifications: not enough space for notification 'order #158369588 buy 0.11 AUDCAD at 0.97378 modified: sl: 0.97151 tp: 0.97312 -> sl: 0.97157 tp: 0.97316'
+0	05:36:09.880	'10019548': order #158369588 buy 0.11 AUDCAD at 0.97378 was modified -> sl: 0.97157 tp: 0.97316
+0	05:36:09.880	'10019548': modify order #158370189 sell 0.11 EURGBP at 0.83817 sl: 0.84032 tp: 0.83878 -> sl: 0.84019 tp: 0.83865
+1	05:36:10.333	Notifications: not enough space for notification 'order #158370189 sell 0.11 EURGBP at 0.83817 modified: sl: 0.84032 tp: 0.83878 -> sl: 0.84019 tp: 0.83865'
+0	05:36:10.334	'10019548': order #158370189 sell 0.11 EURGBP at 0.83817 was modified -> sl: 0.84019 tp: 0.83865
+0	05:36:10.334	'10019548': modify order #158370699 buy 0.11 AUDCAD at 0.97365 sl: 0.97151 tp: 0.97312 -> sl: 0.97154 tp: 0.97312
+1	05:36:10.880	Notifications: not enough space for notification 'order #158370699 buy 0.11 AUDCAD at 0.97365 modified: sl: 0.97151 tp: 0.97312 -> sl: 0.97154 tp: 0.97312'
+0	05:36:10.948	'10019548': order #158370699 buy 0.11 AUDCAD at 0.97365 was modified -> sl: 0.97154 tp: 0.97312
+0	05:36:10.971	'10019548': modify order #158368748 sell 0.11 EURGBP at 0.83812 sl: 0.84022 tp: 0.83868 -> sl: 0.84020 tp: 0.83866
+1	05:36:11.472	Notifications: not enough space for notification 'order #158368748 sell 0.11 EURGBP at 0.83812 modified: sl: 0.84022 tp: 0.83868 -> sl: 0.84020 tp: 0.83866'
+0	05:36:11.472	'10019548': order #158368748 sell 0.11 EURGBP at 0.83812 was modified -> sl: 0.84020 tp: 0.83866
+0	05:36:11.472	'10019548': modify order #158369309 buy 0.11 AUDCAD at 0.97371 sl: 0.97154 tp: 0.97315 -> sl: 0.97158 tp: 0.97319
+1	05:36:11.959	Notifications: not enough space for notification 'order #158369309 buy 0.11 AUDCAD at 0.97371 modified: sl: 0.97154 tp: 0.97315 -> sl: 0.97158 tp: 0.97319'
+0	05:36:11.959	'10019548': order #158369309 buy 0.11 AUDCAD at 0.97371 was modified -> sl: 0.97158 tp: 0.97319
+0	05:36:11.960	'10019548': modify order #158373230 buy 0.11 GBPAUD at 1.71113 sl: 1.71192 tp: 1.71368 -> sl: 1.71199 tp: 1.71374
+1	05:36:13.535	Notifications: not enough space for notification 'order #158373230 buy 0.11 GBPAUD at 1.71113 modified: sl: 1.71192 tp: 1.71368 -> sl: 1.71199 tp: 1.71374'
+0	05:36:13.535	'10019548': order #158373230 buy 0.11 GBPAUD at 1.71113 was modified -> sl: 1.71199 tp: 1.71374
+0	05:36:13.535	'10019548': modify order #158369309 buy 0.11 AUDCAD at 0.97371 sl: 0.97158 tp: 0.97319 -> sl: 0.97160 tp: 0.97319
+1	05:36:13.970	Notifications: not enough space for notification 'order #158369309 buy 0.11 AUDCAD at 0.97371 modified: sl: 0.97158 tp: 0.97319 -> sl: 0.97160 tp: 0.97319'
+0	05:36:14.033	'10019548': order #158369309 buy 0.11 AUDCAD at 0.97371 was modified -> sl: 0.97160 tp: 0.97319
+0	05:36:22.071	'10019548': modify order #158369307 buy 0.11 USDJPY at 117.463 sl: 117.123 tp: 117.275 -> sl: 117.126 tp: 117.280
+1	05:36:22.863	Notifications: not enough space for notification 'order #158369307 buy 0.11 USDJPY at 117.463 modified: sl: 117.123 tp: 117.275 -> sl: 117.126 tp: 117.280'
+0	05:36:22.925	'10019548': order #158369307 buy 0.11 USDJPY at 117.463 was modified -> sl: 117.126 tp: 117.280
+0	05:36:22.925	'10019548': modify order #158417971 buy 0.11 USDCHF at 1.02426 sl: 1.02442 tp: 1.02600 -> sl: 1.02445 tp: 1.02600
+1	05:36:23.316	Notifications: not enough space for notification 'order #158417971 buy 0.11 USDCHF at 1.02426 modified: sl: 1.02442 tp: 1.02600 -> sl: 1.02445 tp: 1.02600'
+0	05:36:23.378	'10019548': order #158417971 buy 0.11 USDCHF at 1.02426 was modified -> sl: 1.02445 tp: 1.02600
+0	05:36:23.480	'10019548': modify order #158369307 buy 0.11 USDJPY at 117.463 sl: 117.126 tp: 117.280 -> sl: 117.130 tp: 117.283
+1	05:36:23.864	Notifications: not enough space for notification 'order #158369307 buy 0.11 USDJPY at 117.463 modified: sl: 117.126 tp: 117.280 -> sl: 117.130 tp: 117.283'
+0	05:36:23.925	'10019548': order #158369307 buy 0.11 USDJPY at 117.463 was modified -> sl: 117.130 tp: 117.283
+0	05:36:23.925	'10019548': modify order #158417971 buy 0.11 USDCHF at 1.02426 sl: 1.02445 tp: 1.02600 -> sl: 1.02451 tp: 1.02605
+1	05:36:25.535	Notifications: not enough space for notification 'order #158417971 buy 0.11 USDCHF at 1.02426 modified: sl: 1.02445 tp: 1.02600 -> sl: 1.02451 tp: 1.02605'
+0	05:36:25.535	'10019548': order #158417971 buy 0.11 USDCHF at 1.02426 was modified -> sl: 1.02451 tp: 1.02605
+0	05:36:25.536	'10019548': modify order #158417971 buy 0.11 USDCHF at 1.02426 sl: 1.02451 tp: 1.02605 -> sl: 1.02455 tp: 1.02609
+1	05:36:26.301	Notifications: not enough space for notification 'order #158417971 buy 0.11 USDCHF at 1.02426 modified: sl: 1.02451 tp: 1.02605 -> sl: 1.02455 tp: 1.02609'
+0	05:36:26.364	'10019548': order #158417971 buy 0.11 USDCHF at 1.02426 was modified -> sl: 1.02455 tp: 1.02609
+0	05:36:27.472	'10019548': modify order #158369307 buy 0.11 USDJPY at 117.463 sl: 117.130 tp: 117.283 -> sl: 117.151 tp: 117.303
+1	05:36:28.020	Notifications: not enough space for notification 'order #158369307 buy 0.11 USDJPY at 117.463 modified: sl: 117.130 tp: 117.283 -> sl: 117.151 tp: 117.303'
+0	05:36:28.021	'10019548': order #158369307 buy 0.11 USDJPY at 117.463 was modified -> sl: 117.151 tp: 117.303
+0	05:36:28.021	'10019548': modify order #158417971 buy 0.11 USDCHF at 1.02426 sl: 1.02455 tp: 1.02609 -> sl: 1.02458 tp: 1.02614
+1	05:36:28.363	Notifications: not enough space for notification 'order #158417971 buy 0.11 USDCHF at 1.02426 modified: sl: 1.02455 tp: 1.02609 -> sl: 1.02458 tp: 1.02614'
+0	05:36:28.426	'10019548': order #158417971 buy 0.11 USDCHF at 1.02426 was modified -> sl: 1.02458 tp: 1.02614
+0	05:36:28.427	'10019548': modify order #158369307 buy 0.11 USDJPY at 117.463 sl: 117.151 tp: 117.303 -> sl: 117.152 tp: 117.305
+1	05:36:28.792	Notifications: not enough space for notification 'order #158369307 buy 0.11 USDJPY at 117.463 modified: sl: 117.151 tp: 117.303 -> sl: 117.152 tp: 117.305'
+0	05:36:28.833	'10019548': order #158369307 buy 0.11 USDJPY at 117.463 was modified -> sl: 117.152 tp: 117.305
+0	05:36:31.093	'10019548': modify order #158369309 buy 0.11 AUDCAD at 0.97371 sl: 0.97160 tp: 0.97319 -> sl: 0.97185 tp: 0.97341
+1	05:36:31.599	Notifications: not enough space for notification 'order #158369309 buy 0.11 AUDCAD at 0.97371 modified: sl: 0.97160 tp: 0.97319 -> sl: 0.97185 tp: 0.97341'
+0	05:36:31.661	'10019548': order #158369309 buy 0.11 AUDCAD at 0.97371 was modified -> sl: 0.97185 tp: 0.97341
+0	05:36:31.661	'10019548': modify order #158369588 buy 0.11 AUDCAD at 0.97378 sl: 0.97157 tp: 0.97316 -> sl: 0.97185 tp: 0.97341
+1	05:36:32.005	Notifications: not enough space for notification 'order #158369588 buy 0.11 AUDCAD at 0.97378 modified: sl: 0.97157 tp: 0.97316 -> sl: 0.97185 tp: 0.97341'
+0	05:36:32.067	'10019548': order #158369588 buy 0.11 AUDCAD at 0.97378 was modified -> sl: 0.97185 tp: 0.97341
+0	05:36:32.068	'10019548': modify order #158370699 buy 0.11 AUDCAD at 0.97365 sl: 0.97154 tp: 0.97312 -> sl: 0.97185 tp: 0.97341
+1	05:36:41.286	Notifications: not enough space for notification 'order #158370699 buy 0.11 AUDCAD at 0.97365 modified: sl: 0.97154 tp: 0.97312 -> sl: 0.97185 tp: 0.97341'
+0	05:36:41.398	'10019548': order #158370699 buy 0.11 AUDCAD at 0.97365 was modified -> sl: 0.97185 tp: 0.97341
+0	05:36:41.398	'10019548': modify order #158417971 buy 0.11 USDCHF at 1.02426 sl: 1.02458 tp: 1.02614 -> sl: 1.02470 tp: 1.02623
+1	05:36:41.739	Notifications: not enough space for notification 'order #158417971 buy 0.11 USDCHF at 1.02426 modified: sl: 1.02458 tp: 1.02614 -> sl: 1.02470 tp: 1.02623'
+0	05:36:41.764	'10019548': order #158417971 buy 0.11 USDCHF at 1.02426 was modified -> sl: 1.02470 tp: 1.02623
+0	05:36:44.251	'10019548': modify order #158368748 sell 0.11 EURGBP at 0.83812 sl: 0.84020 tp: 0.83866 -> sl: 0.84018 tp: 0.83865
+1	05:36:46.317	Notifications: not enough space for notification 'order #158368748 sell 0.11 EURGBP at 0.83812 modified: sl: 0.84020 tp: 0.83866 -> sl: 0.84018 tp: 0.83865'
+0	05:36:46.333	'10019548': order #158368748 sell 0.11 EURGBP at 0.83812 was modified -> sl: 0.84018 tp: 0.83865
+0	05:36:46.333	'10019548': modify order #158369307 buy 0.11 USDJPY at 117.463 sl: 117.152 tp: 117.305 -> sl: 117.181 tp: 117.337
+1	05:36:46.724	Notifications: not enough space for notification 'order #158369307 buy 0.11 USDJPY at 117.463 modified: sl: 117.152 tp: 117.305 -> sl: 117.181 tp: 117.337'
+0	05:36:46.834	'10019548': order #158369307 buy 0.11 USDJPY at 117.463 was modified -> sl: 117.181 tp: 117.337
+0	05:36:46.834	'10019548': modify order #158417971 buy 0.11 USDCHF at 1.02426 sl: 1.02470 tp: 1.02623 -> sl: 1.02478 tp: 1.02633
+1	05:36:47.271	Notifications: not enough space for notification 'order #158417971 buy 0.11 USDCHF at 1.02426 modified: sl: 1.02470 tp: 1.02623 -> sl: 1.02478 tp: 1.02633'
+0	05:36:47.335	'10019548': order #158417971 buy 0.11 USDCHF at 1.02426 was modified -> sl: 1.02478 tp: 1.02633
+0	05:36:47.335	'10019548': modify order #158417971 buy 0.11 USDCHF at 1.02426 sl: 1.02478 tp: 1.02633 -> sl: 1.02480 tp: 1.02633
+1	05:36:47.724	Notifications: not enough space for notification 'order #158417971 buy 0.11 USDCHF at 1.02426 modified: sl: 1.02478 tp: 1.02633 -> sl: 1.02480 tp: 1.02633'
+0	05:36:47.788	'10019548': order #158417971 buy 0.11 USDCHF at 1.02426 was modified -> sl: 1.02480 tp: 1.02633
+0	05:36:49.725	'10019548': order #158373230 buy 0.11 GBPAUD at 1.71113 closed due stop-loss at price 1.71199
+1	05:36:49.725	Notifications: allowed 30 messages per minute
+0	05:37:06.744	'10019548': order #158368748 sell 0.11 EURGBP at 0.83812 closed due stop-loss at price 0.84018
+1	05:37:06.744	Notifications: not enough space for notification 'order #158368748 sell 0.11 EURGBP at 0.83812 closed due stop-loss at price 0.84018, profit: -38.79 AUD'
+0	05:37:06.804	'10019548': order #158370189 sell 0.11 EURGBP at 0.83817 closed due stop-loss at price 0.84019
+1	05:37:06.804	Notifications: not enough space for notification 'order #158370189 sell 0.11 EURGBP at 0.83817 closed due stop-loss at price 0.84019, profit: -38.04 AUD'
+0	05:37:17.342	'10019548': modify order #158369307 buy 0.11 USDJPY at 117.463 sl: 117.181 tp: 117.337 -> sl: 117.182 tp: 117.337
+1	05:37:17.696	Notifications: not enough space for notification 'order #158369307 buy 0.11 USDJPY at 117.463 modified: sl: 117.181 tp: 117.337 -> sl: 117.182 tp: 117.337'
+0	05:37:17.696	'10019548': order #158369307 buy 0.11 USDJPY at 117.463 was modified -> sl: 117.182 tp: 117.337
+0	05:37:34.354	'10019548': order #158369307 buy 0.11 USDJPY at 117.463 closed due stop-loss at price 117.182
+1	05:37:34.354	Notifications: not enough space for notification 'order #158369307 buy 0.11 USDJPY at 117.463 closed due stop-loss at price 117.182, profit: -36.41 AUD'
+0	05:38:12.452	'10019548': order #158417971 buy 0.11 USDCHF at 1.02426 closed due stop-loss at price 1.02480
+1	05:38:12.452	Notifications: not enough space for notification 'order #158417971 buy 0.11 USDCHF at 1.02426 closed due stop-loss at price 1.02480, profit: 8.00 AUD'
+0	05:39:00.737	'10019548': order #158369309 buy 0.11 AUDCAD at 0.97371 closed due stop-loss at price 0.97185
+1	05:39:00.737	Notifications: not enough space for notification 'order #158369309 buy 0.11 AUDCAD at 0.97371 closed due stop-loss at price 0.97185, profit: -21.05 AUD'
+0	05:39:00.737	'10019548': order #158369588 buy 0.11 AUDCAD at 0.97378 closed due stop-loss at price 0.97185
+1	05:39:00.737	Notifications: not enough space for notification 'order #158369588 buy 0.11 AUDCAD at 0.97378 closed due stop-loss at price 0.97185, profit: -21.84 AUD'
+0	05:39:00.737	'10019548': order #158370699 buy 0.11 AUDCAD at 0.97365 closed due stop-loss at price 0.97185
+1	05:39:00.737	Notifications: not enough space for notification 'order #158370699 buy 0.11 AUDCAD at 0.97365 closed due stop-loss at price 0.97185, profit: -20.37 AUD'
+1	05:39:00.864	Notifications: not enough space for notification 'Close up completed @ 2323.27'
+1	06:10:55.392	'10019548': ping failed
+0	06:11:13.799	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 243.57 ms)
+0	06:12:02.809	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: 243.57 ms)
+0	06:12:03.530	'10019548': previous successful authorization performed from 220.244.203.12
+0	06:12:20.221	'10019548': ping to current access point Demo DC #2 is 253.46 ms
+0	06:15:07.587	'10019548': order buy market 0.12 GBPCAD sl: 0.00000 tp: 1.66634
+1	06:15:11.320	Notifications: not enough space for notification 'order opened #158423250 buy 0.12 GBPCAD at 1.66328 tp: 1.66634'
+0	06:15:11.321	'10019548': order was opened : #158423250 buy 0.12 GBPCAD at 1.66328 sl: 0.00000 tp: 1.66634
+0	06:30:04.753	'10019548': order buy market 0.12 GBPAUD sl: 0.00000 tp: 1.71411
+1	06:30:13.524	Notifications: not enough space for notification 'order opened #158424011 buy 0.12 GBPAUD at 1.71108 tp: 1.71411'
+0	06:30:13.524	'10019548': order was opened : #158424011 buy 0.12 GBPAUD at 1.71108 sl: 0.00000 tp: 1.71411
+0	06:35:04.484	'10019548': order sell market 0.12 AUDCAD sl: 0.00000 tp: 0.96869
+1	06:35:21.044	Notifications: not enough space for notification 'order opened #158424596 sell 0.12 AUDCAD at 0.97175 tp: 0.96869'
+0	06:35:21.045	'10019548': order was opened : #158424596 sell 0.12 AUDCAD at 0.97175 sl: 0.00000 tp: 0.96869
+0	06:55:00.255	'10019548': order buy market 0.12 EURJPY sl: 0.000 tp: 122.308
+1	06:55:00.903	Notifications: not enough space for notification 'order opened #158425702 buy 0.12 EURJPY at 122.008 tp: 122.308'
+0	06:55:00.926	'10019548': order was opened : #158425702 buy 0.12 EURJPY at 122.008 sl: 0.000 tp: 122.308
+0	07:05:50.546	'10019548': order sell market 0.12 XAUUSD sl: 0.00 tp: 1135.72
+1	07:05:51.209	Notifications: not enough space for notification 'order opened #158426501 sell 0.12 XAUUSD at 1138.99 tp: 1135.72'
+0	07:05:51.213	'10019548': order was opened : #158426501 sell 0.12 XAUUSD at 1138.99 sl: 0.00 tp: 1135.72
+0	07:15:02.056	'10019548': order sell market 0.12 GBPUSD sl: 0.00000 tp: 1.23731
+1	07:15:04.118	Notifications: not enough space for notification 'order opened #158427160 sell 0.12 GBPUSD at 1.24031 tp: 1.23731'
+0	07:15:04.118	'10019548': order was opened : #158427160 sell 0.12 GBPUSD at 1.24031 sl: 0.00000 tp: 1.23731
+0	11:07:43.732	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 0.00000 tp: 1.23731 -> sl: 1.23889 tp: 1.23728
+1	11:07:47.832	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 0.00000 tp: 1.23731 -> sl: 1.23889 tp: 1.23728'
+0	11:07:47.832	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23889 tp: 1.23728
+0	11:07:47.833	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23889 tp: 1.23728 -> sl: 1.23888 tp: 1.23727
+1	11:07:48.788	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23889 tp: 1.23728 -> sl: 1.23888 tp: 1.23727'
+0	11:07:48.788	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23888 tp: 1.23727
+0	11:07:57.027	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23888 tp: 1.23727 -> sl: 1.23883 tp: 1.23727
+1	11:08:03.472	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23888 tp: 1.23727 -> sl: 1.23883 tp: 1.23727'
+0	11:08:03.472	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23883 tp: 1.23727
+0	11:08:05.955	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23883 tp: 1.23727 -> sl: 1.23883 tp: 1.23725
+1	11:08:22.328	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23883 tp: 1.23727 -> sl: 1.23883 tp: 1.23725'
+0	11:08:22.329	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23883 tp: 1.23725
+0	11:08:27.643	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23883 tp: 1.23725 -> sl: 1.23876 tp: 1.23715
+1	11:08:32.269	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23883 tp: 1.23725 -> sl: 1.23876 tp: 1.23715'
+0	11:08:32.270	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23876 tp: 1.23715
+0	11:08:33.143	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23876 tp: 1.23715 -> sl: 1.23873 tp: 1.23713
+1	11:08:35.000	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23876 tp: 1.23715 -> sl: 1.23873 tp: 1.23713'
+0	11:08:35.032	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23873 tp: 1.23713
+0	11:09:57.389	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23873 tp: 1.23713 -> sl: 1.23872 tp: 1.23709
+1	11:10:05.731	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23873 tp: 1.23713 -> sl: 1.23872 tp: 1.23709'
+0	11:10:05.751	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23872 tp: 1.23709
+0	11:10:05.751	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23872 tp: 1.23709 -> sl: 1.23868 tp: 1.23706
+1	11:10:18.535	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23872 tp: 1.23709 -> sl: 1.23868 tp: 1.23706'
+0	11:10:18.535	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23868 tp: 1.23706
+0	11:10:18.552	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23868 tp: 1.23706 -> sl: 1.23865 tp: 1.23704
+1	11:10:20.376	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23868 tp: 1.23706 -> sl: 1.23865 tp: 1.23704'
+0	11:10:20.376	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23865 tp: 1.23704
+0	11:10:29.550	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23865 tp: 1.23704 -> sl: 1.23863 tp: 1.23701
+1	11:10:42.402	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23865 tp: 1.23704 -> sl: 1.23863 tp: 1.23701'
+0	11:10:42.402	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23863 tp: 1.23701
+0	11:10:42.403	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23863 tp: 1.23701 -> sl: 1.23860 tp: 1.23700
+1	11:10:44.680	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23863 tp: 1.23701 -> sl: 1.23860 tp: 1.23700'
+0	11:10:44.681	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23860 tp: 1.23700
+0	11:10:44.681	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23860 tp: 1.23700 -> sl: 1.23859 tp: 1.23697
+1	11:10:46.269	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23860 tp: 1.23700 -> sl: 1.23859 tp: 1.23697'
+0	11:10:46.298	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23859 tp: 1.23697
+0	11:11:07.683	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23859 tp: 1.23697 -> sl: 1.23851 tp: 1.23689
+1	11:11:14.543	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23859 tp: 1.23697 -> sl: 1.23851 tp: 1.23689'
+0	11:11:14.543	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23851 tp: 1.23689
+0	11:11:28.822	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23851 tp: 1.23689 -> sl: 1.23844 tp: 1.23683
+1	11:11:32.561	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23851 tp: 1.23689 -> sl: 1.23844 tp: 1.23683'
+0	11:11:32.686	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23844 tp: 1.23683
+0	11:11:32.687	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23844 tp: 1.23683 -> sl: 1.23843 tp: 1.23683
+1	11:11:35.240	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23844 tp: 1.23683 -> sl: 1.23843 tp: 1.23683'
+0	11:11:35.241	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23843 tp: 1.23683
+0	11:11:41.440	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23843 tp: 1.23683 -> sl: 1.23842 tp: 1.23681
+1	11:11:44.348	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23843 tp: 1.23683 -> sl: 1.23842 tp: 1.23681'
+0	11:11:44.348	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23842 tp: 1.23681
+0	11:11:44.349	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23842 tp: 1.23681 -> sl: 1.23841 tp: 1.23679
+1	11:11:45.312	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23842 tp: 1.23681 -> sl: 1.23841 tp: 1.23679'
+0	11:11:45.312	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23841 tp: 1.23679
+0	11:13:08.633	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23841 tp: 1.23679 -> sl: 1.23839 tp: 1.23677
+1	11:13:12.159	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23841 tp: 1.23679 -> sl: 1.23839 tp: 1.23677'
+0	11:13:12.160	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23839 tp: 1.23677
+0	11:13:12.160	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23839 tp: 1.23677 -> sl: 1.23836 tp: 1.23674
+1	11:13:19.884	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23839 tp: 1.23677 -> sl: 1.23836 tp: 1.23674'
+0	11:13:19.884	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23836 tp: 1.23674
+0	11:13:20.092	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23836 tp: 1.23674 -> sl: 1.23834 tp: 1.23673
+1	11:13:36.983	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23836 tp: 1.23674 -> sl: 1.23834 tp: 1.23673'
+0	11:13:36.983	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23834 tp: 1.23673
+0	11:13:36.984	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23834 tp: 1.23673 -> sl: 1.23828 tp: 1.23668
+1	11:13:38.178	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23834 tp: 1.23673 -> sl: 1.23828 tp: 1.23668'
+0	11:13:38.178	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23828 tp: 1.23668
+0	11:13:54.151	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23828 tp: 1.23668 -> sl: 1.23826 tp: 1.23664
+1	11:13:54.499	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23828 tp: 1.23668 -> sl: 1.23826 tp: 1.23664'
+0	11:13:54.500	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23826 tp: 1.23664
+0	11:13:57.695	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23826 tp: 1.23664 -> sl: 1.23824 tp: 1.23663
+1	11:13:58.755	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23826 tp: 1.23664 -> sl: 1.23824 tp: 1.23663'
+0	11:13:58.755	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23824 tp: 1.23663
+0	11:15:41.461	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23824 tp: 1.23663 -> sl: 1.23822 tp: 1.23662
+1	11:15:42.452	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23824 tp: 1.23663 -> sl: 1.23822 tp: 1.23662'
+0	11:15:42.452	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23822 tp: 1.23662
+0	11:18:37.495	'10019548': modify order #158427160 sell 0.12 GBPUSD at 1.24031 sl: 1.23822 tp: 1.23662 -> sl: 1.23820 tp: 1.23661
+1	11:18:59.851	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 modified: sl: 1.23822 tp: 1.23662 -> sl: 1.23820 tp: 1.23661'
+0	11:18:59.851	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 was modified -> sl: 1.23820 tp: 1.23661
+0	11:19:17.122	'10019548': order #158427160 sell 0.12 GBPUSD at 1.24031 closed due stop-loss at price 1.23820
+1	11:19:17.122	Notifications: not enough space for notification 'order #158427160 sell 0.12 GBPUSD at 1.24031 closed due stop-loss at price 1.23820, profit: 34.93 AUD'
+0	11:45:05.338	'10019548': order sell market 0.12 GBPUSD sl: 0.00000 tp: 1.23679
+1	11:45:10.383	Notifications: not enough space for notification 'order opened #158444563 sell 0.12 GBPUSD at 1.23966 tp: 1.23679'
+0	11:45:10.383	'10019548': order was opened : #158444563 sell 0.12 GBPUSD at 1.23966 sl: 0.00000 tp: 1.23679
+0	11:45:10.388	'10019548': order buy market 0.12 USDJPY sl: 0.000 tp: 117.372
+1	11:45:11.313	Notifications: not enough space for notification 'order opened #158444596 buy 0.12 USDJPY at 117.072 tp: 117.372'
+0	11:45:11.371	'10019548': order was opened : #158444596 buy 0.12 USDJPY at 117.072 sl: 0.000 tp: 117.372
+0	12:08:55.494	'10019548': modify order #158444596 buy 0.12 USDJPY at 117.072 sl: 0.000 tp: 117.372 -> sl: 117.246 tp: 117.401
+1	12:09:11.332	Notifications: not enough space for notification 'order #158444596 buy 0.12 USDJPY at 117.072 modified: sl: 0.000 tp: 117.372 -> sl: 117.246 tp: 117.401'
+0	12:09:11.333	'10019548': order #158444596 buy 0.12 USDJPY at 117.072 was modified -> sl: 117.246 tp: 117.401
+0	12:09:20.669	'10019548': modify order #158444596 buy 0.12 USDJPY at 117.072 sl: 117.246 tp: 117.401 -> sl: 117.254 tp: 117.407
+1	12:09:39.013	Notifications: not enough space for notification 'order #158444596 buy 0.12 USDJPY at 117.072 modified: sl: 117.246 tp: 117.401 -> sl: 117.254 tp: 117.407'
+0	12:09:39.013	'10019548': order #158444596 buy 0.12 USDJPY at 117.072 was modified -> sl: 117.254 tp: 117.407
+0	12:09:48.033	'10019548': modify order #158444596 buy 0.12 USDJPY at 117.072 sl: 117.254 tp: 117.407 -> sl: 117.256 tp: 117.410
+1	12:09:53.991	Notifications: not enough space for notification 'order #158444596 buy 0.12 USDJPY at 117.072 modified: sl: 117.254 tp: 117.407 -> sl: 117.256 tp: 117.410'
+0	12:09:53.993	'10019548': order #158444596 buy 0.12 USDJPY at 117.072 was modified -> sl: 117.256 tp: 117.410
+0	12:09:53.994	'10019548': modify order #158444596 buy 0.12 USDJPY at 117.072 sl: 117.256 tp: 117.410 -> sl: 117.271 tp: 117.428
+1	12:10:01.665	Notifications: not enough space for notification 'order #158444596 buy 0.12 USDJPY at 117.072 modified: sl: 117.256 tp: 117.410 -> sl: 117.271 tp: 117.428'
+0	12:10:01.667	'10019548': order #158444596 buy 0.12 USDJPY at 117.072 was modified -> sl: 117.271 tp: 117.428
+0	12:10:13.572	'10019548': modify order #158444596 buy 0.12 USDJPY at 117.072 sl: 117.271 tp: 117.428 -> sl: 117.275 tp: 117.431
+1	12:10:18.023	Notifications: not enough space for notification 'order #158444596 buy 0.12 USDJPY at 117.072 modified: sl: 117.271 tp: 117.428 -> sl: 117.275 tp: 117.431'
+0	12:10:18.063	'10019548': order #158444596 buy 0.12 USDJPY at 117.072 was modified -> sl: 117.275 tp: 117.431
+0	12:10:18.063	'10019548': modify order #158444596 buy 0.12 USDJPY at 117.072 sl: 117.275 tp: 117.431 -> sl: 117.282 tp: 117.440
+1	12:10:18.579	Notifications: not enough space for notification 'order #158444596 buy 0.12 USDJPY at 117.072 modified: sl: 117.275 tp: 117.431 -> sl: 117.282 tp: 117.440'
+0	12:10:18.793	'10019548': order #158444596 buy 0.12 USDJPY at 117.072 was modified -> sl: 117.282 tp: 117.440
+0	12:10:49.485	'10019548': modify order #158444596 buy 0.12 USDJPY at 117.072 sl: 117.282 tp: 117.440 -> sl: 117.285 tp: 117.441
+1	12:10:51.353	Notifications: not enough space for notification 'order #158444596 buy 0.12 USDJPY at 117.072 modified: sl: 117.282 tp: 117.440 -> sl: 117.285 tp: 117.441'
+0	12:10:51.353	'10019548': order #158444596 buy 0.12 USDJPY at 117.072 was modified -> sl: 117.285 tp: 117.441
+0	12:11:22.555	'10019548': modify order #158444596 buy 0.12 USDJPY at 117.072 sl: 117.285 tp: 117.441 -> sl: 117.287 tp: 117.440
+1	12:11:27.770	Notifications: not enough space for notification 'order #158444596 buy 0.12 USDJPY at 117.072 modified: sl: 117.285 tp: 117.441 -> sl: 117.287 tp: 117.440'
+0	12:11:27.855	'10019548': order #158444596 buy 0.12 USDJPY at 117.072 was modified -> sl: 117.287 tp: 117.440
+0	12:11:27.855	'10019548': modify order #158444596 buy 0.12 USDJPY at 117.072 sl: 117.287 tp: 117.440 -> sl: 117.293 tp: 117.449
+1	12:11:29.216	Notifications: not enough space for notification 'order #158444596 buy 0.12 USDJPY at 117.072 modified: sl: 117.287 tp: 117.440 -> sl: 117.293 tp: 117.449'
+0	12:11:29.216	'10019548': order #158444596 buy 0.12 USDJPY at 117.072 was modified -> sl: 117.293 tp: 117.449
+0	12:11:33.289	'10019548': modify order #158444596 buy 0.12 USDJPY at 117.072 sl: 117.293 tp: 117.449 -> sl: 117.295 tp: 117.449
+1	12:11:36.191	Notifications: not enough space for notification 'order #158444596 buy 0.12 USDJPY at 117.072 modified: sl: 117.293 tp: 117.449 -> sl: 117.295 tp: 117.449'
+0	12:11:36.191	'10019548': order #158444596 buy 0.12 USDJPY at 117.072 was modified -> sl: 117.295 tp: 117.449
+0	12:11:36.192	'10019548': modify order #158444596 buy 0.12 USDJPY at 117.072 sl: 117.295 tp: 117.449 -> sl: 117.299 tp: 117.452
+1	12:11:37.884	Notifications: not enough space for notification 'order #158444596 buy 0.12 USDJPY at 117.072 modified: sl: 117.295 tp: 117.449 -> sl: 117.299 tp: 117.452'
+0	12:11:37.962	'10019548': order #158444596 buy 0.12 USDJPY at 117.072 was modified -> sl: 117.299 tp: 117.452
+0	12:11:37.962	'10019548': modify order #158444596 buy 0.12 USDJPY at 117.072 sl: 117.299 tp: 117.452 -> sl: 117.305 tp: 117.460
+1	12:11:40.593	Notifications: not enough space for notification 'order #158444596 buy 0.12 USDJPY at 117.072 modified: sl: 117.299 tp: 117.452 -> sl: 117.305 tp: 117.460'
+0	12:11:40.593	'10019548': order #158444596 buy 0.12 USDJPY at 117.072 was modified -> sl: 117.305 tp: 117.460
+0	12:13:06.928	'10019548': order #158444596 buy 0.12 USDJPY at 117.072 closed due stop-loss at price 117.305
+1	12:13:06.928	Notifications: not enough space for notification 'order #158444596 buy 0.12 USDJPY at 117.072 closed due stop-loss at price 117.305, profit: 32.86 AUD'
+0	12:25:00.989	'10019548': order sell market 0.12 EURGBP sl: 0.00000 tp: 0.83650
+1	12:25:03.465	Notifications: not enough space for notification 'order opened #158448373 sell 0.12 EURGBP at 0.83950 tp: 0.83650'
+0	12:25:03.466	'10019548': order was opened : #158448373 sell 0.12 EURGBP at 0.83950 sl: 0.00000 tp: 0.83650
+0	12:25:03.467	'10019548': order buy market 0.12 GBPUSD sl: 0.00000 tp: 1.24233
+1	12:25:07.786	Notifications: not enough space for notification 'order opened #158448382 buy 0.12 GBPUSD at 1.23940 tp: 1.24233'
+0	12:25:07.786	'10019548': order was opened : #158448382 buy 0.12 GBPUSD at 1.23940 sl: 0.00000 tp: 1.24233
+0	12:25:07.787	'10019548': order buy market 0.12 AUDUSD sl: 0.00000 tp: 0.72830
+1	12:25:17.822	Notifications: not enough space for notification 'order opened #158448393 buy 0.12 AUDUSD at 0.72535 tp: 0.72830'
+0	12:25:17.822	'10019548': order was opened : #158448393 buy 0.12 AUDUSD at 0.72535 sl: 0.00000 tp: 0.72830
+0	12:35:00.512	'10019548': order sell market 0.12 EURGBP sl: 0.00000 tp: 0.83671
+1	12:35:03.219	Notifications: not enough space for notification 'order opened #158449117 sell 0.12 EURGBP at 0.83974 tp: 0.83671'
+0	12:35:03.219	'10019548': order was opened : #158449117 sell 0.12 EURGBP at 0.83974 sl: 0.00000 tp: 0.83671
+0	12:35:03.222	'10019548': order sell market 0.12 USDCAD sl: 0.00000 tp: 1.33749
+1	12:35:06.424	Notifications: not enough space for notification 'order opened #158449124 sell 0.12 USDCAD at 1.34046 tp: 1.33749'
+0	12:35:06.424	'10019548': order was opened : #158449124 sell 0.12 USDCAD at 1.34046 sl: 0.00000 tp: 1.33749
+1	12:44:18.435	Notifications: not enough space for notification 'Close up reached @ 2369.39'
+0	12:44:18.435	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 0.00000 tp: 1.66634 -> sl: 1.66069 tp: 1.66257
+1	12:44:19.909	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 0.00000 tp: 1.66634 -> sl: 1.66069 tp: 1.66257'
+0	12:44:19.910	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66069 tp: 1.66257
+0	12:44:19.910	'10019548': modify order #158424011 buy 0.12 GBPAUD at 1.71108 sl: 0.00000 tp: 1.71411 -> sl: 1.70822 tp: 1.71005
+1	12:44:21.930	Notifications: not enough space for notification 'order #158424011 buy 0.12 GBPAUD at 1.71108 modified: sl: 0.00000 tp: 1.71411 -> sl: 1.70822 tp: 1.71005'
+0	12:44:21.930	'10019548': order #158424011 buy 0.12 GBPAUD at 1.71108 was modified -> sl: 1.70822 tp: 1.71005
+0	12:44:21.931	'10019548': modify order #158424596 sell 0.12 AUDCAD at 0.97175 sl: 0.00000 tp: 0.96869 -> sl: 0.97282 tp: 0.97117
+1	12:44:23.018	Notifications: not enough space for notification 'order #158424596 sell 0.12 AUDCAD at 0.97175 modified: sl: 0.00000 tp: 0.96869 -> sl: 0.97282 tp: 0.97117'
+0	12:44:23.019	'10019548': order #158424596 sell 0.12 AUDCAD at 0.97175 was modified -> sl: 0.97282 tp: 0.97117
+0	12:44:23.019	'10019548': modify order #158425702 buy 0.12 EURJPY at 122.008 sl: 0.000 tp: 122.308 -> sl: 122.087 tp: 122.245
+1	12:44:23.387	Notifications: not enough space for notification 'order #158425702 buy 0.12 EURJPY at 122.008 modified: sl: 0.000 tp: 122.308 -> sl: 122.087 tp: 122.245'
+0	12:44:23.426	'10019548': order #158425702 buy 0.12 EURJPY at 122.008 was modified -> sl: 122.087 tp: 122.245
+0	12:44:23.426	'10019548': modify order #158426501 sell 0.12 XAUUSD at 1138.99 sl: 0.00 tp: 1135.72 -> sl: 1138.09 tp: 1136.41
+1	12:44:23.948	Notifications: not enough space for notification 'order #158426501 sell 0.12 XAUUSD at 1138.99 modified: sl: 0.00 tp: 1135.72 -> sl: 1138.09 tp: 1136.41'
+0	12:44:23.948	'10019548': order #158426501 sell 0.12 XAUUSD at 1138.99 was modified -> sl: 1138.09 tp: 1136.41
+0	12:44:23.948	'10019548': modify order #158444563 sell 0.12 GBPUSD at 1.23966 sl: 0.00000 tp: 1.23679 -> sl: 1.24000 tp: 1.23839
+1	12:44:25.231	Notifications: not enough space for notification 'order #158444563 sell 0.12 GBPUSD at 1.23966 modified: sl: 0.00000 tp: 1.23679 -> sl: 1.24000 tp: 1.23839'
+0	12:44:25.232	'10019548': order #158444563 sell 0.12 GBPUSD at 1.23966 was modified -> sl: 1.24000 tp: 1.23839
+0	12:44:25.232	'10019548': modify order #158448373 sell 0.12 EURGBP at 0.83950 sl: 0.00000 tp: 0.83650 -> sl: 0.83995 tp: 0.83841
+1	12:44:26.050	Notifications: not enough space for notification 'order #158448373 sell 0.12 EURGBP at 0.83950 modified: sl: 0.00000 tp: 0.83650 -> sl: 0.83995 tp: 0.83841'
+0	12:44:26.050	'10019548': order #158448373 sell 0.12 EURGBP at 0.83950 was modified -> sl: 0.83995 tp: 0.83841
+0	12:44:26.050	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 0.00000 tp: 1.24233 -> sl: 1.23889 tp: 1.24050
+1	12:44:26.861	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 0.00000 tp: 1.24233 -> sl: 1.23889 tp: 1.24050'
+0	12:44:26.909	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23889 tp: 1.24050
+0	12:44:26.909	'10019548': modify order #158448393 buy 0.12 AUDUSD at 0.72535 sl: 0.00000 tp: 0.72830 -> sl: 0.72480 tp: 0.72635
+1	12:44:27.303	Notifications: not enough space for notification 'order #158448393 buy 0.12 AUDUSD at 0.72535 modified: sl: 0.00000 tp: 0.72830 -> sl: 0.72480 tp: 0.72635'
+0	12:44:27.315	'10019548': order #158448393 buy 0.12 AUDUSD at 0.72535 was modified -> sl: 0.72480 tp: 0.72635
+0	12:44:27.315	'10019548': modify order #158449117 sell 0.12 EURGBP at 0.83974 sl: 0.00000 tp: 0.83671 -> sl: 0.83994 tp: 0.83839
+1	12:44:28.348	Notifications: not enough space for notification 'order #158449117 sell 0.12 EURGBP at 0.83974 modified: sl: 0.00000 tp: 0.83671 -> sl: 0.83994 tp: 0.83839'
+0	12:44:28.385	'10019548': order #158449117 sell 0.12 EURGBP at 0.83974 was modified -> sl: 0.83994 tp: 0.83839
+0	12:44:28.385	'10019548': modify order #158449124 sell 0.12 USDCAD at 1.34046 sl: 0.00000 tp: 1.33749 -> sl: 1.34098 tp: 1.33939
+1	12:44:32.701	Notifications: not enough space for notification 'order #158449124 sell 0.12 USDCAD at 1.34046 modified: sl: 0.00000 tp: 1.33749 -> sl: 1.34098 tp: 1.33939'
+0	12:44:32.708	'10019548': order #158449124 sell 0.12 USDCAD at 1.34046 was modified -> sl: 1.34098 tp: 1.33939
+0	12:44:32.708	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66069 tp: 1.66257 -> sl: 1.66070 tp: 1.66264
+1	12:44:36.456	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66069 tp: 1.66257 -> sl: 1.66070 tp: 1.66264'
+0	12:44:36.457	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66070 tp: 1.66264
+0	12:44:36.457	'10019548': modify order #158424011 buy 0.12 GBPAUD at 1.71108 sl: 1.70822 tp: 1.71005 -> sl: 1.70826 tp: 1.71012
+1	12:44:37.046	Notifications: not enough space for notification 'order #158424011 buy 0.12 GBPAUD at 1.71108 modified: sl: 1.70822 tp: 1.71005 -> sl: 1.70826 tp: 1.71012'
+0	12:44:37.046	'10019548': order #158424011 buy 0.12 GBPAUD at 1.71108 was modified -> sl: 1.70826 tp: 1.71012
+0	12:44:37.047	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23889 tp: 1.24050 -> sl: 1.23905 tp: 1.24066
+1	12:44:38.920	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23889 tp: 1.24050 -> sl: 1.23905 tp: 1.24066'
+0	12:44:38.921	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23905 tp: 1.24066
+0	12:44:38.921	'10019548': modify order #158448393 buy 0.12 AUDUSD at 0.72535 sl: 0.72480 tp: 0.72635 -> sl: 0.72483 tp: 0.72638
+1	12:44:41.690	Notifications: not enough space for notification 'order #158448393 buy 0.12 AUDUSD at 0.72535 modified: sl: 0.72480 tp: 0.72635 -> sl: 0.72483 tp: 0.72638'
+0	12:44:41.971	'10019548': order #158448393 buy 0.12 AUDUSD at 0.72535 was modified -> sl: 0.72483 tp: 0.72638
+0	12:44:41.971	'10019548': modify order #158449124 sell 0.12 USDCAD at 1.34046 sl: 1.34098 tp: 1.33939 -> sl: 1.34093 tp: 1.33933
+1	12:44:56.291	Notifications: not enough space for notification 'order #158449124 sell 0.12 USDCAD at 1.34046 modified: sl: 1.34098 tp: 1.33939 -> sl: 1.34093 tp: 1.33933'
+0	12:44:56.291	'10019548': order #158449124 sell 0.12 USDCAD at 1.34046 was modified -> sl: 1.34093 tp: 1.33933
+0	12:44:56.292	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66070 tp: 1.66264 -> sl: 1.66077 tp: 1.66264
+1	12:45:01.881	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66070 tp: 1.66264 -> sl: 1.66077 tp: 1.66264'
+0	12:45:01.881	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66077 tp: 1.66264
+0	12:45:01.881	'10019548': modify order #158424011 buy 0.12 GBPAUD at 1.71108 sl: 1.70826 tp: 1.71012 -> sl: 1.70849 tp: 1.71032
+1	12:45:06.600	Notifications: not enough space for notification 'order #158424011 buy 0.12 GBPAUD at 1.71108 modified: sl: 1.70826 tp: 1.71012 -> sl: 1.70849 tp: 1.71032'
+0	12:45:06.717	'10019548': order #158424011 buy 0.12 GBPAUD at 1.71108 was modified -> sl: 1.70849 tp: 1.71032
+0	12:45:06.717	'10019548': modify order #158424596 sell 0.12 AUDCAD at 0.97175 sl: 0.97282 tp: 0.97117 -> sl: 0.97270 tp: 0.97104
+1	12:45:07.922	Notifications: not enough space for notification 'order #158424596 sell 0.12 AUDCAD at 0.97175 modified: sl: 0.97282 tp: 0.97117 -> sl: 0.97270 tp: 0.97104'
+0	12:45:07.960	'10019548': order #158424596 sell 0.12 AUDCAD at 0.97175 was modified -> sl: 0.97270 tp: 0.97104
+0	12:45:07.960	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23905 tp: 1.24066 -> sl: 1.23907 tp: 1.24068
+1	12:45:08.944	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23905 tp: 1.24066 -> sl: 1.23907 tp: 1.24068'
+0	12:45:08.945	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23907 tp: 1.24068
+0	12:45:08.945	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66077 tp: 1.66264 -> sl: 1.66085 tp: 1.66279
+1	12:45:09.384	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66077 tp: 1.66264 -> sl: 1.66085 tp: 1.66279'
+0	12:45:09.505	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66085 tp: 1.66279
+0	12:45:09.505	'10019548': modify order #158424011 buy 0.12 GBPAUD at 1.71108 sl: 1.70849 tp: 1.71032 -> sl: 1.70855 tp: 1.71043
+1	12:45:09.903	Notifications: not enough space for notification 'order #158424011 buy 0.12 GBPAUD at 1.71108 modified: sl: 1.70849 tp: 1.71032 -> sl: 1.70855 tp: 1.71043'
+0	12:45:09.903	'10019548': order #158424011 buy 0.12 GBPAUD at 1.71108 was modified -> sl: 1.70855 tp: 1.71043
+0	12:45:09.903	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23907 tp: 1.24068 -> sl: 1.23908 tp: 1.24070
+1	12:45:10.283	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23907 tp: 1.24068 -> sl: 1.23908 tp: 1.24070'
+0	12:45:10.283	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23908 tp: 1.24070
+0	12:45:11.464	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66085 tp: 1.66279 -> sl: 1.66088 tp: 1.66275
+1	12:45:13.339	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66085 tp: 1.66279 -> sl: 1.66088 tp: 1.66275'
+0	12:45:13.339	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66088 tp: 1.66275
+0	12:45:13.339	'10019548': modify order #158424596 sell 0.12 AUDCAD at 0.97175 sl: 0.97270 tp: 0.97104 -> sl: 0.97268 tp: 0.97102
+1	12:45:13.926	Notifications: not enough space for notification 'order #158424596 sell 0.12 AUDCAD at 0.97175 modified: sl: 0.97270 tp: 0.97104 -> sl: 0.97268 tp: 0.97102'
+0	12:45:13.927	'10019548': order #158424596 sell 0.12 AUDCAD at 0.97175 was modified -> sl: 0.97268 tp: 0.97102
+0	12:45:26.599	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66088 tp: 1.66275 -> sl: 1.66094 tp: 1.66285
+1	12:45:27.209	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66088 tp: 1.66275 -> sl: 1.66094 tp: 1.66285'
+0	12:45:27.209	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66094 tp: 1.66285
+0	12:45:27.209	'10019548': modify order #158424011 buy 0.12 GBPAUD at 1.71108 sl: 1.70855 tp: 1.71043 -> sl: 1.70863 tp: 1.71048
+1	12:45:27.571	Notifications: not enough space for notification 'order #158424011 buy 0.12 GBPAUD at 1.71108 modified: sl: 1.70855 tp: 1.71043 -> sl: 1.70863 tp: 1.71048'
+0	12:45:27.572	'10019548': order #158424011 buy 0.12 GBPAUD at 1.71108 was modified -> sl: 1.70863 tp: 1.71048
+0	12:45:27.572	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23908 tp: 1.24070 -> sl: 1.23914 tp: 1.24074
+1	12:45:28.197	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23908 tp: 1.24070 -> sl: 1.23914 tp: 1.24074'
+0	12:45:28.197	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23914 tp: 1.24074
+0	12:45:31.924	'10019548': modify order #158424011 buy 0.12 GBPAUD at 1.71108 sl: 1.70863 tp: 1.71048 -> sl: 1.70866 tp: 1.71050
+1	12:45:32.338	Notifications: not enough space for notification 'order #158424011 buy 0.12 GBPAUD at 1.71108 modified: sl: 1.70863 tp: 1.71048 -> sl: 1.70866 tp: 1.71050'
+0	12:45:32.339	'10019548': order #158424011 buy 0.12 GBPAUD at 1.71108 was modified -> sl: 1.70866 tp: 1.71050
+0	12:45:35.093	'10019548': modify order #158424011 buy 0.12 GBPAUD at 1.71108 sl: 1.70866 tp: 1.71050 -> sl: 1.70869 tp: 1.71050
+1	12:45:39.577	Notifications: not enough space for notification 'order #158424011 buy 0.12 GBPAUD at 1.71108 modified: sl: 1.70866 tp: 1.71050 -> sl: 1.70869 tp: 1.71050'
+0	12:45:39.578	'10019548': order #158424011 buy 0.12 GBPAUD at 1.71108 was modified -> sl: 1.70869 tp: 1.71050
+0	12:45:39.578	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23914 tp: 1.24074 -> sl: 1.23919 tp: 1.24080
+0	12:45:42.409	'10019548': order #158426501 sell 0.12 XAUUSD at 1138.99 closed due stop-loss at price 1138.09
+1	12:45:42.409	Notifications: not enough space for notification 'order #158426501 sell 0.12 XAUUSD at 1138.99 closed due stop-loss at price 1138.09, profit: 14.89 AUD'
+1	12:45:44.315	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23914 tp: 1.24074 -> sl: 1.23919 tp: 1.24080'
+0	12:45:44.316	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23919 tp: 1.24080
+0	12:45:44.316	'10019548': modify order #158449124 sell 0.12 USDCAD at 1.34046 sl: 1.34093 tp: 1.33933 -> sl: 1.34086 tp: 1.33926
+1	12:45:50.716	Notifications: not enough space for notification 'order #158449124 sell 0.12 USDCAD at 1.34046 modified: sl: 1.34093 tp: 1.33933 -> sl: 1.34086 tp: 1.33926'
+0	12:45:50.717	'10019548': order #158449124 sell 0.12 USDCAD at 1.34046 was modified -> sl: 1.34086 tp: 1.33926
+0	12:45:50.717	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66094 tp: 1.66285 -> sl: 1.66096 tp: 1.66286
+1	12:46:06.113	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66094 tp: 1.66285 -> sl: 1.66096 tp: 1.66286'
+0	12:46:06.113	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66096 tp: 1.66286
+0	12:46:06.113	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23919 tp: 1.24080 -> sl: 1.23926 tp: 1.24088
+1	12:46:20.869	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23919 tp: 1.24080 -> sl: 1.23926 tp: 1.24088'
+0	12:46:20.869	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23926 tp: 1.24088
+0	12:46:20.869	'10019548': modify order #158448393 buy 0.12 AUDUSD at 0.72535 sl: 0.72483 tp: 0.72638 -> sl: 0.72485 tp: 0.72640
+1	12:46:30.461	Notifications: not enough space for notification 'order #158448393 buy 0.12 AUDUSD at 0.72535 modified: sl: 0.72483 tp: 0.72638 -> sl: 0.72485 tp: 0.72640'
+0	12:46:30.461	'10019548': order #158448393 buy 0.12 AUDUSD at 0.72535 was modified -> sl: 0.72485 tp: 0.72640
+0	12:46:41.723	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66096 tp: 1.66286 -> sl: 1.66102 tp: 1.66292
+1	12:46:42.147	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66096 tp: 1.66286 -> sl: 1.66102 tp: 1.66292'
+0	12:46:42.163	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66102 tp: 1.66292
+0	12:46:42.163	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23926 tp: 1.24088 -> sl: 1.23928 tp: 1.24091
+1	12:46:42.623	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23926 tp: 1.24088 -> sl: 1.23928 tp: 1.24091'
+0	12:46:42.623	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23928 tp: 1.24091
+0	12:47:01.218	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23928 tp: 1.24091 -> sl: 1.23928 tp: 1.24092
+1	12:47:01.568	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23928 tp: 1.24091 -> sl: 1.23928 tp: 1.24092'
+0	12:47:01.605	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23928 tp: 1.24092
+0	12:47:25.179	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66102 tp: 1.66292 -> sl: 1.66109 tp: 1.66296
+1	12:47:27.752	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66102 tp: 1.66292 -> sl: 1.66109 tp: 1.66296'
+0	12:47:27.753	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66109 tp: 1.66296
+0	12:47:27.753	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23928 tp: 1.24092 -> sl: 1.23934 tp: 1.24096
+1	12:47:29.896	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23928 tp: 1.24092 -> sl: 1.23934 tp: 1.24096'
+0	12:47:29.963	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23934 tp: 1.24096
+0	12:47:41.866	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23934 tp: 1.24096 -> sl: 1.23935 tp: 1.24096
+1	12:47:42.533	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23934 tp: 1.24096 -> sl: 1.23935 tp: 1.24096'
+0	12:47:42.538	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23935 tp: 1.24096
+0	12:47:48.973	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66109 tp: 1.66296 -> sl: 1.66114 tp: 1.66300
+1	12:47:50.401	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66109 tp: 1.66296 -> sl: 1.66114 tp: 1.66300'
+0	12:47:50.402	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66114 tp: 1.66300
+0	12:47:50.402	'10019548': modify order #158424011 buy 0.12 GBPAUD at 1.71108 sl: 1.70869 tp: 1.71050 -> sl: 1.70875 tp: 1.71059
+1	12:47:50.958	Notifications: not enough space for notification 'order #158424011 buy 0.12 GBPAUD at 1.71108 modified: sl: 1.70869 tp: 1.71050 -> sl: 1.70875 tp: 1.71059'
+0	12:47:50.958	'10019548': order #158424011 buy 0.12 GBPAUD at 1.71108 was modified -> sl: 1.70875 tp: 1.71059
+0	12:48:19.447	'10019548': modify order #158449124 sell 0.12 USDCAD at 1.34046 sl: 1.34086 tp: 1.33926 -> sl: 1.34085 tp: 1.33924
+0	12:48:24.258	'10019548': order #158444563 sell 0.12 GBPUSD at 1.23966 closed due stop-loss at price 1.24000
+1	12:48:24.258	Notifications: not enough space for notification 'order #158444563 sell 0.12 GBPUSD at 1.23966 closed due stop-loss at price 1.24000, profit: -5.62 AUD'
+1	12:48:25.656	Notifications: not enough space for notification 'order #158449124 sell 0.12 USDCAD at 1.34046 modified: sl: 1.34086 tp: 1.33926 -> sl: 1.34085 tp: 1.33924'
+0	12:48:25.657	'10019548': order #158449124 sell 0.12 USDCAD at 1.34046 was modified -> sl: 1.34085 tp: 1.33924
+0	12:48:25.658	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23935 tp: 1.24096 -> sl: 1.23941 tp: 1.24100
+1	12:48:30.349	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23935 tp: 1.24096 -> sl: 1.23941 tp: 1.24100'
+0	12:48:30.349	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23941 tp: 1.24100
+0	12:48:30.349	'10019548': modify order #158449124 sell 0.12 USDCAD at 1.34046 sl: 1.34085 tp: 1.33924 -> sl: 1.34078 tp: 1.33917
+1	12:48:42.179	Notifications: not enough space for notification 'order #158449124 sell 0.12 USDCAD at 1.34046 modified: sl: 1.34085 tp: 1.33924 -> sl: 1.34078 tp: 1.33917'
+0	12:48:42.179	'10019548': order #158449124 sell 0.12 USDCAD at 1.34046 was modified -> sl: 1.34078 tp: 1.33917
+0	12:48:47.437	'10019548': modify order #158424011 buy 0.12 GBPAUD at 1.71108 sl: 1.70875 tp: 1.71059 -> sl: 1.70877 tp: 1.71059
+1	12:49:05.351	Notifications: not enough space for notification 'order #158424011 buy 0.12 GBPAUD at 1.71108 modified: sl: 1.70875 tp: 1.71059 -> sl: 1.70877 tp: 1.71059'
+0	12:49:05.352	'10019548': order #158424011 buy 0.12 GBPAUD at 1.71108 was modified -> sl: 1.70877 tp: 1.71059
+0	12:49:05.352	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66114 tp: 1.66300 -> sl: 1.66116 tp: 1.66305
+0	12:49:16.808	'10019548': order #158424011 buy 0.12 GBPAUD at 1.71108 closed due stop-loss at price 1.70877
+1	12:49:16.808	Notifications: not enough space for notification 'order #158424011 buy 0.12 GBPAUD at 1.71108 closed due stop-loss at price 1.70877, profit: -27.72 AUD'
+1	12:49:17.553	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66114 tp: 1.66300 -> sl: 1.66116 tp: 1.66305'
+0	12:49:17.553	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66116 tp: 1.66305
+0	12:49:17.553	'10019548': modify order #158448393 buy 0.12 AUDUSD at 0.72535 sl: 0.72485 tp: 0.72640 -> sl: 0.72502 tp: 0.72655
+1	12:49:20.390	Notifications: not enough space for notification 'order #158448393 buy 0.12 AUDUSD at 0.72535 modified: sl: 0.72485 tp: 0.72640 -> sl: 0.72502 tp: 0.72655'
+0	12:49:20.391	'10019548': order #158448393 buy 0.12 AUDUSD at 0.72535 was modified -> sl: 0.72502 tp: 0.72655
+0	12:49:45.020	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66116 tp: 1.66305 -> sl: 1.66135 tp: 1.66314
+1	12:49:52.217	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66116 tp: 1.66305 -> sl: 1.66135 tp: 1.66314'
+0	12:49:52.218	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66135 tp: 1.66314
+0	12:49:52.218	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66135 tp: 1.66314 -> sl: 1.66139 tp: 1.66330
+1	12:49:57.201	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66135 tp: 1.66314 -> sl: 1.66139 tp: 1.66330'
+0	12:49:57.201	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66139 tp: 1.66330
+0	12:49:57.202	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66139 tp: 1.66330 -> sl: 1.66143 tp: 1.66330
+1	12:49:59.790	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66139 tp: 1.66330 -> sl: 1.66143 tp: 1.66330'
+0	12:49:59.790	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66143 tp: 1.66330
+0	12:49:59.790	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23941 tp: 1.24100 -> sl: 1.23956 tp: 1.24117
+1	12:50:02.603	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23941 tp: 1.24100 -> sl: 1.23956 tp: 1.24117'
+0	12:50:02.653	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23956 tp: 1.24117
+0	12:50:02.653	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66143 tp: 1.66330 -> sl: 1.66168 tp: 1.66358
+1	12:50:07.904	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66143 tp: 1.66330 -> sl: 1.66168 tp: 1.66358'
+0	12:50:07.904	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66168 tp: 1.66358
+0	12:51:59.733	'10019548': order #158424596 sell 0.12 AUDCAD at 0.97175 closed due stop-loss at price 0.97268
+1	12:51:59.733	Notifications: not enough space for notification 'order #158424596 sell 0.12 AUDCAD at 0.97175 closed due stop-loss at price 0.97268, profit: -11.47 AUD'
+0	12:52:06.088	'10019548': modify order #158448393 buy 0.12 AUDUSD at 0.72535 sl: 0.72502 tp: 0.72655 -> sl: 0.72508 tp: 0.72662
+1	12:52:08.430	Notifications: not enough space for notification 'order #158448393 buy 0.12 AUDUSD at 0.72535 modified: sl: 0.72502 tp: 0.72655 -> sl: 0.72508 tp: 0.72662'
+0	12:52:08.430	'10019548': order #158448393 buy 0.12 AUDUSD at 0.72535 was modified -> sl: 0.72508 tp: 0.72662
+0	12:52:11.029	'10019548': modify order #158448393 buy 0.12 AUDUSD at 0.72535 sl: 0.72508 tp: 0.72662 -> sl: 0.72509 tp: 0.72663
+1	12:52:12.279	Notifications: not enough space for notification 'order #158448393 buy 0.12 AUDUSD at 0.72535 modified: sl: 0.72508 tp: 0.72662 -> sl: 0.72509 tp: 0.72663'
+0	12:52:12.279	'10019548': order #158448393 buy 0.12 AUDUSD at 0.72535 was modified -> sl: 0.72509 tp: 0.72663
+0	12:52:20.748	'10019548': modify order #158448393 buy 0.12 AUDUSD at 0.72535 sl: 0.72509 tp: 0.72663 -> sl: 0.72510 tp: 0.72664
+1	12:52:25.162	Notifications: not enough space for notification 'order #158448393 buy 0.12 AUDUSD at 0.72535 modified: sl: 0.72509 tp: 0.72663 -> sl: 0.72510 tp: 0.72664'
+0	12:52:25.162	'10019548': order #158448393 buy 0.12 AUDUSD at 0.72535 was modified -> sl: 0.72510 tp: 0.72664
+0	12:52:33.913	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23956 tp: 1.24117 -> sl: 1.23957 tp: 1.24119
+1	12:52:41.676	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23956 tp: 1.24117 -> sl: 1.23957 tp: 1.24119'
+0	12:52:41.677	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23957 tp: 1.24119
+0	12:52:41.677	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23957 tp: 1.24119 -> sl: 1.23959 tp: 1.24119
+1	12:52:51.384	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23957 tp: 1.24119 -> sl: 1.23959 tp: 1.24119'
+0	12:52:51.384	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23959 tp: 1.24119
+0	12:52:51.385	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66168 tp: 1.66358 -> sl: 1.66176 tp: 1.66354
+0	12:53:15.564	'10019548': order #158425702 buy 0.12 EURJPY at 122.008 closed due stop-loss at price 122.087
+1	12:53:15.564	Notifications: not enough space for notification 'order #158425702 buy 0.12 EURJPY at 122.008 closed due stop-loss at price 122.087, profit: 11.14 AUD'
+1	12:53:17.026	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66168 tp: 1.66358 -> sl: 1.66176 tp: 1.66354'
+0	12:53:17.026	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66176 tp: 1.66354
+0	12:53:17.027	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23959 tp: 1.24119 -> sl: 1.23968 tp: 1.24131
+1	12:53:21.517	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23959 tp: 1.24119 -> sl: 1.23968 tp: 1.24131'
+0	12:53:21.517	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23968 tp: 1.24131
+0	12:53:21.518	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23968 tp: 1.24131 -> sl: 1.23974 tp: 1.24136
+1	12:53:29.736	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23968 tp: 1.24131 -> sl: 1.23974 tp: 1.24136'
+0	12:53:29.736	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23974 tp: 1.24136
+0	12:53:29.774	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23974 tp: 1.24136 -> sl: 1.23975 tp: 1.24139
+1	12:53:34.998	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23974 tp: 1.24136 -> sl: 1.23975 tp: 1.24139'
+0	12:53:34.999	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23975 tp: 1.24139
+0	12:53:35.000	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23975 tp: 1.24139 -> sl: 1.23976 tp: 1.24138
+1	12:53:36.362	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23975 tp: 1.24139 -> sl: 1.23976 tp: 1.24138'
+0	12:53:36.363	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23976 tp: 1.24138
+0	12:53:38.603	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23976 tp: 1.24138 -> sl: 1.23976 tp: 1.24137
+1	12:53:40.274	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23976 tp: 1.24138 -> sl: 1.23976 tp: 1.24137'
+0	12:53:40.274	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23976 tp: 1.24137
+0	12:53:40.275	'10019548': modify order #158448393 buy 0.12 AUDUSD at 0.72535 sl: 0.72510 tp: 0.72664 -> sl: 0.72512 tp: 0.72666
+1	12:53:40.917	Notifications: not enough space for notification 'order #158448393 buy 0.12 AUDUSD at 0.72535 modified: sl: 0.72510 tp: 0.72664 -> sl: 0.72512 tp: 0.72666'
+0	12:53:40.918	'10019548': order #158448393 buy 0.12 AUDUSD at 0.72535 was modified -> sl: 0.72512 tp: 0.72666
+0	12:54:23.607	'10019548': modify order #158448373 sell 0.12 EURGBP at 0.83950 sl: 0.83995 tp: 0.83841 -> sl: 0.83991 tp: 0.83836
+1	12:54:24.011	Notifications: not enough space for notification 'order #158448373 sell 0.12 EURGBP at 0.83950 modified: sl: 0.83995 tp: 0.83841 -> sl: 0.83991 tp: 0.83836'
+0	12:54:24.036	'10019548': order #158448373 sell 0.12 EURGBP at 0.83950 was modified -> sl: 0.83991 tp: 0.83836
+0	12:54:24.036	'10019548': modify order #158449117 sell 0.12 EURGBP at 0.83974 sl: 0.83994 tp: 0.83839 -> sl: 0.83990 tp: 0.83835
+1	12:54:24.418	Notifications: not enough space for notification 'order #158449117 sell 0.12 EURGBP at 0.83974 modified: sl: 0.83994 tp: 0.83839 -> sl: 0.83990 tp: 0.83835'
+0	12:54:24.418	'10019548': order #158449117 sell 0.12 EURGBP at 0.83974 was modified -> sl: 0.83990 tp: 0.83835
+0	12:54:27.695	'10019548': modify order #158448373 sell 0.12 EURGBP at 0.83950 sl: 0.83991 tp: 0.83836 -> sl: 0.83990 tp: 0.83834
+1	12:54:32.224	Notifications: not enough space for notification 'order #158448373 sell 0.12 EURGBP at 0.83950 modified: sl: 0.83991 tp: 0.83836 -> sl: 0.83990 tp: 0.83834'
+0	12:54:32.224	'10019548': order #158448373 sell 0.12 EURGBP at 0.83950 was modified -> sl: 0.83990 tp: 0.83834
+0	12:54:55.235	'10019548': modify order #158448373 sell 0.12 EURGBP at 0.83950 sl: 0.83990 tp: 0.83834 -> sl: 0.83989 tp: 0.83834
+1	12:54:59.411	Notifications: not enough space for notification 'order #158448373 sell 0.12 EURGBP at 0.83950 modified: sl: 0.83990 tp: 0.83834 -> sl: 0.83989 tp: 0.83834'
+0	12:54:59.411	'10019548': order #158448373 sell 0.12 EURGBP at 0.83950 was modified -> sl: 0.83989 tp: 0.83834
+0	12:54:59.411	'10019548': modify order #158449117 sell 0.12 EURGBP at 0.83974 sl: 0.83990 tp: 0.83835 -> sl: 0.83986 tp: 0.83832
+1	12:55:03.035	Notifications: not enough space for notification 'order #158449117 sell 0.12 EURGBP at 0.83974 modified: sl: 0.83990 tp: 0.83835 -> sl: 0.83986 tp: 0.83832'
+0	12:55:03.597	'10019548': order #158449117 sell 0.12 EURGBP at 0.83974 was modified -> sl: 0.83986 tp: 0.83832
+0	12:55:21.057	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66176 tp: 1.66354 -> sl: 1.66184 tp: 1.66372
+1	12:55:29.046	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66176 tp: 1.66354 -> sl: 1.66184 tp: 1.66372'
+0	12:55:29.047	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66184 tp: 1.66372
+0	12:55:29.047	'10019548': modify order #158448373 sell 0.12 EURGBP at 0.83950 sl: 0.83989 tp: 0.83834 -> sl: 0.83976 tp: 0.83822
+1	12:55:35.922	Notifications: not enough space for notification 'order #158448373 sell 0.12 EURGBP at 0.83950 modified: sl: 0.83989 tp: 0.83834 -> sl: 0.83976 tp: 0.83822'
+0	12:55:35.922	'10019548': order #158448373 sell 0.12 EURGBP at 0.83950 was modified -> sl: 0.83976 tp: 0.83822
+0	12:55:35.922	'10019548': modify order #158449117 sell 0.12 EURGBP at 0.83974 sl: 0.83986 tp: 0.83832 -> sl: 0.83975 tp: 0.83821
+1	12:55:40.513	Notifications: not enough space for notification 'order #158449117 sell 0.12 EURGBP at 0.83974 modified: sl: 0.83986 tp: 0.83832 -> sl: 0.83975 tp: 0.83821'
+0	12:55:40.513	'10019548': order #158449117 sell 0.12 EURGBP at 0.83974 was modified -> sl: 0.83975 tp: 0.83821
+0	12:55:40.551	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66184 tp: 1.66372 -> sl: 1.66187 tp: 1.66375
+1	12:55:48.639	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66184 tp: 1.66372 -> sl: 1.66187 tp: 1.66375'
+0	12:55:48.640	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66187 tp: 1.66375
+0	12:55:48.641	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66187 tp: 1.66375 -> sl: 1.66194 tp: 1.66381
+1	12:56:00.797	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66187 tp: 1.66375 -> sl: 1.66194 tp: 1.66381'
+0	12:56:00.797	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66194 tp: 1.66381
+0	12:56:42.394	'10019548': modify order #158423250 buy 0.12 GBPCAD at 1.66328 sl: 1.66194 tp: 1.66381 -> sl: 1.66210 tp: 1.66400
+1	12:57:08.650	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 modified: sl: 1.66194 tp: 1.66381 -> sl: 1.66210 tp: 1.66400'
+0	12:57:08.650	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 was modified -> sl: 1.66210 tp: 1.66400
+0	12:57:08.650	'10019548': modify order #158448382 buy 0.12 GBPUSD at 1.23940 sl: 1.23976 tp: 1.24137 -> sl: 1.23984 tp: 1.24146
+1	12:57:13.207	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 modified: sl: 1.23976 tp: 1.24137 -> sl: 1.23984 tp: 1.24146'
+0	12:57:13.208	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 was modified -> sl: 1.23984 tp: 1.24146
+0	12:58:35.012	'10019548': order #158423250 buy 0.12 GBPCAD at 1.66328 closed due stop-loss at price 1.66210
+1	12:58:35.012	Notifications: not enough space for notification 'order #158423250 buy 0.12 GBPCAD at 1.66328 closed due stop-loss at price 1.66210, profit: -14.56 AUD'
+0	13:03:15.396	'10019548': order #158449117 sell 0.12 EURGBP at 0.83974 closed due stop-loss at price 0.83975
+1	13:03:15.396	Notifications: not enough space for notification 'order #158449117 sell 0.12 EURGBP at 0.83974 closed due stop-loss at price 0.83975, profit: -0.21 AUD'
+0	13:03:18.360	'10019548': order #158448373 sell 0.12 EURGBP at 0.83950 closed due stop-loss at price 0.83976
+1	13:03:18.360	Notifications: not enough space for notification 'order #158448373 sell 0.12 EURGBP at 0.83950 closed due stop-loss at price 0.83976, profit: -5.34 AUD'
+0	13:10:58.482	'10019548': order #158448393 buy 0.12 AUDUSD at 0.72535 closed due stop-loss at price 0.72512
+1	13:10:58.482	Notifications: not enough space for notification 'order #158448393 buy 0.12 AUDUSD at 0.72535 closed due stop-loss at price 0.72512, profit: -3.81 AUD'
+0	13:11:31.134	'10019548': order #158448382 buy 0.12 GBPUSD at 1.23940 closed due stop-loss at price 1.23984
+1	13:11:31.134	Notifications: not enough space for notification 'order #158448382 buy 0.12 GBPUSD at 1.23940 closed due stop-loss at price 1.23984, profit: 7.28 AUD'
+0	13:18:11.399	'10019548': modify order #158449124 sell 0.12 USDCAD at 1.34046 sl: 1.34078 tp: 1.33917 -> sl: 1.34075 tp: 1.33917
+1	13:18:17.324	Notifications: not enough space for notification 'order #158449124 sell 0.12 USDCAD at 1.34046 modified: sl: 1.34078 tp: 1.33917 -> sl: 1.34075 tp: 1.33917'
+0	13:18:17.325	'10019548': order #158449124 sell 0.12 USDCAD at 1.34046 was modified -> sl: 1.34075 tp: 1.33917
+0	13:18:17.349	'10019548': modify order #158449124 sell 0.12 USDCAD at 1.34046 sl: 1.34075 tp: 1.33917 -> sl: 1.34073 tp: 1.33915
+1	13:18:25.201	Notifications: not enough space for notification 'order #158449124 sell 0.12 USDCAD at 1.34046 modified: sl: 1.34075 tp: 1.33917 -> sl: 1.34073 tp: 1.33915'
+0	13:18:25.201	'10019548': order #158449124 sell 0.12 USDCAD at 1.34046 was modified -> sl: 1.34073 tp: 1.33915
+0	13:19:35.818	'10019548': modify order #158449124 sell 0.12 USDCAD at 1.34046 sl: 1.34073 tp: 1.33915 -> sl: 1.34072 tp: 1.33914
+1	13:19:38.071	Notifications: not enough space for notification 'order #158449124 sell 0.12 USDCAD at 1.34046 modified: sl: 1.34073 tp: 1.33915 -> sl: 1.34072 tp: 1.33914'
+0	13:19:38.071	'10019548': order #158449124 sell 0.12 USDCAD at 1.34046 was modified -> sl: 1.34072 tp: 1.33914
+0	13:20:00.805	'10019548': modify order #158449124 sell 0.12 USDCAD at 1.34046 sl: 1.34072 tp: 1.33914 -> sl: 1.34070 tp: 1.33914
+1	13:20:10.998	Notifications: not enough space for notification 'order #158449124 sell 0.12 USDCAD at 1.34046 modified: sl: 1.34072 tp: 1.33914 -> sl: 1.34070 tp: 1.33914'
+0	13:20:11.145	'10019548': order #158449124 sell 0.12 USDCAD at 1.34046 was modified -> sl: 1.34070 tp: 1.33914
+0	13:23:13.290	'10019548': modify order #158449124 sell 0.12 USDCAD at 1.34046 sl: 1.34070 tp: 1.33914 -> sl: 1.34069 tp: 1.33911
+1	13:23:24.057	Notifications: not enough space for notification 'order #158449124 sell 0.12 USDCAD at 1.34046 modified: sl: 1.34070 tp: 1.33914 -> sl: 1.34069 tp: 1.33911'
+0	13:23:24.057	'10019548': order #158449124 sell 0.12 USDCAD at 1.34046 was modified -> sl: 1.34069 tp: 1.33911
+0	13:52:58.872	'10019548': order #158449124 sell 0.12 USDCAD at 1.34046 closed due stop-loss at price 1.34069
+1	13:52:58.872	Notifications: not enough space for notification 'order #158449124 sell 0.12 USDCAD at 1.34046 closed due stop-loss at price 1.34069, profit: -2.83 AUD'
+1	13:52:59.589	Notifications: not enough space for notification 'Close up completed @ 2339.89'
+0	14:00:05.006	'10019548': order sell market 0.12 EURGBP sl: 0.00000 tp: 0.83635
+1	14:00:26.133	Notifications: not enough space for notification 'order opened #158456705 sell 0.12 EURGBP at 0.83939 tp: 0.83635'
+0	14:00:26.133	'10019548': order was opened : #158456705 sell 0.12 EURGBP at 0.83939 sl: 0.00000 tp: 0.83635
+0	14:00:26.136	'10019548': order sell market 0.12 AUDJPY sl: 0.000 tp: 84.744
+1	14:00:39.385	Notifications: not enough space for notification 'order opened #158456733 sell 0.12 AUDJPY at 85.048 tp: 84.744'
+0	14:00:39.448	'10019548': order was opened : #158456733 sell 0.12 AUDJPY at 85.048 sl: 0.000 tp: 84.744
+0	14:00:39.453	'10019548': order sell market 0.12 AUDCAD sl: 0.00000 tp: 0.96876
+1	14:00:56.434	Notifications: not enough space for notification 'order opened #158456753 sell 0.12 AUDCAD at 0.97169 tp: 0.96876'
+0	14:00:56.435	'10019548': order was opened : #158456753 sell 0.12 AUDCAD at 0.97169 sl: 0.00000 tp: 0.96876
+0	14:15:00.974	'10019548': order buy market 0.12 EURUSD sl: 0.00000 tp: 1.04392
+1	14:15:05.001	Notifications: not enough space for notification 'order opened #158458166 buy 0.12 EURUSD at 1.04091 tp: 1.04392'
+0	14:15:05.051	'10019548': order was opened : #158458166 buy 0.12 EURUSD at 1.04091 sl: 0.00000 tp: 1.04392
+0	14:15:05.060	'10019548': order buy market 0.12 XAUUSD sl: 0.00 tp: 1141.60
+1	14:15:07.101	Notifications: not enough space for notification 'order opened #158458185 buy 0.12 XAUUSD at 1138.55 tp: 1141.60'
+0	14:15:07.107	'10019548': order was opened : #158458185 buy 0.12 XAUUSD at 1138.55 sl: 0.00 tp: 1141.60
+0	14:25:02.854	'10019548': order sell market 0.12 AUDUSD sl: 0.00000 tp: 0.72201
+1	14:25:05.089	Notifications: not enough space for notification 'order opened #158458831 sell 0.12 AUDUSD at 0.72501 tp: 0.72201'
+0	14:25:05.089	'10019548': order was opened : #158458831 sell 0.12 AUDUSD at 0.72501 sl: 0.00000 tp: 0.72201
+0	14:30:02.038	'10019548': order sell market 0.12 AUDCAD sl: 0.00000 tp: 0.96947
+1	14:30:09.686	Notifications: not enough space for notification 'order opened #158459028 sell 0.12 AUDCAD at 0.97243 tp: 0.96947'
+0	14:30:09.935	'10019548': order was opened : #158459028 sell 0.12 AUDCAD at 0.97243 sl: 0.00000 tp: 0.96947
+0	14:30:09.936	'10019548': order buy market 0.12 USDCHF sl: 0.00000 tp: 1.02956
+1	14:30:24.251	Notifications: not enough space for notification 'order opened #158459063 buy 0.12 USDCHF at 1.02659 tp: 1.02956'
+0	14:30:24.252	'10019548': order was opened : #158459063 buy 0.12 USDCHF at 1.02659 sl: 0.00000 tp: 1.02956
+0	17:01:51.697	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 0.00000 tp: 1.02956 -> sl: 1.02801 tp: 1.02958
+1	17:02:00.111	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 0.00000 tp: 1.02956 -> sl: 1.02801 tp: 1.02958'
+0	17:02:00.210	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02801 tp: 1.02958
+0	17:02:00.211	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02801 tp: 1.02958 -> sl: 1.02804 tp: 1.02963
+1	17:02:13.925	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02801 tp: 1.02958 -> sl: 1.02804 tp: 1.02963'
+0	17:02:13.926	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02804 tp: 1.02963
+0	17:02:34.751	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02804 tp: 1.02963 -> sl: 1.02806 tp: 1.02966
+1	17:02:45.232	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02804 tp: 1.02963 -> sl: 1.02806 tp: 1.02966'
+0	17:02:45.232	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02806 tp: 1.02966
+0	17:03:11.441	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02806 tp: 1.02966 -> sl: 1.02808 tp: 1.02962
+1	17:03:21.263	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02806 tp: 1.02966 -> sl: 1.02808 tp: 1.02962'
+0	17:03:21.264	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02808 tp: 1.02962
+0	17:03:21.285	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02808 tp: 1.02962 -> sl: 1.02813 tp: 1.02970
+1	17:05:42.020	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02808 tp: 1.02962 -> sl: 1.02813 tp: 1.02970'
+0	17:05:42.090	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02813 tp: 1.02970
+0	17:05:42.091	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02813 tp: 1.02970 -> sl: 1.02814 tp: 1.02971
+1	17:05:47.889	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02813 tp: 1.02970 -> sl: 1.02814 tp: 1.02971'
+0	17:05:47.890	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02814 tp: 1.02971
+0	17:06:07.829	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02814 tp: 1.02971 -> sl: 1.02815 tp: 1.02975
+1	17:06:13.382	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02814 tp: 1.02971 -> sl: 1.02815 tp: 1.02975'
+0	17:06:13.382	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02815 tp: 1.02975
+0	17:06:31.404	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02815 tp: 1.02975 -> sl: 1.02818 tp: 1.02977
+1	17:06:48.998	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02815 tp: 1.02975 -> sl: 1.02818 tp: 1.02977'
+0	17:06:49.007	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02818 tp: 1.02977
+0	17:06:49.008	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02818 tp: 1.02977 -> sl: 1.02825 tp: 1.02983
+1	17:06:56.159	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02818 tp: 1.02977 -> sl: 1.02825 tp: 1.02983'
+0	17:06:56.169	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02825 tp: 1.02983
+0	17:06:56.170	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02825 tp: 1.02983 -> sl: 1.02839 tp: 1.02997
+1	17:07:00.081	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02825 tp: 1.02983 -> sl: 1.02839 tp: 1.02997'
+0	17:07:00.082	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02839 tp: 1.02997
+0	17:07:00.083	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02839 tp: 1.02997 -> sl: 1.02839 tp: 1.02995
+1	17:07:08.710	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02839 tp: 1.02997 -> sl: 1.02839 tp: 1.02995'
+0	17:07:08.711	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02839 tp: 1.02995
+0	17:10:05.249	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02839 tp: 1.02995 -> sl: 1.02840 tp: 1.02995
+1	17:10:06.684	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02839 tp: 1.02995 -> sl: 1.02840 tp: 1.02995'
+0	17:10:06.684	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02840 tp: 1.02995
+0	17:11:25.784	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02840 tp: 1.02995 -> sl: 1.02841 tp: 1.02997
+1	17:11:27.020	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02840 tp: 1.02995 -> sl: 1.02841 tp: 1.02997'
+0	17:11:27.020	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02841 tp: 1.02997
+0	17:11:30.111	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02841 tp: 1.02997 -> sl: 1.02842 tp: 1.02996
+1	17:11:30.566	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02841 tp: 1.02997 -> sl: 1.02842 tp: 1.02996'
+0	17:11:30.566	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02842 tp: 1.02996
+0	17:11:34.548	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02842 tp: 1.02996 -> sl: 1.02843 tp: 1.02998
+1	17:11:35.531	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02842 tp: 1.02996 -> sl: 1.02843 tp: 1.02998'
+0	17:11:35.532	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02843 tp: 1.02998
+0	17:11:46.439	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02843 tp: 1.02998 -> sl: 1.02844 tp: 1.02998
+1	17:11:47.127	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02843 tp: 1.02998 -> sl: 1.02844 tp: 1.02998'
+0	17:11:47.187	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02844 tp: 1.02998
+0	17:15:44.622	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02844 tp: 1.02998 -> sl: 1.02845 tp: 1.02999
+1	17:15:49.625	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02844 tp: 1.02998 -> sl: 1.02845 tp: 1.02999'
+0	17:15:49.798	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02845 tp: 1.02999
+0	17:20:13.663	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02845 tp: 1.02999 -> sl: 1.02848 tp: 1.03002
+1	17:20:16.118	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02845 tp: 1.02999 -> sl: 1.02848 tp: 1.03002'
+0	17:20:16.118	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02848 tp: 1.03002
+0	17:21:48.227	'10019548': modify order #158459063 buy 0.12 USDCHF at 1.02659 sl: 1.02848 tp: 1.03002 -> sl: 1.02850 tp: 1.03005
+1	17:21:48.560	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 modified: sl: 1.02848 tp: 1.03002 -> sl: 1.02850 tp: 1.03005'
+0	17:21:48.560	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 was modified -> sl: 1.02850 tp: 1.03005
+0	17:24:58.072	'10019548': order #158459063 buy 0.12 USDCHF at 1.02659 closed due stop-loss at price 1.02850
+1	17:24:58.072	Notifications: not enough space for notification 'order #158459063 buy 0.12 USDCHF at 1.02659 closed due stop-loss at price 1.02850, profit: 30.72 AUD'
+0	17:46:12.393	'10019548': modify order #158456705 sell 0.12 EURGBP at 0.83939 sl: 0.00000 tp: 0.83635 -> sl: 0.83838 tp: 0.83683
+1	17:46:20.768	Notifications: not enough space for notification 'order #158456705 sell 0.12 EURGBP at 0.83939 modified: sl: 0.00000 tp: 0.83635 -> sl: 0.83838 tp: 0.83683'
+0	17:46:20.768	'10019548': order #158456705 sell 0.12 EURGBP at 0.83939 was modified -> sl: 0.83838 tp: 0.83683
+0	17:50:26.403	'10019548': modify order #158456705 sell 0.12 EURGBP at 0.83939 sl: 0.83838 tp: 0.83683 -> sl: 0.83837 tp: 0.83683
+1	17:50:29.000	Notifications: not enough space for notification 'order #158456705 sell 0.12 EURGBP at 0.83939 modified: sl: 0.83838 tp: 0.83683 -> sl: 0.83837 tp: 0.83683'
+0	17:50:29.001	'10019548': order #158456705 sell 0.12 EURGBP at 0.83939 was modified -> sl: 0.83837 tp: 0.83683
+0	17:50:29.001	'10019548': modify order #158456705 sell 0.12 EURGBP at 0.83939 sl: 0.83837 tp: 0.83683 -> sl: 0.83831 tp: 0.83678
+1	17:50:33.144	Notifications: not enough space for notification 'order #158456705 sell 0.12 EURGBP at 0.83939 modified: sl: 0.83837 tp: 0.83683 -> sl: 0.83831 tp: 0.83678'
+0	17:50:33.144	'10019548': order #158456705 sell 0.12 EURGBP at 0.83939 was modified -> sl: 0.83831 tp: 0.83678
+0	17:50:33.145	'10019548': modify order #158456705 sell 0.12 EURGBP at 0.83939 sl: 0.83831 tp: 0.83678 -> sl: 0.83830 tp: 0.83677
+1	17:50:33.959	Notifications: not enough space for notification 'order #158456705 sell 0.12 EURGBP at 0.83939 modified: sl: 0.83831 tp: 0.83678 -> sl: 0.83830 tp: 0.83677'
+0	17:50:33.959	'10019548': order #158456705 sell 0.12 EURGBP at 0.83939 was modified -> sl: 0.83830 tp: 0.83677
+0	17:50:37.665	'10019548': modify order #158456705 sell 0.12 EURGBP at 0.83939 sl: 0.83830 tp: 0.83677 -> sl: 0.83822 tp: 0.83669
+1	17:50:50.014	Notifications: not enough space for notification 'order #158456705 sell 0.12 EURGBP at 0.83939 modified: sl: 0.83830 tp: 0.83677 -> sl: 0.83822 tp: 0.83669'
+0	17:50:50.014	'10019548': order #158456705 sell 0.12 EURGBP at 0.83939 was modified -> sl: 0.83822 tp: 0.83669
+0	17:50:50.015	'10019548': modify order #158456705 sell 0.12 EURGBP at 0.83939 sl: 0.83822 tp: 0.83669 -> sl: 0.83812 tp: 0.83658
+1	17:51:06.919	Notifications: not enough space for notification 'order #158456705 sell 0.12 EURGBP at 0.83939 modified: sl: 0.83822 tp: 0.83669 -> sl: 0.83812 tp: 0.83658'
+0	17:51:07.016	'10019548': order #158456705 sell 0.12 EURGBP at 0.83939 was modified -> sl: 0.83812 tp: 0.83658
+0	17:53:45.909	'10019548': order #158456705 sell 0.12 EURGBP at 0.83939 closed due stop-loss at price 0.83812
+1	17:53:45.909	Notifications: not enough space for notification 'order #158456705 sell 0.12 EURGBP at 0.83939 closed due stop-loss at price 0.83812, profit: 26.02 AUD'
+0	18:27:37.893	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 253.46 ms)
+0	18:27:56.755	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: 253.46 ms)
+0	18:27:57.709	'10019548': previous successful authorization performed from 220.244.203.12
+0	18:28:16.016	'10019548': auto connecting to a better access point Demo DC #3 (ping is 257.79 ms)
+0	18:28:16.708	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 257.79 ms)
+0	18:28:19.698	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 257.79 ms)
+0	18:28:20.260	'10019548': previous successful authorization performed from 220.244.203.12
+1	18:49:00.386	'10019548': ping failed
+1	18:49:00.921	'10019548': connect failed [No connection]
+0	18:49:06.556	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 267.83 ms)
+0	18:49:22.351	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: 267.83 ms)
+0	18:49:23.918	'10019548': previous successful authorization performed from 220.244.203.12
+0	18:53:42.875	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 267.83 ms)
+0	18:54:04.612	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: 267.83 ms)
+0	18:54:06.920	'10019548': previous successful authorization performed from 220.244.203.12
+0	21:06:30.135	'10019548': modify order #158458831 sell 0.12 AUDUSD at 0.72501 sl: 0.00000 tp: 0.72201 -> sl: 0.72367 tp: 0.72214
+1	21:06:42.486	Notifications: not enough space for notification 'order #158458831 sell 0.12 AUDUSD at 0.72501 modified: sl: 0.00000 tp: 0.72201 -> sl: 0.72367 tp: 0.72214'
+0	21:06:42.486	'10019548': order #158458831 sell 0.12 AUDUSD at 0.72501 was modified -> sl: 0.72367 tp: 0.72214
+0	21:06:42.487	'10019548': modify order #158458831 sell 0.12 AUDUSD at 0.72501 sl: 0.72367 tp: 0.72214 -> sl: 0.72364 tp: 0.72211
+1	21:07:00.421	Notifications: not enough space for notification 'order #158458831 sell 0.12 AUDUSD at 0.72501 modified: sl: 0.72367 tp: 0.72214 -> sl: 0.72364 tp: 0.72211'
+0	21:07:00.422	'10019548': order #158458831 sell 0.12 AUDUSD at 0.72501 was modified -> sl: 0.72364 tp: 0.72211
+0	21:07:40.742	'10019548': modify order #158458831 sell 0.12 AUDUSD at 0.72501 sl: 0.72364 tp: 0.72211 -> sl: 0.72363 tp: 0.72209
+1	21:07:49.534	Notifications: not enough space for notification 'order #158458831 sell 0.12 AUDUSD at 0.72501 modified: sl: 0.72364 tp: 0.72211 -> sl: 0.72363 tp: 0.72209'
+0	21:07:49.536	'10019548': order #158458831 sell 0.12 AUDUSD at 0.72501 was modified -> sl: 0.72363 tp: 0.72209
+0	21:07:49.537	'10019548': modify order #158458831 sell 0.12 AUDUSD at 0.72501 sl: 0.72363 tp: 0.72209 -> sl: 0.72354 tp: 0.72201
+1	21:08:08.677	Notifications: not enough space for notification 'order #158458831 sell 0.12 AUDUSD at 0.72501 modified: sl: 0.72363 tp: 0.72209 -> sl: 0.72354 tp: 0.72201'
+0	21:08:08.677	'10019548': order #158458831 sell 0.12 AUDUSD at 0.72501 was modified -> sl: 0.72354 tp: 0.72201
+0	21:08:08.678	'10019548': modify order #158458831 sell 0.12 AUDUSD at 0.72501 sl: 0.72354 tp: 0.72201 -> sl: 0.72343 tp: 0.72190
+1	21:08:27.562	Notifications: not enough space for notification 'order #158458831 sell 0.12 AUDUSD at 0.72501 modified: sl: 0.72354 tp: 0.72201 -> sl: 0.72343 tp: 0.72190'
+0	21:08:27.563	'10019548': order #158458831 sell 0.12 AUDUSD at 0.72501 was modified -> sl: 0.72343 tp: 0.72190
+0	21:08:27.584	'10019548': modify order #158458831 sell 0.12 AUDUSD at 0.72501 sl: 0.72343 tp: 0.72190 -> sl: 0.72342 tp: 0.72188
+1	21:08:30.547	Notifications: not enough space for notification 'order #158458831 sell 0.12 AUDUSD at 0.72501 modified: sl: 0.72343 tp: 0.72190 -> sl: 0.72342 tp: 0.72188'
+0	21:08:31.015	'10019548': order #158458831 sell 0.12 AUDUSD at 0.72501 was modified -> sl: 0.72342 tp: 0.72188
+0	21:10:03.657	'10019548': modify order #158458831 sell 0.12 AUDUSD at 0.72501 sl: 0.72342 tp: 0.72188 -> sl: 0.72340 tp: 0.72185
+1	21:10:08.482	Notifications: not enough space for notification 'order #158458831 sell 0.12 AUDUSD at 0.72501 modified: sl: 0.72342 tp: 0.72188 -> sl: 0.72340 tp: 0.72185'
+0	21:10:08.482	'10019548': order #158458831 sell 0.12 AUDUSD at 0.72501 was modified -> sl: 0.72340 tp: 0.72185
+0	21:10:48.481	'10019548': modify order #158458831 sell 0.12 AUDUSD at 0.72501 sl: 0.72340 tp: 0.72185 -> sl: 0.72339 tp: 0.72185
+1	21:10:51.490	Notifications: not enough space for notification 'order #158458831 sell 0.12 AUDUSD at 0.72501 modified: sl: 0.72340 tp: 0.72185 -> sl: 0.72339 tp: 0.72185'
+0	21:10:51.491	'10019548': order #158458831 sell 0.12 AUDUSD at 0.72501 was modified -> sl: 0.72339 tp: 0.72185
+0	21:18:20.714	'10019548': modify order #158458831 sell 0.12 AUDUSD at 0.72501 sl: 0.72339 tp: 0.72185 -> sl: 0.72337 tp: 0.72181
+1	21:18:29.487	Notifications: not enough space for notification 'order #158458831 sell 0.12 AUDUSD at 0.72501 modified: sl: 0.72339 tp: 0.72185 -> sl: 0.72337 tp: 0.72181'
+0	21:18:29.487	'10019548': order #158458831 sell 0.12 AUDUSD at 0.72501 was modified -> sl: 0.72337 tp: 0.72181
+0	21:18:29.488	'10019548': modify order #158458831 sell 0.12 AUDUSD at 0.72501 sl: 0.72337 tp: 0.72181 -> sl: 0.72335 tp: 0.72181
+1	21:18:50.244	Notifications: not enough space for notification 'order #158458831 sell 0.12 AUDUSD at 0.72501 modified: sl: 0.72337 tp: 0.72181 -> sl: 0.72335 tp: 0.72181'
+0	21:18:50.244	'10019548': order #158458831 sell 0.12 AUDUSD at 0.72501 was modified -> sl: 0.72335 tp: 0.72181
+0	21:18:51.474	'10019548': modify order #158458831 sell 0.12 AUDUSD at 0.72501 sl: 0.72335 tp: 0.72181 -> sl: 0.72334 tp: 0.72182
+1	21:19:12.395	Notifications: not enough space for notification 'order #158458831 sell 0.12 AUDUSD at 0.72501 modified: sl: 0.72335 tp: 0.72181 -> sl: 0.72334 tp: 0.72182'
+0	21:19:12.396	'10019548': order #158458831 sell 0.12 AUDUSD at 0.72501 was modified -> sl: 0.72334 tp: 0.72182
+0	21:19:14.504	'10019548': modify order #158458831 sell 0.12 AUDUSD at 0.72501 sl: 0.72334 tp: 0.72182 -> sl: 0.72332 tp: 0.72179
+1	21:19:27.483	Notifications: not enough space for notification 'order #158458831 sell 0.12 AUDUSD at 0.72501 modified: sl: 0.72334 tp: 0.72182 -> sl: 0.72332 tp: 0.72179'
+0	21:19:27.639	'10019548': order #158458831 sell 0.12 AUDUSD at 0.72501 was modified -> sl: 0.72332 tp: 0.72179
+0	21:20:27.224	'10019548': modify order #158458831 sell 0.12 AUDUSD at 0.72501 sl: 0.72332 tp: 0.72179 -> sl: 0.72331 tp: 0.72179
+1	21:20:38.587	Notifications: not enough space for notification 'order #158458831 sell 0.12 AUDUSD at 0.72501 modified: sl: 0.72332 tp: 0.72179 -> sl: 0.72331 tp: 0.72179'
+0	21:20:38.587	'10019548': order #158458831 sell 0.12 AUDUSD at 0.72501 was modified -> sl: 0.72331 tp: 0.72179
+0	21:24:00.974	'10019548': order #158458831 sell 0.12 AUDUSD at 0.72501 closed due stop-loss at price 0.72331
+1	21:24:00.974	Notifications: not enough space for notification 'order #158458831 sell 0.12 AUDUSD at 0.72501 closed due stop-loss at price 0.72331, profit: 28.20 AUD'
+0	21:25:09.502	'10019548': order buy market 0.12 EURAUD sl: 0.00000 tp: 1.43843
+1	21:25:14.019	Notifications: not enough space for notification 'order opened #158484701 buy 0.12 EURAUD at 1.43534 tp: 1.43843'
+0	21:25:14.020	'10019548': order was opened : #158484701 buy 0.12 EURAUD at 1.43534 sl: 0.00000 tp: 1.43843
+0	22:10:11.565	'10019548': order buy market 0.12 USDCAD sl: 0.00000 tp: 1.34500
+1	22:10:24.969	Notifications: not enough space for notification 'order opened #158488197 buy 0.12 USDCAD at 1.34194 tp: 1.34500'
+0	22:10:24.970	'10019548': order was opened : #158488197 buy 0.12 USDCAD at 1.34194 sl: 0.00000 tp: 1.34500
+0	22:36:01.667	'10019548': modify order #158459028 sell 0.12 AUDCAD at 0.97243 sl: 0.00000 tp: 0.96947 -> sl: 0.97041 tp: 0.96882
+1	22:36:03.837	Notifications: not enough space for notification 'order #158459028 sell 0.12 AUDCAD at 0.97243 modified: sl: 0.00000 tp: 0.96947 -> sl: 0.97041 tp: 0.96882'
+0	22:36:03.838	'10019548': order #158459028 sell 0.12 AUDCAD at 0.97243 was modified -> sl: 0.97041 tp: 0.96882
+0	22:36:06.622	'10019548': modify order #158459028 sell 0.12 AUDCAD at 0.97243 sl: 0.97041 tp: 0.96882 -> sl: 0.97034 tp: 0.96875
+1	22:36:18.773	Notifications: not enough space for notification 'order #158459028 sell 0.12 AUDCAD at 0.97243 modified: sl: 0.97041 tp: 0.96882 -> sl: 0.97034 tp: 0.96875'
+0	22:36:18.774	'10019548': order #158459028 sell 0.12 AUDCAD at 0.97243 was modified -> sl: 0.97034 tp: 0.96875
+0	22:42:10.796	'10019548': order #158459028 sell 0.12 AUDCAD at 0.97243 closed due stop-loss at price 0.97034
+1	22:42:10.796	Notifications: not enough space for notification 'order #158459028 sell 0.12 AUDCAD at 0.97243 closed due stop-loss at price 0.97034, profit: 25.85 AUD'
+0	22:55:08.407	'10019548': order sell market 0.12 EURUSD sl: 0.00000 tp: 1.03482
+1	22:55:23.842	Notifications: not enough space for notification 'order opened #158491139 sell 0.12 EURUSD at 1.03783 tp: 1.03482'
+0	22:55:23.842	'10019548': order was opened : #158491139 sell 0.12 EURUSD at 1.03783 sl: 0.00000 tp: 1.03482
+0	22:55:23.854	'10019548': order buy market 0.12 USDCHF sl: 0.00000 tp: 1.03294
+1	22:55:28.859	Notifications: not enough space for notification 'order opened #158491148 buy 0.12 USDCHF at 1.02995 tp: 1.03294'
+0	22:55:28.948	'10019548': order was opened : #158491148 buy 0.12 USDCHF at 1.02995 sl: 0.00000 tp: 1.03294
+0	22:56:27.437	'10019548': modify order #158456753 sell 0.12 AUDCAD at 0.97169 sl: 0.00000 tp: 0.96876 -> sl: 0.96962 tp: 0.96801
+1	22:56:31.647	Notifications: not enough space for notification 'order #158456753 sell 0.12 AUDCAD at 0.97169 modified: sl: 0.00000 tp: 0.96876 -> sl: 0.96962 tp: 0.96801'
+0	22:56:31.647	'10019548': order #158456753 sell 0.12 AUDCAD at 0.97169 was modified -> sl: 0.96962 tp: 0.96801
+0	22:56:31.648	'10019548': modify order #158456753 sell 0.12 AUDCAD at 0.97169 sl: 0.96962 tp: 0.96801 -> sl: 0.96954 tp: 0.96796
+1	22:56:32.296	Notifications: not enough space for notification 'order #158456753 sell 0.12 AUDCAD at 0.97169 modified: sl: 0.96962 tp: 0.96801 -> sl: 0.96954 tp: 0.96796'
+0	22:56:32.424	'10019548': order #158456753 sell 0.12 AUDCAD at 0.97169 was modified -> sl: 0.96954 tp: 0.96796
+0	22:56:52.113	'10019548': modify order #158456753 sell 0.12 AUDCAD at 0.97169 sl: 0.96954 tp: 0.96796 -> sl: 0.96953 tp: 0.96795
+1	22:56:56.044	Notifications: not enough space for notification 'order #158456753 sell 0.12 AUDCAD at 0.97169 modified: sl: 0.96954 tp: 0.96796 -> sl: 0.96953 tp: 0.96795'
+0	22:56:56.044	'10019548': order #158456753 sell 0.12 AUDCAD at 0.97169 was modified -> sl: 0.96953 tp: 0.96795
+0	22:56:59.169	'10019548': modify order #158456753 sell 0.12 AUDCAD at 0.97169 sl: 0.96953 tp: 0.96795 -> sl: 0.96952 tp: 0.96794
+1	22:57:00.216	Notifications: not enough space for notification 'order #158456753 sell 0.12 AUDCAD at 0.97169 modified: sl: 0.96953 tp: 0.96795 -> sl: 0.96952 tp: 0.96794'
+0	22:57:00.217	'10019548': order #158456753 sell 0.12 AUDCAD at 0.97169 was modified -> sl: 0.96952 tp: 0.96794
+0	22:57:05.567	'10019548': modify order #158456753 sell 0.12 AUDCAD at 0.97169 sl: 0.96952 tp: 0.96794 -> sl: 0.96950 tp: 0.96792
+1	22:57:08.745	Notifications: not enough space for notification 'order #158456753 sell 0.12 AUDCAD at 0.97169 modified: sl: 0.96952 tp: 0.96794 -> sl: 0.96950 tp: 0.96792'
+0	22:57:08.919	'10019548': order #158456753 sell 0.12 AUDCAD at 0.97169 was modified -> sl: 0.96950 tp: 0.96792
+0	22:59:05.375	'10019548': order #158456753 sell 0.12 AUDCAD at 0.97169 closed due stop-loss at price 0.96950
+1	22:59:05.375	Notifications: not enough space for notification 'order #158456753 sell 0.12 AUDCAD at 0.97169 closed due stop-loss at price 0.96950, profit: 27.11 AUD'
+0	23:34:27.933	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 0.00000 tp: 1.03482 -> sl: 1.03651 tp: 1.03501
+1	23:34:40.755	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 0.00000 tp: 1.03482 -> sl: 1.03651 tp: 1.03501'
+0	23:34:40.756	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03651 tp: 1.03501
+0	23:34:59.248	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03651 tp: 1.03501 -> sl: 1.03648 tp: 1.03497
+1	23:35:10.413	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03651 tp: 1.03501 -> sl: 1.03648 tp: 1.03497'
+0	23:35:11.884	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03648 tp: 1.03497
+0	23:35:13.772	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03648 tp: 1.03497 -> sl: 1.03648 tp: 1.03496
+1	23:35:29.421	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03648 tp: 1.03497 -> sl: 1.03648 tp: 1.03496'
+0	23:35:29.429	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03648 tp: 1.03496
+0	23:35:29.429	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03648 tp: 1.03496 -> sl: 1.03638 tp: 1.03486
+1	23:35:38.179	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03648 tp: 1.03496 -> sl: 1.03638 tp: 1.03486'
+0	23:35:38.179	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03638 tp: 1.03486
+0	23:36:02.853	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03638 tp: 1.03486 -> sl: 1.03627 tp: 1.03476
+1	23:36:15.132	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03638 tp: 1.03486 -> sl: 1.03627 tp: 1.03476'
+0	23:36:15.133	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03627 tp: 1.03476
+0	23:36:29.700	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03627 tp: 1.03476 -> sl: 1.03626 tp: 1.03476
+1	23:36:44.871	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03627 tp: 1.03476 -> sl: 1.03626 tp: 1.03476'
+0	23:36:44.871	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03626 tp: 1.03476
+0	23:37:02.194	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03626 tp: 1.03476 -> sl: 1.03625 tp: 1.03473
+1	23:37:07.740	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03626 tp: 1.03476 -> sl: 1.03625 tp: 1.03473'
+0	23:37:07.741	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03625 tp: 1.03473
+0	23:37:07.741	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03625 tp: 1.03473 -> sl: 1.03623 tp: 1.03471
+1	23:37:21.514	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03625 tp: 1.03473 -> sl: 1.03623 tp: 1.03471'
+0	23:37:21.636	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03623 tp: 1.03471
+0	23:37:21.663	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03623 tp: 1.03471 -> sl: 1.03620 tp: 1.03469
+1	23:37:32.439	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03623 tp: 1.03471 -> sl: 1.03620 tp: 1.03469'
+0	23:37:32.439	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03620 tp: 1.03469
+0	23:41:26.459	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03620 tp: 1.03469 -> sl: 1.03619 tp: 1.03468
+1	23:41:39.689	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03620 tp: 1.03469 -> sl: 1.03619 tp: 1.03468'
+0	23:41:39.689	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03619 tp: 1.03468
+0	23:41:51.339	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03619 tp: 1.03468 -> sl: 1.03617 tp: 1.03465
+1	23:42:04.770	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03619 tp: 1.03468 -> sl: 1.03617 tp: 1.03465'
+0	23:42:04.770	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03617 tp: 1.03465
+0	23:42:04.771	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03617 tp: 1.03465 -> sl: 1.03609 tp: 1.03457
+1	23:42:13.428	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03617 tp: 1.03465 -> sl: 1.03609 tp: 1.03457'
+0	23:42:13.429	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03609 tp: 1.03457
+0	23:42:13.429	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03609 tp: 1.03457 -> sl: 1.03604 tp: 1.03452
+1	23:42:32.465	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03609 tp: 1.03457 -> sl: 1.03604 tp: 1.03452'
+0	23:42:32.465	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03604 tp: 1.03452
+0	23:42:32.491	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03604 tp: 1.03452 -> sl: 1.03598 tp: 1.03448
+1	23:42:43.846	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03604 tp: 1.03452 -> sl: 1.03598 tp: 1.03448'
+0	23:42:43.846	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03598 tp: 1.03448
+0	23:42:47.351	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03598 tp: 1.03448 -> sl: 1.03594 tp: 1.03444
+1	23:42:54.455	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03598 tp: 1.03448 -> sl: 1.03594 tp: 1.03444'
+0	23:42:54.482	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03594 tp: 1.03444
+0	23:42:57.258	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03594 tp: 1.03444 -> sl: 1.03593 tp: 1.03443
+1	23:43:07.524	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03594 tp: 1.03444 -> sl: 1.03593 tp: 1.03443'
+0	23:43:07.525	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03593 tp: 1.03443
+0	23:43:10.365	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03593 tp: 1.03443 -> sl: 1.03591 tp: 1.03440
+1	23:43:18.656	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03593 tp: 1.03443 -> sl: 1.03591 tp: 1.03440'
+0	23:43:18.656	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03591 tp: 1.03440
+0	23:43:39.632	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03591 tp: 1.03440 -> sl: 1.03584 tp: 1.03434
+1	23:43:44.792	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03591 tp: 1.03440 -> sl: 1.03584 tp: 1.03434'
+0	23:43:44.793	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03584 tp: 1.03434
+0	23:43:44.793	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03584 tp: 1.03434 -> sl: 1.03581 tp: 1.03430
+1	23:43:49.880	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03584 tp: 1.03434 -> sl: 1.03581 tp: 1.03430'
+0	23:43:49.880	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03581 tp: 1.03430
+0	23:44:01.421	'10019548': modify order #158491139 sell 0.12 EURUSD at 1.03783 sl: 1.03581 tp: 1.03430 -> sl: 1.03573 tp: 1.03423
+1	23:44:20.626	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 modified: sl: 1.03581 tp: 1.03430 -> sl: 1.03573 tp: 1.03423'
+0	23:44:20.627	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 was modified -> sl: 1.03573 tp: 1.03423
+0	23:44:23.583	'10019548': modify order #158491148 buy 0.12 USDCHF at 1.02995 sl: 0.00000 tp: 1.03294 -> sl: 1.03139 tp: 1.03294
+1	23:44:31.038	Notifications: not enough space for notification 'order #158491148 buy 0.12 USDCHF at 1.02995 modified: sl: 0.00000 tp: 1.03294 -> sl: 1.03139 tp: 1.03294'
+0	23:44:31.355	'10019548': order #158491148 buy 0.12 USDCHF at 1.02995 was modified -> sl: 1.03139 tp: 1.03294
+0	23:45:22.518	'10019548': order #158491139 sell 0.12 EURUSD at 1.03783 closed due stop-loss at price 1.03573
+1	23:45:22.518	Notifications: not enough space for notification 'order #158491139 sell 0.12 EURUSD at 1.03783 closed due stop-loss at price 1.03573, profit: 34.88 AUD'
+0	23:47:05.150	'10019548': order #158491148 buy 0.12 USDCHF at 1.02995 closed due stop-loss at price 1.03139
+1	23:47:05.150	Notifications: not enough space for notification 'order #158491148 buy 0.12 USDCHF at 1.02995 closed due stop-loss at price 1.03139, profit: 23.19 AUD'

@@ -1,0 +1,334 @@
+0	04:32:50.672	Notifications: '#155683331 deposit 200.00 AUD' sent to 'D07ADD05'
+0	04:32:51.736	Notifications: 'Close up reached @ 436.97' sent to 'D07ADD05'
+0	04:33:15.569	'10010844': modify order #155468175 buy 0.01 USDCAD at 1.34672 sl: 0.00000 tp: 1.34915 -> sl: 1.34445 tp: 1.34556
+0	04:33:15.780	'10010844': order #155468175 buy 0.01 USDCAD at 1.34672 was modified -> sl: 1.34445 tp: 1.34556
+0	04:33:16.799	Notifications: 'order #155468175 buy 0.01 USDCAD at 1.34672 modified: sl: 0.00000 tp: 1.34915 -> sl: 1.34445 tp: 1.34556' sent to 'D07ADD05'
+0	04:33:19.687	'10010844': order #155468175 buy 0.01 USDCAD at 1.34672 closed due stop-loss at price 1.34445
+0	04:33:20.792	Notifications: 'order #155468175 buy 0.01 USDCAD at 1.34672 closed due stop-loss at price 1.34445, profit: -2.27 AUD' sent to 'D07ADD05'
+0	04:33:22.783	Notifications: 'Close up completed @ 436.99' sent to 'D07ADD05'
+0	04:35:14.936	'10010844': order buy market 0.02 EURGBP sl: 0.00000 tp: 0.85865
+0	04:35:15.236	'10010844': order was opened : #155683413 buy 0.02 EURGBP at 0.85565 sl: 0.00000 tp: 0.85865
+0	04:35:16.273	Notifications: 'order opened #155683413 buy 0.02 EURGBP at 0.85565 tp: 0.85865' sent to 'D07ADD05'
+0	06:42:26.777	'10010844': modify order #155683413 buy 0.02 EURGBP at 0.85565 sl: 0.00000 tp: 0.85865 -> sl: 0.85676 tp: 0.86033
+0	06:42:27.212	'10010844': order #155683413 buy 0.02 EURGBP at 0.85565 was modified -> sl: 0.85676 tp: 0.86033
+0	06:42:28.435	Notifications: 'order #155683413 buy 0.02 EURGBP at 0.85565 modified: sl: 0.00000 tp: 0.85865 -> sl: 0.85676 tp: 0.86033' sent to 'D07ADD05'
+0	06:42:30.878	'10010844': modify order #155683413 buy 0.02 EURGBP at 0.85565 sl: 0.85676 tp: 0.86033 -> sl: 0.85681 tp: 0.86041
+0	06:42:59.242	'10010844': order #155683413 buy 0.02 EURGBP at 0.85565 was modified -> sl: 0.85681 tp: 0.86041
+0	06:42:59.242	'10010844': modify order #155683413 buy 0.02 EURGBP at 0.85565 sl: 0.85681 tp: 0.86041 -> sl: 0.85704 tp: 0.86061
+0	06:42:59.650	'10010844': order #155683413 buy 0.02 EURGBP at 0.85565 was modified -> sl: 0.85704 tp: 0.86061
+0	06:43:00.304	Notifications: 'order #155683413 buy 0.02 EURGBP at 0.85565 modified: sl: 0.85676 tp: 0.86033 -> sl: 0.85681 tp: 0.86041' sent to 'D07ADD05'
+0	06:43:01.322	Notifications: 'order #155683413 buy 0.02 EURGBP at 0.85565 modified: sl: 0.85681 tp: 0.86041 -> sl: 0.85704 tp: 0.86061' sent to 'D07ADD05'
+0	06:44:38.364	'10010844': order #155683413 buy 0.02 EURGBP at 0.85565 closed due stop-loss at price 0.85704
+0	06:44:39.414	Notifications: 'order #155683413 buy 0.02 EURGBP at 0.85565 closed due stop-loss at price 0.85704, profit: 4.64 AUD' sent to 'D07ADD05'
+0	06:45:09.022	'10010844': order sell market 0.02 XAUUSD sl: 0.00 tp: 1210.02
+0	06:45:10.817	'10010844': order was opened : #155690115 sell 0.02 XAUUSD at 1213.02 sl: 0.00 tp: 1210.02
+0	06:45:12.274	Notifications: 'order opened #155690115 sell 0.02 XAUUSD at 1213.02 tp: 1210.02' sent to 'D07ADD05'
+0	08:32:09.122	Notifications: 'Close up reached @ 445.49' sent to 'D07ADD05'
+0	08:32:16.111	'10010844': modify order #155690115 sell 0.02 XAUUSD at 1213.02 sl: 0.00 tp: 1210.02 -> sl: 1211.37 tp: 1210.31
+0	08:32:16.425	'10010844': order #155690115 sell 0.02 XAUUSD at 1213.02 was modified -> sl: 1211.37 tp: 1210.31
+0	08:32:17.433	Notifications: 'order #155690115 sell 0.02 XAUUSD at 1213.02 modified: sl: 0.00 tp: 1210.02 -> sl: 1211.37 tp: 1210.31' sent to 'D07ADD05'
+0	08:32:17.464	'10010844': order #155690115 sell 0.02 XAUUSD at 1213.02 closed due stop-loss at price 1211.37
+0	08:32:18.840	Notifications: 'order #155690115 sell 0.02 XAUUSD at 1213.02 closed due stop-loss at price 1211.37, profit: 4.44 AUD' sent to 'D07ADD05'
+0	08:32:19.814	Notifications: 'Close up completed @ 445.79' sent to 'D07ADD05'
+0	08:36:00.125	'10010844': order buy market 0.02 EURGBP sl: 0.00000 tp: 0.85953
+0	08:36:00.486	'10010844': order was opened : #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.00000 tp: 0.85953
+0	20:33:50.763	IC Markets MT4 build 1010 started (International Capital Markets Pty Ltd.)
+0	20:33:50.763	Microsoft Windows 7 (x64 based PC), IE 09.00, 1 x Intel Pentium 4  2.40GHz, RAM: 255 / 488 Mb, HDD: 6108 / 20029 Mb, GMT+10:00
+0	20:33:50.763	Data Folder: Z:\home\keith\MT4-1
+0	20:33:51.646	Sources recompilation started
+0	20:33:54.560	Sources recompilation finished (1 compiled in 2916 msec)
+2	20:33:56.354	Expert DumpTicks EURUSD,M1: loaded successfully
+2	20:33:56.420	Expert Elpheba-20161030 AUDUSD,M1: loaded successfully
+0	20:33:57.343	'10010844': login on ICMarkets-Demo01 through Demo DC (ping: 75.41 ms)
+0	20:33:58.332	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC (ping: 75.41 ms)
+0	20:33:58.663	'10010844': previous successful authorization performed from 120.17.113.194
+0	20:34:23.402	'10010844': auto connecting to a better access point Demo DC #3 (ping is 78.58 ms)
+0	20:34:23.866	'10010844': login on ICMarkets-Demo01 through Demo DC #3 (ping: 78.58 ms)
+0	20:34:24.761	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 78.58 ms)
+0	20:34:25.073	'10010844': previous successful authorization performed from 138.68.53.131
+0	20:39:00.618	'10010844': order buy market 0.02 EURAUD sl: 0.00000 tp: 1.43118
+0	20:39:00.834	'10010844': order was opened : #155707406 buy 0.02 EURAUD at 1.42818 sl: 0.00000 tp: 1.43118
+0	20:39:03.259	Notifications: 'order opened #155707406 buy 0.02 EURAUD at 1.42818 tp: 1.43118' sent to 'D07ADD05'
+0	21:38:34.846	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.00000 tp: 0.85953 -> sl: 0.85733 tp: 0.85889
+0	21:38:35.119	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85733 tp: 0.85889
+0	21:38:35.119	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 0.00000 tp: 1.43118 -> sl: 1.42979 tp: 1.43138
+0	21:38:36.290	Notifications: 'Close up reached @ 454.06' sent to 'D07ADD05'
+0	21:38:37.256	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.00000 tp: 0.85953 -> sl: 0.85733 tp: 0.85889' sent to 'D07ADD05'
+0	21:38:50.182	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.42979 tp: 1.43138
+0	21:38:50.183	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85733 tp: 0.85889 -> sl: 0.85740 tp: 0.85895
+0	21:38:50.994	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85740 tp: 0.85895
+0	21:38:50.994	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.42979 tp: 1.43138 -> sl: 1.42984 tp: 1.43146
+0	21:38:51.272	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 0.00000 tp: 1.43118 -> sl: 1.42979 tp: 1.43138' sent to 'D07ADD05'
+0	21:38:51.353	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.42984 tp: 1.43146
+0	21:38:51.354	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85740 tp: 0.85895 -> sl: 0.85741 tp: 0.85897
+0	21:38:52.273	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85741 tp: 0.85897
+0	21:38:52.273	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.42984 tp: 1.43146 -> sl: 1.42985 tp: 1.43146
+0	21:38:52.323	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85733 tp: 0.85889 -> sl: 0.85740 tp: 0.85895' sent to 'D07ADD05'
+0	21:38:53.008	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.42985 tp: 1.43146
+0	21:38:53.009	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.42985 tp: 1.43146 -> sl: 1.42987 tp: 1.43149
+0	21:38:53.320	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.42987 tp: 1.43149
+0	21:38:53.419	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.42979 tp: 1.43138 -> sl: 1.42984 tp: 1.43146' sent to 'D07ADD05'
+0	21:38:54.016	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.42987 tp: 1.43149 -> sl: 1.42992 tp: 1.43153
+0	21:38:54.535	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85740 tp: 0.85895 -> sl: 0.85741 tp: 0.85897' sent to 'D07ADD05'
+0	21:38:54.617	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.42992 tp: 1.43153
+0	21:38:54.618	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.42992 tp: 1.43153 -> sl: 1.42995 tp: 1.43158
+0	21:38:55.501	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.42984 tp: 1.43146 -> sl: 1.42985 tp: 1.43146' sent to 'D07ADD05'
+0	21:38:56.556	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.42985 tp: 1.43146 -> sl: 1.42987 tp: 1.43149' sent to 'D07ADD05'
+0	21:38:57.620	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.42987 tp: 1.43149 -> sl: 1.42992 tp: 1.43153' sent to 'D07ADD05'
+0	21:39:16.570	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.42995 tp: 1.43158
+0	21:39:16.572	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85741 tp: 0.85897 -> sl: 0.85743 tp: 0.85897
+0	21:39:16.963	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85743 tp: 0.85897
+0	21:39:16.963	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.42995 tp: 1.43158 -> sl: 1.43017 tp: 1.43178
+0	21:39:17.324	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43017 tp: 1.43178
+0	21:39:17.538	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.42992 tp: 1.43153 -> sl: 1.42995 tp: 1.43158' sent to 'D07ADD05'
+0	21:39:18.528	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85741 tp: 0.85897 -> sl: 0.85743 tp: 0.85897' sent to 'D07ADD05'
+0	21:39:19.574	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.42995 tp: 1.43158 -> sl: 1.43017 tp: 1.43178' sent to 'D07ADD05'
+0	21:39:19.729	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85743 tp: 0.85897 -> sl: 0.85745 tp: 0.85900
+0	21:39:20.136	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85745 tp: 0.85900
+0	21:39:20.136	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43017 tp: 1.43178 -> sl: 1.43022 tp: 1.43180
+0	21:39:21.079	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85743 tp: 0.85897 -> sl: 0.85745 tp: 0.85900' sent to 'D07ADD05'
+0	21:39:22.421	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43022 tp: 1.43180
+0	21:39:22.430	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85745 tp: 0.85900 -> sl: 0.85746 tp: 0.85900
+0	21:39:22.856	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85746 tp: 0.85900
+0	21:39:23.446	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43017 tp: 1.43178 -> sl: 1.43022 tp: 1.43180' sent to 'D07ADD05'
+0	21:39:24.307	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43022 tp: 1.43180 -> sl: 1.43024 tp: 1.43181
+0	21:39:24.722	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85745 tp: 0.85900 -> sl: 0.85746 tp: 0.85900' sent to 'D07ADD05'
+0	21:39:27.799	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43024 tp: 1.43181
+0	21:39:28.901	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43022 tp: 1.43180 -> sl: 1.43024 tp: 1.43181' sent to 'D07ADD05'
+0	21:39:58.564	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85746 tp: 0.85900 -> sl: 0.85754 tp: 0.85909
+0	21:39:59.154	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85754 tp: 0.85909
+0	21:39:59.154	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43024 tp: 1.43181 -> sl: 1.43030 tp: 1.43187
+0	21:39:59.562	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43030 tp: 1.43187
+0	21:39:59.971	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85746 tp: 0.85900 -> sl: 0.85754 tp: 0.85909' sent to 'D07ADD05'
+0	21:40:00.946	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43024 tp: 1.43181 -> sl: 1.43030 tp: 1.43187' sent to 'D07ADD05'
+0	21:40:16.463	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43030 tp: 1.43187 -> sl: 1.43053 tp: 1.43210
+0	21:40:16.876	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43053 tp: 1.43210
+0	21:40:17.836	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43030 tp: 1.43187 -> sl: 1.43053 tp: 1.43210' sent to 'D07ADD05'
+0	21:40:18.103	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43053 tp: 1.43210 -> sl: 1.43054 tp: 1.43213
+0	21:40:18.814	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43054 tp: 1.43213
+0	21:40:18.814	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43054 tp: 1.43213 -> sl: 1.43056 tp: 1.43218
+0	21:40:19.174	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43056 tp: 1.43218
+0	21:40:19.557	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43053 tp: 1.43210 -> sl: 1.43054 tp: 1.43213' sent to 'D07ADD05'
+0	21:40:20.639	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43054 tp: 1.43213 -> sl: 1.43056 tp: 1.43218' sent to 'D07ADD05'
+0	21:40:23.852	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43056 tp: 1.43218 -> sl: 1.43058 tp: 1.43218
+0	21:40:26.080	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43058 tp: 1.43218
+0	21:40:26.080	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43058 tp: 1.43218 -> sl: 1.43063 tp: 1.43222
+0	21:40:26.767	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43063 tp: 1.43222
+0	21:40:26.767	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43063 tp: 1.43222 -> sl: 1.43072 tp: 1.43228
+0	21:40:27.066	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43056 tp: 1.43218 -> sl: 1.43058 tp: 1.43218' sent to 'D07ADD05'
+0	21:40:27.267	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43072 tp: 1.43228
+0	21:40:28.116	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43058 tp: 1.43218 -> sl: 1.43063 tp: 1.43222' sent to 'D07ADD05'
+0	21:40:29.115	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43063 tp: 1.43222 -> sl: 1.43072 tp: 1.43228' sent to 'D07ADD05'
+0	21:40:29.263	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43072 tp: 1.43228 -> sl: 1.43076 tp: 1.43235
+0	21:40:31.720	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43076 tp: 1.43235
+0	21:40:32.319	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43076 tp: 1.43235 -> sl: 1.43081 tp: 1.43243
+0	21:40:32.804	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43072 tp: 1.43228 -> sl: 1.43076 tp: 1.43235' sent to 'D07ADD05'
+0	21:41:11.132	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43081 tp: 1.43243
+0	21:41:11.135	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43081 tp: 1.43243 -> sl: 1.43093 tp: 1.43257
+0	21:41:11.631	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43093 tp: 1.43257
+0	21:41:11.634	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43093 tp: 1.43257 -> sl: 1.43099 tp: 1.43261
+0	21:41:12.079	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43099 tp: 1.43261
+0	21:41:12.143	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43076 tp: 1.43235 -> sl: 1.43081 tp: 1.43243' sent to 'D07ADD05'
+0	21:41:13.031	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43099 tp: 1.43261 -> sl: 1.43102 tp: 1.43266
+0	21:41:13.240	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43081 tp: 1.43243 -> sl: 1.43093 tp: 1.43257' sent to 'D07ADD05'
+0	21:41:13.818	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43102 tp: 1.43266
+0	21:41:13.818	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43102 tp: 1.43266 -> sl: 1.43106 tp: 1.43269
+0	21:41:14.346	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43093 tp: 1.43257 -> sl: 1.43099 tp: 1.43261' sent to 'D07ADD05'
+0	21:41:14.555	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43106 tp: 1.43269
+0	21:41:14.556	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85754 tp: 0.85909 -> sl: 0.85755 tp: 0.85910
+0	21:41:15.005	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85755 tp: 0.85910
+0	21:41:15.092	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85755 tp: 0.85910 -> sl: 0.85760 tp: 0.85913
+0	21:41:15.542	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43099 tp: 1.43261 -> sl: 1.43102 tp: 1.43266' sent to 'D07ADD05'
+0	21:41:15.645	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85760 tp: 0.85913
+0	21:41:16.554	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43102 tp: 1.43266 -> sl: 1.43106 tp: 1.43269' sent to 'D07ADD05'
+0	21:41:17.877	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85754 tp: 0.85909 -> sl: 0.85755 tp: 0.85910' sent to 'D07ADD05'
+0	21:41:19.003	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85755 tp: 0.85910 -> sl: 0.85760 tp: 0.85913' sent to 'D07ADD05'
+0	21:41:19.661	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85760 tp: 0.85913 -> sl: 0.85761 tp: 0.85917
+0	21:41:20.489	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85761 tp: 0.85917
+0	21:41:21.364	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85760 tp: 0.85913 -> sl: 0.85761 tp: 0.85917' sent to 'D07ADD05'
+0	21:41:33.798	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43106 tp: 1.43269 -> sl: 1.43107 tp: 1.43267
+0	21:41:34.147	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43107 tp: 1.43267
+0	21:41:34.347	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43107 tp: 1.43267 -> sl: 1.43108 tp: 1.43268
+0	21:41:34.653	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43108 tp: 1.43268
+0	21:41:35.215	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43106 tp: 1.43269 -> sl: 1.43107 tp: 1.43267' sent to 'D07ADD05'
+0	21:41:36.256	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43107 tp: 1.43267 -> sl: 1.43108 tp: 1.43268' sent to 'D07ADD05'
+0	21:41:37.553	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43108 tp: 1.43268 -> sl: 1.43109 tp: 1.43267
+0	21:41:37.915	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43109 tp: 1.43267
+0	21:41:37.915	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43109 tp: 1.43267 -> sl: 1.43110 tp: 1.43273
+0	21:41:38.585	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43110 tp: 1.43273
+0	21:41:38.586	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43110 tp: 1.43273 -> sl: 1.43126 tp: 1.43285
+0	21:41:38.982	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43108 tp: 1.43268 -> sl: 1.43109 tp: 1.43267' sent to 'D07ADD05'
+0	21:41:40.054	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43126 tp: 1.43285
+0	21:41:40.055	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43126 tp: 1.43285 -> sl: 1.43121 tp: 1.43281
+0	21:41:40.080	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43109 tp: 1.43267 -> sl: 1.43110 tp: 1.43273' sent to 'D07ADD05'
+0	21:41:41.209	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43110 tp: 1.43273 -> sl: 1.43126 tp: 1.43285' sent to 'D07ADD05'
+0	21:41:42.852	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43121 tp: 1.43281
+0	21:41:43.862	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43126 tp: 1.43285 -> sl: 1.43121 tp: 1.43281' sent to 'D07ADD05'
+0	21:41:55.249	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85761 tp: 0.85917 -> sl: 0.85762 tp: 0.85915
+0	21:41:55.530	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85762 tp: 0.85915
+0	21:41:55.824	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85762 tp: 0.85915 -> sl: 0.85766 tp: 0.85920
+0	21:41:56.057	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85766 tp: 0.85920
+0	21:41:56.570	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85761 tp: 0.85917 -> sl: 0.85762 tp: 0.85915' sent to 'D07ADD05'
+0	21:41:57.570	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85762 tp: 0.85915 -> sl: 0.85766 tp: 0.85920' sent to 'D07ADD05'
+0	21:42:01.161	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85766 tp: 0.85920 -> sl: 0.85773 tp: 0.85928
+0	21:42:02.258	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85773 tp: 0.85928
+0	21:42:02.259	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85773 tp: 0.85928 -> sl: 0.85776 tp: 0.85929
+0	21:42:02.855	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85776 tp: 0.85929
+0	21:42:02.855	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43121 tp: 1.43281 -> sl: 1.43126 tp: 1.43281
+0	21:42:03.272	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85766 tp: 0.85920 -> sl: 0.85773 tp: 0.85928' sent to 'D07ADD05'
+0	21:42:03.869	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43126 tp: 1.43281
+0	21:42:03.870	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85776 tp: 0.85929 -> sl: 0.85779 tp: 0.85933
+0	21:42:04.366	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85773 tp: 0.85928 -> sl: 0.85776 tp: 0.85929' sent to 'D07ADD05'
+0	21:42:04.417	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85779 tp: 0.85933
+0	21:42:04.417	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85779 tp: 0.85933 -> sl: 0.85782 tp: 0.85937
+0	21:42:04.822	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85782 tp: 0.85937
+0	21:42:05.388	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43121 tp: 1.43281 -> sl: 1.43126 tp: 1.43281' sent to 'D07ADD05'
+0	21:42:05.494	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85782 tp: 0.85937 -> sl: 0.85785 tp: 0.85938
+0	21:42:06.027	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85785 tp: 0.85938
+0	21:42:06.634	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85776 tp: 0.85929 -> sl: 0.85779 tp: 0.85933' sent to 'D07ADD05'
+0	21:42:07.771	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85779 tp: 0.85933 -> sl: 0.85782 tp: 0.85937' sent to 'D07ADD05'
+0	21:42:08.068	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85785 tp: 0.85938 -> sl: 0.85786 tp: 0.85940
+0	21:42:08.715	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85786 tp: 0.85940
+0	21:42:08.793	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85782 tp: 0.85937 -> sl: 0.85785 tp: 0.85938' sent to 'D07ADD05'
+0	21:42:09.785	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85785 tp: 0.85938 -> sl: 0.85786 tp: 0.85940' sent to 'D07ADD05'
+0	21:42:10.512	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85786 tp: 0.85940 -> sl: 0.85789 tp: 0.85942
+0	21:42:10.947	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85789 tp: 0.85942
+0	21:42:10.948	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85789 tp: 0.85942 -> sl: 0.85789 tp: 0.85945
+0	21:42:11.306	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85789 tp: 0.85945
+0	21:42:11.870	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85786 tp: 0.85940 -> sl: 0.85789 tp: 0.85942' sent to 'D07ADD05'
+0	21:42:12.368	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85789 tp: 0.85945 -> sl: 0.85790 tp: 0.85945
+0	21:42:12.963	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85789 tp: 0.85942 -> sl: 0.85789 tp: 0.85945' sent to 'D07ADD05'
+0	21:42:13.027	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85790 tp: 0.85945
+0	21:42:13.535	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85790 tp: 0.85945 -> sl: 0.85792 tp: 0.85946
+0	21:42:13.763	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85792 tp: 0.85946
+0	21:42:13.871	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85792 tp: 0.85946 -> sl: 0.85796 tp: 0.85951
+0	21:42:14.034	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85789 tp: 0.85945 -> sl: 0.85790 tp: 0.85945' sent to 'D07ADD05'
+0	21:42:14.104	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85796 tp: 0.85951
+0	21:42:14.960	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43126 tp: 1.43281 -> sl: 1.43129 tp: 1.43285
+0	21:42:15.190	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85790 tp: 0.85945 -> sl: 0.85792 tp: 0.85946' sent to 'D07ADD05'
+0	21:42:15.450	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43129 tp: 1.43285
+0	21:42:15.450	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85796 tp: 0.85951 -> sl: 0.85804 tp: 0.85959
+0	21:42:16.190	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85792 tp: 0.85946 -> sl: 0.85796 tp: 0.85951' sent to 'D07ADD05'
+0	21:42:17.165	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43126 tp: 1.43281 -> sl: 1.43129 tp: 1.43285' sent to 'D07ADD05'
+0	21:42:27.528	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85804 tp: 0.85959
+0	21:42:27.529	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43129 tp: 1.43285 -> sl: 1.43141 tp: 1.43297
+0	21:42:27.887	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43141 tp: 1.43297
+0	21:42:27.890	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85804 tp: 0.85959 -> sl: 0.85805 tp: 0.85960
+0	21:42:28.621	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85796 tp: 0.85951 -> sl: 0.85804 tp: 0.85959' sent to 'D07ADD05'
+0	21:42:28.624	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85805 tp: 0.85960
+0	21:42:28.625	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43141 tp: 1.43297 -> sl: 1.43142 tp: 1.43298
+0	21:42:29.262	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43142 tp: 1.43298
+0	21:42:29.262	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85805 tp: 0.85960 -> sl: 0.85809 tp: 0.85963
+0	21:42:29.811	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43129 tp: 1.43285 -> sl: 1.43141 tp: 1.43297' sent to 'D07ADD05'
+0	21:42:30.279	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85809 tp: 0.85963
+0	21:42:30.279	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43142 tp: 1.43298 -> sl: 1.43146 tp: 1.43300
+0	21:42:30.966	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43146 tp: 1.43300
+0	21:42:30.967	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43146 tp: 1.43300 -> sl: 1.43144 tp: 1.43304
+0	21:42:31.085	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85804 tp: 0.85959 -> sl: 0.85805 tp: 0.85960' sent to 'D07ADD05'
+0	21:42:31.420	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43144 tp: 1.43304
+0	21:42:32.131	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43141 tp: 1.43297 -> sl: 1.43142 tp: 1.43298' sent to 'D07ADD05'
+0	21:42:33.142	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85805 tp: 0.85960 -> sl: 0.85809 tp: 0.85963' sent to 'D07ADD05'
+0	21:42:33.431	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85809 tp: 0.85963 -> sl: 0.85814 tp: 0.85968
+0	21:42:34.013	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85814 tp: 0.85968
+0	21:42:34.013	'10010844': modify order #155707406 buy 0.02 EURAUD at 1.42818 sl: 1.43144 tp: 1.43304 -> sl: 1.43156 tp: 1.43313
+0	21:42:34.152	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43142 tp: 1.43298 -> sl: 1.43146 tp: 1.43300' sent to 'D07ADD05'
+0	21:42:34.465	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 was modified -> sl: 1.43156 tp: 1.43313
+0	21:42:35.207	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43146 tp: 1.43300 -> sl: 1.43144 tp: 1.43304' sent to 'D07ADD05'
+0	21:42:36.380	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85809 tp: 0.85963 -> sl: 0.85814 tp: 0.85968' sent to 'D07ADD05'
+0	21:42:37.409	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 modified: sl: 1.43144 tp: 1.43304 -> sl: 1.43156 tp: 1.43313' sent to 'D07ADD05'
+0	21:43:07.322	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85814 tp: 0.85968 -> sl: 0.85815 tp: 0.85970
+0	21:43:07.766	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85815 tp: 0.85970
+0	21:43:08.884	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85814 tp: 0.85968 -> sl: 0.85815 tp: 0.85970' sent to 'D07ADD05'
+0	21:43:09.052	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85815 tp: 0.85970 -> sl: 0.85816 tp: 0.85970
+0	21:43:09.392	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85816 tp: 0.85970
+0	21:43:10.311	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85815 tp: 0.85970 -> sl: 0.85816 tp: 0.85970' sent to 'D07ADD05'
+0	21:43:11.558	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85816 tp: 0.85970 -> sl: 0.85823 tp: 0.85978
+0	21:43:30.315	'10010844': order #155707406 buy 0.02 EURAUD at 1.42818 closed due stop-loss at price 1.43156
+0	21:43:31.471	Notifications: 'order #155707406 buy 0.02 EURAUD at 1.42818 closed due stop-loss at price 1.43156, profit: 6.76 AUD' sent to 'D07ADD05'
+0	21:43:36.457	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85823 tp: 0.85978
+0	21:43:36.458	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85823 tp: 0.85978 -> sl: 0.85857 tp: 0.86010
+0	21:43:37.425	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85857 tp: 0.86010
+0	21:43:37.426	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85857 tp: 0.86010 -> sl: 0.85859 tp: 0.86013
+0	21:43:37.607	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85816 tp: 0.85970 -> sl: 0.85823 tp: 0.85978' sent to 'D07ADD05'
+0	21:43:38.607	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85823 tp: 0.85978 -> sl: 0.85857 tp: 0.86010' sent to 'D07ADD05'
+0	21:43:40.758	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85859 tp: 0.86013
+0	21:43:40.758	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85859 tp: 0.86013 -> sl: 0.85869 tp: 0.86022
+0	21:43:41.113	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85869 tp: 0.86022
+0	21:43:41.819	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85857 tp: 0.86010 -> sl: 0.85859 tp: 0.86013' sent to 'D07ADD05'
+0	21:43:43.260	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85859 tp: 0.86013 -> sl: 0.85869 tp: 0.86022' sent to 'D07ADD05'
+0	21:44:07.489	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85869 tp: 0.86022 -> sl: 0.85872 tp: 0.86025
+0	21:44:08.070	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85872 tp: 0.86025
+0	21:44:08.751	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85869 tp: 0.86022 -> sl: 0.85872 tp: 0.86025' sent to 'D07ADD05'
+0	21:45:44.011	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85872 tp: 0.86025 -> sl: 0.85873 tp: 0.86027
+0	21:45:44.704	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85873 tp: 0.86027
+0	21:45:44.705	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85873 tp: 0.86027 -> sl: 0.85875 tp: 0.86028
+0	21:45:45.726	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85872 tp: 0.86025 -> sl: 0.85873 tp: 0.86027' sent to 'D07ADD05'
+0	21:45:47.646	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85875 tp: 0.86028
+0	21:45:48.640	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85873 tp: 0.86027 -> sl: 0.85875 tp: 0.86028' sent to 'D07ADD05'
+0	21:45:50.172	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85875 tp: 0.86028 -> sl: 0.85879 tp: 0.86034
+0	21:45:50.752	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85879 tp: 0.86034
+0	21:45:50.794	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85879 tp: 0.86034 -> sl: 0.85880 tp: 0.86035
+0	21:45:51.064	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85880 tp: 0.86035
+0	21:45:51.064	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85880 tp: 0.86035 -> sl: 0.85881 tp: 0.86037
+0	21:45:51.452	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85881 tp: 0.86037
+0	21:45:51.452	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85881 tp: 0.86037 -> sl: 0.85882 tp: 0.86038
+0	21:45:51.699	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85875 tp: 0.86028 -> sl: 0.85879 tp: 0.86034' sent to 'D07ADD05'
+0	21:45:52.655	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85882 tp: 0.86038
+0	21:45:52.655	'10010844': modify order #155700929 buy 0.02 EURGBP at 0.85653 sl: 0.85882 tp: 0.86038 -> sl: 0.85883 tp: 0.86040
+0	21:45:52.770	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85879 tp: 0.86034 -> sl: 0.85880 tp: 0.86035' sent to 'D07ADD05'
+0	21:45:53.749	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85880 tp: 0.86035 -> sl: 0.85881 tp: 0.86037' sent to 'D07ADD05'
+0	21:45:54.740	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85881 tp: 0.86037 -> sl: 0.85882 tp: 0.86038' sent to 'D07ADD05'
+0	21:46:19.208	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 was modified -> sl: 0.85883 tp: 0.86040
+0	21:46:20.160	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 modified: sl: 0.85882 tp: 0.86038 -> sl: 0.85883 tp: 0.86040' sent to 'D07ADD05'
+0	21:46:44.099	'10010844': order #155700929 buy 0.02 EURGBP at 0.85653 closed due stop-loss at price 0.85883
+0	21:46:45.809	Notifications: 'order #155700929 buy 0.02 EURGBP at 0.85653 closed due stop-loss at price 0.85883, profit: 7.67 AUD' sent to 'D07ADD05'
+0	21:46:47.411	Notifications: 'Close up completed @ 459.94' sent to 'D07ADD05'
+0	21:48:01.081	'10010844': order buy market 0.02 EURAUD sl: 0.00000 tp: 1.43288
+0	21:48:01.624	'10010844': order was opened : #155715717 buy 0.02 EURAUD at 1.42992 sl: 0.00000 tp: 1.43288
+0	21:48:02.610	Notifications: 'order opened #155715717 buy 0.02 EURAUD at 1.42992 tp: 1.43288' sent to 'D07ADD05'
+0	21:49:00.709	'10010844': order sell market 0.02 GBPUSD sl: 0.00000 tp: 1.23466
+0	21:49:05.298	'10010844': order was opened : #155715896 sell 0.02 GBPUSD at 1.23768 sl: 0.00000 tp: 1.23466
+0	21:49:05.308	'10010844': order buy market 0.02 EURAUD sl: 0.00000 tp: 1.43330
+0	21:49:05.596	'10010844': order was opened : #155715899 buy 0.02 EURAUD at 1.43030 sl: 0.00000 tp: 1.43330
+0	21:49:05.610	'10010844': order sell market 0.02 USDCHF sl: 0.00000 tp: 1.00744
+0	21:49:05.845	'10010844': order was opened : #155715900 sell 0.02 USDCHF at 1.01044 sl: 0.00000 tp: 1.00744
+0	21:49:06.352	Notifications: 'order opened #155715896 sell 0.02 GBPUSD at 1.23768 tp: 1.23466' sent to 'D07ADD05'
+0	21:49:07.421	Notifications: 'order opened #155715899 buy 0.02 EURAUD at 1.43030 tp: 1.43330' sent to 'D07ADD05'
+0	21:49:08.591	Notifications: 'order opened #155715900 sell 0.02 USDCHF at 1.01044 tp: 1.00744' sent to 'D07ADD05'
+0	22:47:14.611	'10010844': modify order #155715717 buy 0.02 EURAUD at 1.42992 sl: 0.00000 tp: 1.43288 -> sl: 1.43200 tp: 1.43359
+0	22:47:18.969	'10010844': order #155715717 buy 0.02 EURAUD at 1.42992 was modified -> sl: 1.43200 tp: 1.43359
+0	22:47:18.970	'10010844': modify order #155715717 buy 0.02 EURAUD at 1.42992 sl: 1.43200 tp: 1.43359 -> sl: 1.43203 tp: 1.43365
+0	22:47:19.371	'10010844': order #155715717 buy 0.02 EURAUD at 1.42992 was modified -> sl: 1.43203 tp: 1.43365
+0	22:47:19.371	'10010844': modify order #155715717 buy 0.02 EURAUD at 1.42992 sl: 1.43203 tp: 1.43365 -> sl: 1.43205 tp: 1.43365
+0	22:47:20.059	Notifications: 'order #155715717 buy 0.02 EURAUD at 1.42992 modified: sl: 0.00000 tp: 1.43288 -> sl: 1.43200 tp: 1.43359' sent to 'D07ADD05'
+0	22:47:20.105	'10010844': order #155715717 buy 0.02 EURAUD at 1.42992 was modified -> sl: 1.43205 tp: 1.43365
+0	22:47:20.105	'10010844': modify order #155715717 buy 0.02 EURAUD at 1.42992 sl: 1.43205 tp: 1.43365 -> sl: 1.43208 tp: 1.43369
+0	22:47:21.159	Notifications: 'order #155715717 buy 0.02 EURAUD at 1.42992 modified: sl: 1.43200 tp: 1.43359 -> sl: 1.43203 tp: 1.43365' sent to 'D07ADD05'
+0	22:47:22.197	Notifications: 'order #155715717 buy 0.02 EURAUD at 1.42992 modified: sl: 1.43203 tp: 1.43365 -> sl: 1.43205 tp: 1.43365' sent to 'D07ADD05'
+0	22:47:22.247	'10010844': order #155715717 buy 0.02 EURAUD at 1.42992 was modified -> sl: 1.43208 tp: 1.43369
+0	22:47:23.322	Notifications: 'order #155715717 buy 0.02 EURAUD at 1.42992 modified: sl: 1.43205 tp: 1.43365 -> sl: 1.43208 tp: 1.43369' sent to 'D07ADD05'
+0	22:52:26.069	'10010844': modify order #155715717 buy 0.02 EURAUD at 1.42992 sl: 1.43208 tp: 1.43369 -> sl: 1.43222 tp: 1.43379
+0	22:52:26.351	'10010844': order #155715717 buy 0.02 EURAUD at 1.42992 was modified -> sl: 1.43222 tp: 1.43379
+0	22:52:27.335	Notifications: 'order #155715717 buy 0.02 EURAUD at 1.42992 modified: sl: 1.43208 tp: 1.43369 -> sl: 1.43222 tp: 1.43379' sent to 'D07ADD05'
+0	22:52:28.441	'10010844': modify order #155715717 buy 0.02 EURAUD at 1.42992 sl: 1.43222 tp: 1.43379 -> sl: 1.43227 tp: 1.43385
+0	22:52:28.837	'10010844': order #155715717 buy 0.02 EURAUD at 1.42992 was modified -> sl: 1.43227 tp: 1.43385
+0	22:52:29.066	'10010844': modify order #155715717 buy 0.02 EURAUD at 1.42992 sl: 1.43227 tp: 1.43385 -> sl: 1.43229 tp: 1.43391
+0	22:52:29.664	'10010844': order #155715717 buy 0.02 EURAUD at 1.42992 was modified -> sl: 1.43229 tp: 1.43391
+0	22:52:30.177	Notifications: 'order #155715717 buy 0.02 EURAUD at 1.42992 modified: sl: 1.43222 tp: 1.43379 -> sl: 1.43227 tp: 1.43385' sent to 'D07ADD05'
+0	22:52:31.231	Notifications: 'order #155715717 buy 0.02 EURAUD at 1.42992 modified: sl: 1.43227 tp: 1.43385 -> sl: 1.43229 tp: 1.43391' sent to 'D07ADD05'
+0	22:52:43.287	'10010844': modify order #155715717 buy 0.02 EURAUD at 1.42992 sl: 1.43229 tp: 1.43391 -> sl: 1.43231 tp: 1.43392
+0	22:52:43.885	'10010844': order #155715717 buy 0.02 EURAUD at 1.42992 was modified -> sl: 1.43231 tp: 1.43392
+0	22:52:44.761	Notifications: 'order #155715717 buy 0.02 EURAUD at 1.42992 modified: sl: 1.43229 tp: 1.43391 -> sl: 1.43231 tp: 1.43392' sent to 'D07ADD05'
+0	22:52:45.346	'10010844': modify order #155715717 buy 0.02 EURAUD at 1.42992 sl: 1.43231 tp: 1.43392 -> sl: 1.43240 tp: 1.43400
+0	22:52:46.963	'10010844': order #155715717 buy 0.02 EURAUD at 1.42992 was modified -> sl: 1.43240 tp: 1.43400
+0	22:52:46.964	'10010844': modify order #155715899 buy 0.02 EURAUD at 1.43030 sl: 0.00000 tp: 1.43330 -> sl: 1.43233 tp: 1.43391
+0	22:52:47.417	'10010844': order #155715899 buy 0.02 EURAUD at 1.43030 was modified -> sl: 1.43233 tp: 1.43391
+0	22:52:47.949	Notifications: 'order #155715717 buy 0.02 EURAUD at 1.42992 modified: sl: 1.43231 tp: 1.43392 -> sl: 1.43240 tp: 1.43400' sent to 'D07ADD05'
+0	22:52:48.932	Notifications: 'order #155715899 buy 0.02 EURAUD at 1.43030 modified: sl: 0.00000 tp: 1.43330 -> sl: 1.43233 tp: 1.43391' sent to 'D07ADD05'
+0	22:52:57.142	'10010844': modify order #155715717 buy 0.02 EURAUD at 1.42992 sl: 1.43240 tp: 1.43400 -> sl: 1.43247 tp: 1.43402
+0	22:52:57.605	'10010844': order #155715717 buy 0.02 EURAUD at 1.42992 was modified -> sl: 1.43247 tp: 1.43402
+0	22:52:58.623	Notifications: 'order #155715717 buy 0.02 EURAUD at 1.42992 modified: sl: 1.43240 tp: 1.43400 -> sl: 1.43247 tp: 1.43402' sent to 'D07ADD05'
+0	22:54:23.236	'10010844': order #155715717 buy 0.02 EURAUD at 1.42992 closed due stop-loss at price 1.43247
+0	22:54:24.234	Notifications: 'order #155715717 buy 0.02 EURAUD at 1.42992 closed due stop-loss at price 1.43247, profit: 5.10 AUD' sent to 'D07ADD05'
+0	22:54:48.772	'10010844': order #155715899 buy 0.02 EURAUD at 1.43030 closed due stop-loss at price 1.43233
+0	22:54:49.917	Notifications: 'order #155715899 buy 0.02 EURAUD at 1.43030 closed due stop-loss at price 1.43233, profit: 4.06 AUD' sent to 'D07ADD05'

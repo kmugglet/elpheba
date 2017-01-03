@@ -1,0 +1,22 @@
+0	06:38:13.003	IC Markets MT4 build 1010 started (International Capital Markets Pty Ltd.)
+0	06:38:13.003	Microsoft Windows XP (x64 based PC), IE 09.00, 2 x Intel Pentium 4  2.40GHz, RAM: 1002 / 1276 Mb, HDD: 109444 / 119815 Mb, GMT+10:00
+0	06:38:13.003	Data Folder: Z:\home\keith\MT4-1
+2	06:38:16.970	Expert DumpTicks EURUSD,M1: loaded successfully
+2	06:38:17.050	Expert Elpheba-20161030 AUDUSD,M5: loaded successfully
+0	06:38:18.754	'10019548': login on ICMarkets-Demo01 through Demo DC #3 (ping: 257.18 ms)
+0	06:38:24.158	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #3 (ping: 257.18 ms)
+0	06:38:24.751	'10019548': previous successful authorization performed from 202.125.27.23
+0	06:38:42.223	'10019548': ping to current access point Demo DC #3 is 255.58 ms
+1	10:02:25.803	'10019548': ping failed
+0	10:03:27.260	'10019548': login on ICMarkets-Demo01 through Demo DC (ping: 236.69 ms)
+0	10:03:42.768	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC (ping: 236.69 ms)
+0	10:03:43.406	'10019548': previous successful authorization performed from 202.125.27.23
+0	10:04:09.514	'10019548': auto connecting to a better access point Demo DC #2 (ping is 259.94 ms)
+0	10:04:10.342	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 259.94 ms)
+0	10:05:16.283	'10019548': login on ICMarkets-Demo01 through Demo DC (ping: 239.99 ms)
+1	10:06:21.557	'10019548': connect failed [No connection]
+0	10:06:27.274	'10019548': login on ICMarkets-Demo01 through Demo DC (ping: n/a)
+0	10:08:34.243	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: n/a)
+0	10:09:27.385	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: n/a)
+0	10:09:27.984	'10019548': previous successful authorization performed from 202.125.27.23
+0	10:09:45.782	'10019548': ping to current access point Demo DC #2 is 257.32 ms
