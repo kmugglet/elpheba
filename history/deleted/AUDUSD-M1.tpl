@@ -1,8 +1,8 @@
 <chart>
-id=131215258276250000
+id=131222858373779808
 symbol=AUDUSD
 period=1
-leftpos=2007
+leftpos=8504
 digits=5
 scale=8
 graph=0
@@ -19,11 +19,11 @@ days=0
 descriptions=0
 shift_size=20
 fixed_pos=0
-window_left=416
-window_top=227
-window_right=832
-window_bottom=454
-window_type=1
+window_left=587
+window_top=224
+window_right=1174
+window_bottom=448
+window_type=3
 background_color=0
 foreground_color=16777215
 barup_color=65280

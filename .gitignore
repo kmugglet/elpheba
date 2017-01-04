@@ -5,4 +5,5 @@
 **/*.ini
 **/*.ex4
 **/*.chr
+tester/*
 

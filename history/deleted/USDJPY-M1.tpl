@@ -1,8 +1,8 @@
 <chart>
-id=131215258276093750
+id=131222858373623554
 symbol=USDJPY
 period=1
-leftpos=2006
+leftpos=1984
 digits=3
 scale=8
 graph=1
@@ -19,10 +19,10 @@ days=0
 descriptions=0
 shift_size=20
 fixed_pos=0
-window_left=416
+window_left=587
 window_top=0
-window_right=832
-window_bottom=227
+window_right=1174
+window_bottom=224
 window_type=1
 background_color=0
 foreground_color=16777215

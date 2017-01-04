@@ -118,7 +118,7 @@ void CheckForOpen()
       last_rsi = (RSIlast > 50);
       this_rsi = (RSInow > 50);
       rsi_swap=(last_rsi!=this_rsi);
-      Print(Check_Symbol, " : Stoch - ",iStochvalue, ", RSI Swap = ",rsi_swap,", RSI Now - ",RSInow);
+      Print(Check_Symbol, " : Stoch - ",iStochvalue, "RSI Swap = ",rsi_swap);
    //   rsi_swap=(true);
       //Print("Check Open");
       if(iStochvalue < BuyPoint)
@@ -301,7 +301,7 @@ void OnTimer()
 
 void ExportTrades()
 {
-      FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),3)+" Account="+AccountNumber()+" Event=Report Equity="+DoubleToStr(AccountEquity(),2)+" CloseUp="+DoubleToStr(CloseOutPrice,2)+" EquityCheck="+DoubleToStr(EquityCheck,2)) ;
+      FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),3)+" Account="+AccountNumber()+" Event=Report Equity="+DoubleToStr(AccountEquity(),2)+" CloseUp="+DoubleToStr(CloseOutPrice,2)) ;
 
       for(int t = 0;t<=OrdersTotal();t++) {
          res = OrderSelect(t,SELECT_BY_POS);

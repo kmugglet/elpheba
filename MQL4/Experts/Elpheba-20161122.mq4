@@ -16,17 +16,17 @@
 
 double    LotPrice=1; // baby steps
 //--- input parameters
-extern double    BuyPoint=25;
-extern double    SellPoint=75;
-extern double    tp = 200;
-extern double    dp = 50;
+extern double    BuyPoint=30;
+extern double    SellPoint=70;
+extern double    tp = 300;
+extern double    dp = 30;
 extern double    sl = 7500;
-extern int       max_trades=50; // max trades per symbol pair
+extern int       max_trades=8; // max trades per symbol pair
 
 int      tkt,tkt2,lowest_ticket,highest_ticket;
 
 double   take,stop;
-double   CloseOutPrice,EquityCheck;
+double   CloseOutPrice,EquityCheck,order_points;
 int      RSIperiod=14;
 int      AppliedPrice=4;
 double   trigger_profit;
@@ -35,18 +35,18 @@ double   stop_loss;
 double   ask_price,bid_price,points,ask_p,bid_p,pts;
 string   Check_Symbol,suffix="i";
 int      SymbolOrders=0;
-int      MAGICMA=22300;
+int      MAGICMA;
 int      trades_won=0;
 int      oldOrdersTotal=0,oldHistoryTotal=0,oldMaxTicket=0;
 
 double   Lot,StartBalance,Withdrawls,WeeklyWithdrawl;
 bool     rsi_swap=true;
 bool     this_rsi,last_rsi,stoch_buy,stoch_sell,close_up=false,close_email=false,bNB,bM1,bW1;
-bool     ma_close,profit_close[999999],trigger_reached[999999],order_exists[999999],res;
-double   current_profit[999999],tkt_open[999999],tkt_high[999999],tkt_low[999999],tkt_close[999999];
-int      hedge_tkt[999999],h_tkt;
+bool     ma_close,profit_close[9999999],trigger_reached[9999999],order_exists[9999999],res;
+double   current_profit[9999999],tkt_open[9999999],tkt_high[9999999],tkt_low[9999999],tkt_close[9999999];
+int      hedge_tkt[9999999],h_tkt;
 double   symbol_profit;
-double   f_profit[999999];
+double   f_profit[9999999];
 double   RSIprev;
 int      open_trades[100];
 double   iStochvalue=0;
@@ -68,41 +68,43 @@ string   SymbolPairs[]=
 //+------------------------------------------------------------------+
 //| expert initialization function                                   |
 //+------------------------------------------------------------------+
-bool       bNewMin() 
-  {                                                               
+bool       bNewMin()
+  {
 
-   static int iTime_1=0; 
-                                                                                      
-   if(iTime_1<iTime(NULL,PERIOD_M1,0)) 
-     { iTime_1=iTime(NULL,PERIOD_M1,0); return(TRUE); }   
-   else     { return(FALSE); } 
-                                                                                                                             
-  }                                                               
+   static int iTime_1=0;
+
+   if(iTime_1<iTime(NULL,PERIOD_M1,0))
+     { iTime_1=iTime(NULL,PERIOD_M1,0); return(TRUE); }
+   else     { return(FALSE); }
+
+  }
 //+------------------------------------------------------------------+
-bool       bNewWeek() 
-  {                                                               
-                                                              
-   static int iTime_1=0; 
-                                                                                    
-   if(iTime_1<iTime(NULL,PERIOD_W1,0)) 
-     { iTime_1=iTime(NULL,PERIOD_W1,0); return(TRUE); }   
-   else     { return(FALSE); } 
-                                                                                                                             
-  }                                                               
+bool       bNewWeek()
+  {
+
+   static int iTime_1=0;
+
+   if(iTime_1<iTime(NULL,PERIOD_W1,0))
+     { iTime_1=iTime(NULL,PERIOD_W1,0); return(TRUE); }
+   else     { return(FALSE); }
+
+  }
 //+------------------------------------------------------------------+
-bool       bNewBar() 
-  {                                                               
+bool       bNewBar()
+  {
 
-   static int iTime_0=0; 
+   static int iTime_0=0;
 
-   if(iTime_0<iTime(NULL,NULL,0)) 
-     { iTime_0=iTime(NULL,NULL,0); return(TRUE); } 
-   else     { return ( FALSE ); } 
-                                                                                                                                
-  }                                                               
+   if(iTime_0<iTime(NULL,NULL,0))
+     { iTime_0=iTime(NULL,NULL,0); return(TRUE); }
+   else     { return(FALSE); }
+
+  }
 //+------------------------------------------------------------------+
 void CheckForOpen()
   {
+
+   Print("Check for Openings");
 
    for(int a=0; a<ArraySize(SymbolPairs); a++)
      {
@@ -133,6 +135,7 @@ void CheckForOpen()
         {
          stoch_sell=true;
         }
+      Print(Check_Symbol," : Stoch - ",iStochvalue,"RSI Swap = ",rsi_swap);
 
       if(open_trades[a]>=max_trades) rsi_swap=false;
 
@@ -141,16 +144,17 @@ void CheckForOpen()
         {
          take = bid_price - ((tp + (2*dp))* points);
          stop = ask_price + (sl * points);
-         res=OrderSend(Check_Symbol,OP_SELL,Lot,bid_price,3,NULL,take,"",MAGICMA,0,Red);
+         res=OrderSend(Check_Symbol,OP_SELL,Lot,bid_price,3,NULL,take,NULL,MAGICMA,0,Red);
+         if (res) FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),3)+" Symbol="+Check_Symbol+" Event=New_Trade TicketNumber="+DoubleToStr(res,0)+" OrderType="+DoubleToStr(OrderType(),0)+" OpenPrice="+DoubleToStr(OrderOpenPrice(),5)+" Lots="+DoubleToStr(OrderLots(),2)+" TP="+DoubleToStr(OrderTakeProfit(),5)+" SL="+DoubleToStr(OrderStopLoss(),5));
         }
       //---- buy conditions
       if(rsi_swap && stoch_buy)
         {
          take = ask_price + ((tp + (2*dp))* points);
          stop = bid_price - (sl * points);
-         res=OrderSend(Check_Symbol,OP_BUY,Lot,ask_price,3,NULL,take,"",MAGICMA,0,Green);
+         res=OrderSend(Check_Symbol,OP_BUY,Lot,ask_price,3,NULL,take,NULL,MAGICMA,0,Green);
+         if (res) FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),3)+" Symbol="+Check_Symbol+" Event=New_Trade TicketNumber="+DoubleToStr(res,0)+" OrderType="+DoubleToStr(OrderType(),0)+" OpenPrice="+DoubleToStr(OrderOpenPrice(),5)+" Lots="+DoubleToStr(OrderLots(),2)+" TP="+DoubleToStr(OrderTakeProfit(),5)+" SL="+DoubleToStr(OrderStopLoss(),5));
         }
-
      }
   }
 //+------------------------------------------------------------------+
@@ -161,60 +165,79 @@ void CheckForClose()
 
    for(int i=0;i<=OrdersTotal();i++)
      { //1
-      if(OrderSelect(i,SELECT_BY_POS,MODE_TRADES)==false) break;
-
-      Check_Symbol=OrderSymbol();
-
-      ask_price = MarketInfo(Check_Symbol,MODE_ASK);
-      bid_price = MarketInfo(Check_Symbol,MODE_BID);
-      points=MarketInfo(Check_Symbol,MODE_POINT);
-
-      tkt=OrderTicket()-lowest_ticket;
-      if(lowest_ticket==0 && !IsTesting())
-        { //2
-         lowest_ticket=tkt-1;
-         tkt=OrderTicket()-lowest_ticket;
-        } //2
-
-      if(IsTesting()) lowest_ticket=0;
-
-      if(tkt>highest_ticket) highest_ticket=tkt;
-
-      order_exists[tkt]=true;
-
-      current_profit[tkt]=(OrderProfit()/OrderLots());  // profit in points
-
-      if(tkt_open[tkt]==0) tkt_open[tkt]=ask_price;
-      tkt_close[tkt]=ask_price;
-
-      bool gone_up=false;
-      if(close_up && trigger_reached[tkt]==false)
+      if(OrderSelect(i,SELECT_BY_POS,MODE_TRADES)==true)
         {
-         gone_up=true;
-         trigger_reached[tkt]=true;
-         f_profit[tkt]=current_profit[tkt];
-        }
-      if(current_profit[tkt]>f_profit[tkt])
-        { //2
-         if(f_profit[tkt]>=trigger_profit+drop_profit) trigger_reached[tkt]=true;
-         f_profit[tkt]=current_profit[tkt];
-         gone_up=true;
 
-         if(gone_up && trigger_reached[tkt]==true)
-           { //3
-            if(OrderType()==OP_BUY)
-              { //4
-               take = ask_price + ((trigger_profit + (2*dp)) * points );
-               stop = bid_price - (drop_profit * points);
-               res=OrderModify(OrderTicket(),bid_price,stop,take,8,Red);
-              } //4
-            if(OrderType()==OP_SELL)
-              { //4
-               take = bid_price - ((trigger_profit + (2*dp)) * points );
-               stop = ask_price + (drop_profit * points);
-               res=OrderModify(OrderTicket(),ask_price,stop,take,8,Green);
-              } //4
-           } //3
+         Check_Symbol=OrderSymbol();
+
+         ask_price = MarketInfo(Check_Symbol,MODE_ASK);
+         bid_price = MarketInfo(Check_Symbol,MODE_BID);
+         points=MarketInfo(Check_Symbol,MODE_POINT);
+
+         tkt=OrderTicket()-lowest_ticket;
+         if(tkt<0) tkt=0;
+         if(lowest_ticket==0 && !IsTesting())
+           { //2
+            lowest_ticket=tkt-1;
+            tkt=OrderTicket()-lowest_ticket;
+           } //2
+
+         if(IsTesting()) lowest_ticket=0;
+
+         if(tkt>highest_ticket) highest_ticket=tkt;
+
+         order_exists[tkt]=true;
+
+         current_profit[tkt]=(OrderProfit()/OrderLots());  // profit in points
+
+         if(tkt_open[tkt]==0) tkt_open[tkt]=ask_price;
+         tkt_close[tkt]=ask_price;
+
+         bool gone_up=false;
+
+         if(close_up && (trigger_reached[tkt]==false || OrderStopLoss()==0))
+           {
+            gone_up=true;
+            trigger_reached[tkt]=true;
+            f_profit[tkt]=(current_profit[tkt]-2);
+            Print("CloseUp : Triggered TP/SL on ",tkt);
+           }
+         if(current_profit[tkt]>f_profit[tkt])
+           { //2
+            if(f_profit[tkt]>=trigger_profit+drop_profit) trigger_reached[tkt]=true;
+            f_profit[tkt]=current_profit[tkt];
+            gone_up=true;
+
+            if(gone_up && trigger_reached[tkt]==true)
+              { //3
+               if(OrderType()==OP_BUY)
+                 { //4
+                  take = ask_price + (dp * points );
+                  stop = bid_price - (dp * points);
+                  res=OrderModify(OrderTicket(),bid_price,stop,take,8,Red);
+                  if(res)
+                    {
+                     order_points=(OrderProfit()/OrderLots());
+                     FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),3)+" Symbol="+OrderSymbol()+" Event=Modify_Trade TicketNumber="+DoubleToStr(OrderTicket(),0)+" OrderType="+DoubleToStr(OrderType(),0)+" OpenPrice="+DoubleToStr(OrderOpenPrice(),5)+" Lots="+DoubleToStr(OrderLots(),2)+" TP="+DoubleToStr(OrderTakeProfit(),5)+" SL="+DoubleToStr(OrderStopLoss(),5)+" Profit="+DoubleToStr(OrderProfit(),2)+" Points="+DoubleToStr(order_points,2));
+                       } else {
+                     Print("Order modify failed on buy tkt ",tkt);
+                    }
+                 } //4
+               if(OrderType()==OP_SELL)
+                 { //4
+                  take = bid_price - (dp * points );
+                  stop = ask_price + (dp * points);
+                  res=OrderModify(OrderTicket(),ask_price,stop,take,8,Green);
+                  if(res)
+                    {
+                     order_points=(OrderProfit()/OrderLots());
+                     FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),3)+" Symbol="+OrderSymbol()+" Event=Modify_Trade TicketNumber="+DoubleToStr(OrderTicket(),0)+" OrderType="+DoubleToStr(OrderType(),0)+" OpenPrice="+DoubleToStr(OrderOpenPrice(),5)+" Lots="+DoubleToStr(OrderLots(),2)+" TP="+DoubleToStr(OrderTakeProfit(),5)+" SL="+DoubleToStr(OrderStopLoss(),5)+" Profit="+DoubleToStr(OrderProfit(),2)+" Points="+DoubleToStr(order_points,2));
+                       } else {
+                     Print("Order modify failed on sell tkt ",tkt);
+                    }
+                 } //4
+              } //3
+           }
         }
      } //1
   } // end void
@@ -224,14 +247,15 @@ void CheckForClose()
 
 void ExportTrades()
   {
-   FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),3)+" Account="+AccountNumber()+" Event=Report Equity="+DoubleToStr(simEquity(),2)+" CloseUp="+DoubleToStr(CloseOutPrice,2));
+   FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),3)+" Account="+AccountNumber()+" Event=Report Equity="+DoubleToStr(simEquity(),2)+" CloseUp="+DoubleToStr(CloseOutPrice,2)+" FreeMargin="+DoubleToStr(simMargin(),2)+" MinEquity="+DoubleToStr(EquityCheck,2));
 
    for(int t=0;t<=OrdersTotal();t++)
      {
       res=OrderSelect(t,SELECT_BY_POS);
       if(res)
         {
-         FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),3)+" Symbol="+OrderSymbol()+" Event=Open_Trade TicketNumber="+DoubleToStr(OrderTicket(),0)+" OrderType="+DoubleToStr(OrderType(),0)+" OpenPrice="+DoubleToStr(OrderOpenPrice(),5)+" Lots="+DoubleToStr(OrderLots(),2)+" TP="+DoubleToStr(OrderTakeProfit(),5)+" SL="+DoubleToStr(OrderStopLoss(),5)+" Profit="+DoubleToStr(OrderProfit(),2));
+         order_points=(OrderProfit()/OrderLots());
+         FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),3)+" Symbol="+OrderSymbol()+" Event=Existing_Trade TicketNumber="+DoubleToStr(OrderTicket(),0)+" OrderType="+DoubleToStr(OrderType(),0)+" OpenPrice="+DoubleToStr(OrderOpenPrice(),5)+" Lots="+DoubleToStr(OrderLots(),2)+" TP="+DoubleToStr(OrderTakeProfit(),5)+" SL="+DoubleToStr(OrderStopLoss(),5)+" Profit="+DoubleToStr(OrderProfit(),2)+" Points="+DoubleToStr(order_points,2));
         }
      }
 
@@ -251,7 +275,7 @@ void ExportTrades()
    oldHistoryTotal=OrdersHistoryTotal();
    oldMaxTicket=highest_ticket;
 
-   FileFlush(handle);
+   if(!IsTesting()) FileFlush(handle);
    return;
   }
 //+------------------------------------------------------------------+
@@ -301,7 +325,7 @@ void OnInit()
 
    StartBalance=AccountBalance();
    Withdrawls=0.00;
-   WeeklyWithdrawl=simBalance()/200;
+   WeeklyWithdrawl=simBalance()/100;
 
    reinit();
 
@@ -313,7 +337,7 @@ void OnInit()
 
 int reinit()
   {
-   for(int f=0;f<=999997;f++)
+   for(int f=0;f<=9999997;f++)
      {
       profit_close[f]=false;
       trigger_reached[f]=false;
@@ -326,28 +350,33 @@ int reinit()
       hedge_tkt[f]= 0;
       f_profit[f] = 0.0;
      }
-
-   CloseOutPrice=simEquity()*1.03;
-   EquityCheck=simEquity()*0.95;
-   LotPrice=(simEquity()/1000);
+// 2% increase 
+   CloseOutPrice=simBalance()*1.01;
+   EquityCheck=simEquity()*0.85;
+   LotPrice=(simEquity()/200);
 
    symbol_profit=0;
-   Lot=NormalizeDouble(LotPrice/20,2);
+   Lot=NormalizeDouble(LotPrice/100,2);
    if(Lot<0.01) Lot=0.01;
 
    MAGICMA=(CloseOutPrice*100);
    highest_ticket=0;
    bNewBar();
+   bNewWeek();
 
    for(int j=0;j<OrdersTotal();j++)
      { //1
-      if(OrderSelect(j,SELECT_BY_POS,MODE_TRADES)==false) break;
-      if(OrderTicket()<lowest_ticket) lowest_ticket=OrderTicket();
-      if(OrderMagicNumber()<MAGICMA && OrderMagicNumber()!=24771442) MAGICMA=OrderMagicNumber();
-      if(lowest_ticket==0) lowest_ticket=OrderTicket();
+      res=OrderSelect(j,SELECT_BY_POS);
+      if(res) 
+        {
+         if(OrderTicket()<lowest_ticket) lowest_ticket=OrderTicket();
+         if(OrderMagicNumber()<MAGICMA && OrderMagicNumber()!=24771442) MAGICMA=OrderMagicNumber();
+         if(lowest_ticket==0) lowest_ticket=OrderTicket();
+        }
      }
    Print("MAGICMA - ",MAGICMA," CloseOutPrice - ",CloseOutPrice);
-   if(MAGICMA<(CloseOutPrice*100)) CloseOutPrice=MAGICMA/100;
+   CloseOutPrice=MAGICMA/100;
+   Print("MAGICMA - ",MAGICMA," CloseOutPrice - ",CloseOutPrice);
 
    oldOrdersTotal=-1;
    oldHistoryTotal=-1;
@@ -358,7 +387,7 @@ int reinit()
    close_up=false;
    Print("CloseOutPrice=",CloseOutPrice,"  LotPrice=",LotPrice,"  Lot=",Lot,"  trigger_profit=",trigger_profit,"  drop_profit=",drop_profit);
    FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+AccountNumber()+" Event=Initialize Equity="+DoubleToStr(simEquity(),2)+" CloseUp="+DoubleToStr(CloseOutPrice,2));
-   FileFlush(handle);
+   if(!IsTesting()) FileFlush(handle);
 
    return(0);
   }
@@ -368,6 +397,7 @@ int reinit()
 
 void OnDeinit(const int reason)
   {
+   FileFlush(handle);
    FileClose(handle);
    Print("Final simEquity : ",simEquity(),", simBalance : ",simBalance(),", Withdrawls : ",Withdrawls);
    EventKillTimer();
@@ -390,15 +420,15 @@ void OnTick()
       close_up=true;
       SendNotification("Close up reached @ "+DoubleToStr(simEquity(),2));
       Print("***** Close out price reached, ",simEquity()," ********");
-      trigger_profit=0;
-      drop_profit=0;
+      FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+AccountNumber()+" Event=Close_Triggered Equity="+simEquity());
+      if(!IsTesting()) FileFlush(handle);
      }
    if(close_up && OrdersTotal()==0)
      {
       Print("****** Close out completed, balance=",simBalance()," ***********");
       close_up=false;
       SendNotification("Close up completed @ "+DoubleToStr(simEquity(),2));
-      FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+AccountNumber()+"Event=Close_Up Equity="+simEquity());
+      FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+AccountNumber()+" Event=Close_Complete Equity="+simEquity());
       if(!IsTesting()) FileFlush(handle);
       reinit();
      }
@@ -411,10 +441,13 @@ void OnTick()
 
    if(bM1) ExportTrades();
 
+   if(bNB && !close_up && OrdersTotal()>max_trades) Print("Max trades opened already");
+   if(bNB && !close_up && simMargin()<EquityCheck) Print("Insufficient Margin");
+//   if(bNB && !close_up && OrdersTotal()<max_trades && simMargin()>EquityCheck) CheckForOpen();
    if(bNB && !close_up && OrdersTotal()<max_trades && simEquity()>EquityCheck) CheckForOpen();
 
    if(simEquity()<0) Print("STOP OUT");
-   FileFlush(handle);
+   if(!IsTesting()) FileFlush(handle);
 
    if(bW1)
      {
@@ -439,5 +472,13 @@ double simBalance()
    double Balance=AccountBalance()-Withdrawls;
 
    return Balance;
+  }
+//+------------------------------------------------------------------+
+double simMargin()
+  {
+
+   double Margin=AccountFreeMargin()-Withdrawls;
+
+   return Margin;
   }
 //+------------------------------------------------------------------+
