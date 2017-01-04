@@ -2,7 +2,7 @@
 id=131279704221108970
 symbol=EURUSD
 period=1
-leftpos=1529
+leftpos=1628
 digits=5
 scale=2
 graph=0
@@ -23,7 +23,7 @@ window_left=53
 window_top=87
 window_right=988
 window_bottom=413
-window_type=3
+window_type=1
 background_color=0
 foreground_color=16777215
 barup_color=65280

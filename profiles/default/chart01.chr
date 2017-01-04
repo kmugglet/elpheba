@@ -2,7 +2,7 @@
 id=131279704189547710
 symbol=EURUSD
 period=5
-leftpos=1940
+leftpos=1922
 digits=5
 scale=8
 graph=1
@@ -23,7 +23,7 @@ window_left=0
 window_top=0
 window_right=935
 window_bottom=326
-window_type=1
+window_type=3
 background_color=0
 foreground_color=16777215
 barup_color=65280
@@ -43,5 +43,19 @@ fixed_height=0
 name=main
 </indicator>
 </window>
+
+<expert>
+name=Elpheba-20161122
+flags=279
+window_num=0
+<inputs>
+BuyPoint=30.0
+SellPoint=70.0
+tp=200.0
+dp=30.0
+sl=7500.0
+max_trades=8
+</inputs>
+</expert>
 </chart>
 
