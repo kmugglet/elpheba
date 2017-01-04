@@ -1,4 +1,9 @@
 # Ignore log files
 **/*.log
 **/*.csv
+**/*.hst
+**/*.ini
+**/*.srv
+**/*.ex4
+**/*.chr
 

@@ -1,7 +1,0 @@
-0	09:00:01.825	'10010844': order buy market 0.01 EURJPY sl: 0.000 tp: 115.571
-1	09:00:02.017	'10010844': order buy 0.01 EURJPY opening at market sl: 0.000 tp: 115.571 failed [Market is closed]
-0	23:07:01.094	'10010844': login on ICMarkets-Demo01 through Demo DC US (ping: 78.43 ms)
-0	23:08:06.708	'10010844': login on ICMarkets-Demo01 through Demo DC US (ping: 78.43 ms)
-0	23:08:57.380	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC US (ping: 78.43 ms)
-0	23:08:57.641	'10010844': previous successful authorization performed from 138.68.53.131
-0	23:09:20.675	'10010844': ping to current access point Demo DC US is 78.53 ms

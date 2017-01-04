@@ -1,7 +1,0 @@
-2	04:21:33.992	Expert Elpheba-20161030 EURUSD,H4: removed
-2	04:21:34.039	Expert Elpheba-20161030 EURUSD,H4: loaded successfully
-1	23:00:16.228	'10010844': connect failed [No connection]
-0	23:00:21.650	'10010844': login on ICMarkets-Demo01 through Demo DC (ping: 75.59 ms)
-0	23:01:03.714	'10010844': login datacenter on ICMarkets-Demo01 through Demo DC (ping: 75.59 ms)
-0	23:01:03.998	'10010844': previous successful authorization performed from 14.200.246.168
-0	23:01:37.199	'10010844': ping to current access point Demo DC is 75.70 ms

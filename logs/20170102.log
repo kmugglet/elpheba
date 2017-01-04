@@ -1,5 +1,0 @@
-1	17:55:15.803	'10019548': connect failed [No connection]
-0	17:55:22.422	'10019548': login on ICMarkets-Demo01 through Demo DC #2 (ping: 257.29 ms)
-0	17:55:36.695	'10019548': login datacenter on ICMarkets-Demo01 through Demo DC #2 (ping: 257.29 ms)
-0	17:55:37.346	'10019548': previous successful authorization performed from 220.244.203.12
-0	17:55:53.065	'10019548': ping to current access point Demo DC #2 is 238.16 ms
