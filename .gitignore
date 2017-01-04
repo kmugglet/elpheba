@@ -2,8 +2,6 @@
 **/*.log
 **/*.csv
 **/*.hst
-**/*.ini
 **/*.ex4
-**/*.chr
 tester/*
 
