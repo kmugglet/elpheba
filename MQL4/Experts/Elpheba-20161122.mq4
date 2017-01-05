@@ -443,8 +443,8 @@ void OnTick()
 
    if(bNB && !close_up && OrdersTotal()>max_trades) Print("Max trades opened already");
    if(bNB && !close_up && simMargin()<EquityCheck) Print("Insufficient Margin");
-//   if(bNB && !close_up && OrdersTotal()<max_trades && simMargin()>EquityCheck) CheckForOpen();
-   if(bNB && !close_up && OrdersTotal()<max_trades && simEquity()>EquityCheck) CheckForOpen();
+   if(bNB && !close_up && OrdersTotal()<max_trades && simMargin()>EquityCheck) CheckForOpen();
+//   if(bNB && !close_up && OrdersTotal()<max_trades && simEquity()>EquityCheck) CheckForOpen();
 
    if(simEquity()<0) Print("STOP OUT");
    if(!IsTesting()) FileFlush(handle);
