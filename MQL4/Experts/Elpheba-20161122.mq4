@@ -32,6 +32,7 @@ int      AppliedPrice=4;
 double   trigger_profit;
 double   drop_profit;
 double   stop_loss;
+double   closing_start, closing_end;
 double   ask_price,bid_price,points,ask_p,bid_p,pts;
 string   Check_Symbol,suffix="i";
 int      SymbolOrders=0;
@@ -418,6 +419,7 @@ void OnTick()
    if(simEquity()>CloseOutPrice && !close_up)
      {
       close_up=true;
+      closing_start = simEquity();
       SendNotification("Close up reached @ "+DoubleToStr(simEquity(),2));
       Print("***** Close out price reached, ",simEquity()," ********");
       FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+AccountNumber()+" Event=Close_Triggered Equity="+simEquity());
@@ -427,8 +429,9 @@ void OnTick()
      {
       Print("****** Close out completed, balance=",simBalance()," ***********");
       close_up=false;
+      closing_end = simEquity();
       SendNotification("Close up completed @ "+DoubleToStr(simEquity(),2));
-      FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+AccountNumber()+" Event=Close_Complete Equity="+simEquity());
+      FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+AccountNumber()+" Event=Close_Complete Equity="+simEquity())+" Closing_Start="+closing_start+" Closing_End="+closing_end;
       if(!IsTesting()) FileFlush(handle);
       reinit();
      }
@@ -442,9 +445,9 @@ void OnTick()
    if(bM1) ExportTrades();
 
    if(bNB && !close_up && OrdersTotal()>max_trades) Print("Max trades opened already");
-   if(bNB && !close_up && simMargin()<EquityCheck) Print("Insufficient Margin");
-//   if(bNB && !close_up && OrdersTotal()<max_trades && simMargin()>EquityCheck) CheckForOpen();
-   if(bNB && !close_up && OrdersTotal()<max_trades && simEquity()>EquityCheck) CheckForOpen();
+   else if(bNB && !close_up && simMargin()<EquityCheck) Print("Insufficient Margin");
+   else if(bNB && !close_up && OrdersTotal()<max_trades && simMargin()>EquityCheck) CheckForOpen();
+//   if(bNB && !close_up && OrdersTotal()<max_trades && simEquity()>EquityCheck) CheckForOpen();
 
    if(simEquity()<0) Print("STOP OUT");
    if(!IsTesting()) FileFlush(handle);
