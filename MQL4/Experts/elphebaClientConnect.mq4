@@ -25,6 +25,8 @@ extern double    sl = 7500;
 extern int       max_trades=8; // max trades per symbol pair
 extern int       bufferEquity=10000; // use this to emulate transfers between accounts. Start with 200, add 10,000. Only 200 will be seen by EA
 extern bool      instant_close=true;
+extern bool	 openTrades=true;
+extern bool	 closeTrades=true;
 
 int      tkt,lowest_ticket,highest_ticket;
 
@@ -537,7 +539,7 @@ void OnTick()
       Deposits=Deposits+updateEquity;
       FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+DoubleToStr(AccountNumber(),0)+" Event=Deposit Deposit="+DoubleToStr(updateEquity,2));
      }
-   if(simEquity()>CloseOutPrice && !close_up)
+   if(simEquity()>CloseOutPrice && !close_up && closeTrades)
      {
       close_up=true;
       SendNotification("Close up reached @ "+DoubleToStr(simEquity(),2));
@@ -560,7 +562,7 @@ void OnTick()
 
    if(OrdersTotal()==0 && simBalance()<EquityCheck) reinit();
 
-   if(OrdersTotal()>0) CheckForClose();
+   if(OrdersTotal()>0 && closeTrades) CheckForClose();
 
 //   if(bM1) TidyUpTrades();
 
@@ -569,7 +571,7 @@ void OnTick()
 //if(bNB && !close_up && OrdersTotal()>max_trades) Print("Max trades opened already");
 //if(bNB && !close_up && simMargin()<EquityCheck) Print("Insufficient Margin");
 
-   if(bNB && !close_up && OrdersTotal()<max_trades && simMargin()>EquityCheck) CheckForOpen(); // This is more conservative as it takes into account moneys used in the trade itself.
+   if(bNB && !close_up && openTrades && OrdersTotal()<max_trades && simMargin()>EquityCheck) CheckForOpen(); // This is more conservative as it takes into account moneys used in the trade itself.
                                                                                                //   if(bNB && !close_up && simEquity()<EquityCheck) Print("Insufficient Margin");
 //if(bNB && !close_up && OrdersTotal()<max_trades && simEquity()>EquityCheck) CheckForOpen();  // Allows more equity to be used.
 
