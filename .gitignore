@@ -4,4 +4,6 @@
 **/*.hst
 **/*.ex4
 tester/*
+history/*
+
 
