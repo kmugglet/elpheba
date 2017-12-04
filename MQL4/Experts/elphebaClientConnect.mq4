@@ -5,7 +5,7 @@
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2017,Codatrek.com"
 #property link      "https://www.codatrek.com"
-#property version   "1.00"
+#property version   "1.13"
 #property strict
 /*  "HIGH RISK WARNING: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. 
    Leverage creates additional risk and loss exposure. 
@@ -23,7 +23,7 @@ extern double    tp = 230;
 extern double    dp = 30;
 extern double    sl = 7500;
 extern int       max_trades=8; // max trades per symbol pair
-extern int       bufferEquity=10000; // use this to emulate transfers between accounts. Start with 200, add 10,000. Only 200 will be seen by EA
+extern double       bufferEquity=10000; // use this to emulate transfers between accounts. Start with 200, add 10,000. Only 200 will be seen by EA
 extern bool      instant_close=true;
 extern bool	 openTrades=true;
 extern bool	 closeTrades=true;
@@ -77,7 +77,7 @@ string   SymbolPairs[]=
 bool       bNewMin()
   {
 
-   static int iTime_2=0;
+   static datetime iTime_2=0;
 
    if(iTime_2<iTime(NULL,PERIOD_M1,0))
      { iTime_2=iTime(NULL,PERIOD_M1,0); return(TRUE); }
@@ -88,7 +88,7 @@ bool       bNewMin()
 bool       bNewWeek()
   {
 
-   static int iTime_1=0;
+   static datetime iTime_1=0;
 
    if(iTime_1<iTime(NULL,PERIOD_W1,0))
      { iTime_1=iTime(NULL,PERIOD_W1,0); return(TRUE); }
@@ -99,7 +99,7 @@ bool       bNewWeek()
 bool       bNewBar()
   {
 
-   static int iTime_0=0;
+   static datetime iTime_0=0;
 
    if(iTime_0<iTime(NULL,NULL,0))
      { iTime_0=iTime(NULL,NULL,0); return(TRUE); }
@@ -458,7 +458,7 @@ int reinit()
    Lot=NormalizeDouble(LotPrice/100,2);
    if(Lot<0.01) Lot=0.01;
 
-   MAGICMA=(CloseOutPrice*100);
+   MAGICMA=(int) (CloseOutPrice*100);
    highest_ticket=0;
    bNewBar();
    bNewWeek();

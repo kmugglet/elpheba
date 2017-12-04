@@ -21,7 +21,7 @@ string   SymbolPairs[]=
    "AUDUSD","EURJPY","AUDJPY",
    "EURAUD","USDCAD","USDJPY",
    "GBPCAD","AUDCAD","USDCHF",
-   "GBPAUD","XAUUSD"
+   "GBPAUD"
   };
 int      handle;
 int      RSIperiod=14;
