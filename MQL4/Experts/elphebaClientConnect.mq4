@@ -587,7 +587,7 @@ void OnTick()
 
       string sendWithdrawl=(GrabWeb(sendUrl,simEquity()));
 
-      Print("Web response - ",sendWithdrawl);
+      Print("Web request - ",sendUrl);
       Sleep(900000); // pause 15 minutes to let mothership update
       reinit();
      }
