@@ -526,16 +526,14 @@ void OnTick()
    bW1 = bNewWeek();
 
    updateEquity=0;
-   string acctUrl="http://kmug.ddns.net/elpheba/"+DoubleToStr(AccountNumber(),0);
+   string acctUrl="http://kmug.ddns.net/elpheba/"+DoubleToStr(AccountNumber(),0)+"/";
    if(bNB && !close_up && !IsTesting()) updateEquity=StringToDouble(GrabWeb(acctUrl,simEquity()));
    if(updateEquity<0)
      {
       Withdrawls=Withdrawls-updateEquity;
       FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+DoubleToStr(AccountNumber(),0)+" Event=Withdrawl Withdrawl="+DoubleToStr(updateEquity,2));
         }if(updateEquity>0) {
-      //+------------------------------------------------------------------+
-      //|                                                                  |
-      //+------------------------------------------------------------------+
+
       Deposits=Deposits+updateEquity;
       FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+DoubleToStr(AccountNumber(),0)+" Event=Deposit Deposit="+DoubleToStr(updateEquity,2));
      }
@@ -564,16 +562,9 @@ void OnTick()
 
    if(OrdersTotal()>0 && closeTrades) CheckForClose();
 
-//   if(bM1) TidyUpTrades();
-
    if(bM1) ExportTrades();
 
-//if(bNB && !close_up && OrdersTotal()>max_trades) Print("Max trades opened already");
-//if(bNB && !close_up && simMargin()<EquityCheck) Print("Insufficient Margin");
-
    if(bNB && !close_up && openTrades && OrdersTotal()<max_trades && simMargin()>EquityCheck) CheckForOpen(); // This is more conservative as it takes into account moneys used in the trade itself.
-                                                                                               //   if(bNB && !close_up && simEquity()<EquityCheck) Print("Insufficient Margin");
-//if(bNB && !close_up && OrdersTotal()<max_trades && simEquity()>EquityCheck) CheckForOpen();  // Allows more equity to be used.
 
    if(!IsTesting()) FileFlush(handle);
 
