@@ -483,9 +483,9 @@ int reinit()
 
    if(k==3)
      {
-      CloseOutPrice=(double) result[1];
-      Withdrawls=(double) result[2];
-      Deposits=(double) result[3];
+      CloseOutPrice=(double) result[0];
+      Withdrawls=(double) result[1];
+      Deposits=(double) result[2];
      }
 
    bNewBar();
