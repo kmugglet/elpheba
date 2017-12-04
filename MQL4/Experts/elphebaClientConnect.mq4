@@ -356,7 +356,7 @@ void ExportTrades()
 double correctTime(double time_value)
   {
 // for some reason all epoch times are 2 hours ahead..... Seriously, how can you get epoch wrong..
-   int difference = (int) (TimeCurrent() - TimeGMT());
+   int difference=(int)(TimeCurrent()-TimeGMT());
    return time_value-(difference);
 // European summer time, 3 hours ahead
 //   return time_value-(3600*3);
@@ -459,7 +459,8 @@ int reinit()
 
    string acctUrl="http://kmug.ddns.net/elpheba/"+DoubleToStr(AccountNumber(),0)+"/start/";
 
-   string instructions=(GrabWeb(acctUrl,simEquity()));
+   string instructions=GrabWeb(acctUrl,simEquity());
+   instructions=StringTrimRight(StringTrimLeft(instructions));
 
    string sep=",";                // A separator as a character
    ushort u_sep;                  // The code of the separator character
@@ -495,7 +496,7 @@ int reinit()
 
       Print("Waiting for mothership - pausing 15 minutes before retry");
       Sleep(900000);
-      reinit();   
+      reinit();
 
      }
 
@@ -584,7 +585,7 @@ void OnTick()
       string sendUrl="http://kmug.ddns.net/elpheba/"+DoubleToStr(AccountNumber(),0)+"/withdrawl/"+DoubleToStr((simEquity()*100),0)+"/"+DoubleToStr((bankIt*100),0);
 
       string sendWithdrawl=(GrabWeb(sendUrl,simEquity()));
-      
+
       Print("Web response - ",sendWithdrawl);
       Sleep(900000); // pause 15 minutes to let mothership update
       reinit();
@@ -598,7 +599,7 @@ void OnTick()
 
    if(bNB && !close_up && openTrades && OrdersTotal()<max_trades && simMargin()>EquityCheck) CheckForOpen(); // This is more conservative as it takes into account moneys used in the trade itself.
 
-   if(!IsTesting()) FileFlush(handle); 
+   if(!IsTesting()) FileFlush(handle);
 
   }
 //+------------------------------------------------------------------+
