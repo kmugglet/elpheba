@@ -2,7 +2,7 @@
 id=131279704189547710
 symbol=EURUSD
 period=15
-leftpos=18774
+leftpos=6746
 digits=5
 scale=8
 graph=1
@@ -871,8 +871,8 @@ tp=230.0
 dp=30.0
 sl=7500.0
 max_trades=8
-bufferEquity=3000.0
-instant_close=false
+bufferEquity=10000.0
+instant_close=true
 openTrades=true
 closeTrades=true
 </inputs>
