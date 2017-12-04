@@ -476,7 +476,8 @@ int reinit()
      {
       for(int i=0;i<k;i++)
         {
-         PrintFormat("result[%d]=%s",i,result[i]);
+         printf("result[%d]=%s",i,result[i]);
+         result[i]=(string) result[i];
         }
      }
 
