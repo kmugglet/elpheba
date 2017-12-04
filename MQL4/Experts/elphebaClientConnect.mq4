@@ -5,7 +5,7 @@
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2017,Codatrek.com"
 #property link      "https://www.codatrek.com"
-#property version   "1.13"
+#property version   "1.14"
 #property strict
 /*  "HIGH RISK WARNING: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. 
    Leverage creates additional risk and loss exposure. 
@@ -23,10 +23,10 @@ extern double    tp = 230;
 extern double    dp = 30;
 extern double    sl = 7500;
 extern int       max_trades=8; // max trades per symbol pair
-extern double       bufferEquity=10000; // use this to emulate transfers between accounts. Start with 200, add 10,000. Only 200 will be seen by EA
+extern double    bufferEquity=10000; // use this to emulate transfers between accounts. Start with 200, add 10,000. Only 200 will be seen by EA
 extern bool      instant_close=true;
-extern bool	 openTrades=true;
-extern bool	 closeTrades=true;
+extern bool        openTrades=true;
+extern bool        closeTrades=true;
 
 int      tkt,lowest_ticket,highest_ticket;
 
@@ -448,35 +448,74 @@ int reinit()
       hedge_tkt[f]= 0;
       f_profit[f] = -9999.0;
      }
-// 1% increase then close
+
    increaseTarget=simBalance()*0.01;
-   CloseOutPrice=simBalance()+(increaseTarget*2);
    EquityCheck=simEquity()*0.85;
    LotPrice=(simEquity()/300);
 
-   symbol_profit=0;
-   Lot=NormalizeDouble(LotPrice/100,2);
-   if(Lot<0.01) Lot=0.01;
+// contact mothership for instructions
+// expecting a csv string of CloseUp, Withdrawls,Deposits
 
-   MAGICMA=(int) (CloseOutPrice*100);
-   highest_ticket=0;
+   string acctUrl="http://kmug.ddns.net/elpheba/"+DoubleToStr(AccountNumber(),0)+"/start/";
+
+   string instructions=(GrabWeb(acctUrl,simEquity()));
+
+   string sep=",";                // A separator as a character
+   ushort u_sep;                  // The code of the separator character
+   string result[];               // An array to get strings
+//--- Get the separator code
+   u_sep=StringGetCharacter(sep,0);
+//--- Split the string to substrings
+   int k=StringSplit(instructions,u_sep,result);
+//--- Show a comment 
+   PrintFormat("Strings obtained: %d. Used separator '%s' with the code %d",k,sep,u_sep);
+//--- Now output all obtained strings
+   if(k>0)
+     {
+      for(int i=0;i<k;i++)
+        {
+         PrintFormat("result[%d]=%s",i,result[i]);
+        }
+     }
+
+   if(k==3)
+     {
+      CloseOutPrice=(double) result[1];
+      Withdrawls=(double) result[2];
+      Deposits=(double) result[3];
+     }
+
    bNewBar();
    bNewWeek();
    bNewMin();
 
-   for(int j=0;j<OrdersTotal();j++)
-     { //1
-      res=OrderSelect(j,SELECT_BY_POS);
-      if(res)
-        {
-         if(OrderTicket()<lowest_ticket) lowest_ticket=OrderTicket();
-         if(OrderMagicNumber()<MAGICMA && OrderMagicNumber()!=24771442) MAGICMA=OrderMagicNumber();
-         if(lowest_ticket==0) lowest_ticket=OrderTicket();
+   if(k!=3)
+     {
+
+      CloseOutPrice=simBalance()+(increaseTarget*2);
+      MAGICMA=(int)(CloseOutPrice*100);
+      highest_ticket=0;
+
+      for(int j=0;j<OrdersTotal();j++)
+        { //1
+         res=OrderSelect(j,SELECT_BY_POS);
+         if(res)
+           {
+            if(OrderTicket()<lowest_ticket) lowest_ticket=OrderTicket();
+            if(OrderMagicNumber()<MAGICMA && OrderMagicNumber()!=24771442) MAGICMA=OrderMagicNumber();
+            if(lowest_ticket==0) lowest_ticket=OrderTicket();
+           }
         }
+      Print("MAGICMA - ",MAGICMA," CloseOutPrice - ",CloseOutPrice);
+      CloseOutPrice=MAGICMA/100;
+      Print("MAGICMA - ",MAGICMA," CloseOutPrice - ",CloseOutPrice);
+
      }
-   Print("MAGICMA - ",MAGICMA," CloseOutPrice - ",CloseOutPrice);
-   CloseOutPrice=MAGICMA/100;
-   Print("MAGICMA - ",MAGICMA," CloseOutPrice - ",CloseOutPrice);
+// 1% increase then close
+
+   symbol_profit=0;
+   Lot=NormalizeDouble(LotPrice/100,2);
+   if(Lot<0.01) Lot=0.01;
 
    oldOrdersTotal=-1;
    oldHistoryTotal=-1;
@@ -552,9 +591,16 @@ void OnTick()
       SendNotification("Close up completed @ "+DoubleToStr(simEquity(),2));
       FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+DoubleToStr(AccountNumber(),0)+" Event=CloseUp_Complete Equity="+DoubleToStr(simEquity(),2));
       if(!IsTesting()) FileFlush(handle);
-      Withdrawls=Withdrawls+increaseTarget;
-      Print("Withdraw to bank - ",increaseTarget);
-      FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+DoubleToStr(AccountNumber(),0)+" Event=Withdrawl Withdrawl="+DoubleToStr(increaseTarget,2));
+      double bankIt=simEquity()-CloseOutPrice;
+      Print("Withdraw to bank - ",bankIt);
+      FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+DoubleToStr(AccountNumber(),0)+" Event=Withdrawl Withdrawl="+DoubleToStr(bankIt,2));
+
+      string sendUrl="http://kmug.ddns.net/elpheba/"+DoubleToStr(AccountNumber(),0)+"/withdrawl/"+DoubleToStr((simEquity()*100),0)+"/"+DoubleToStr((bankIt*100),0);
+
+      string sendWithdrawl=(GrabWeb(sendUrl,simEquity()));
+      
+      Print("Web response - ",sendWithdrawl);
+      Sleep(900000); // pause 15 minutes to let mothership update
       reinit();
      }
 
@@ -566,7 +612,7 @@ void OnTick()
 
    if(bNB && !close_up && openTrades && OrdersTotal()<max_trades && simMargin()>EquityCheck) CheckForOpen(); // This is more conservative as it takes into account moneys used in the trade itself.
 
-   if(!IsTesting()) FileFlush(handle);
+   if(!IsTesting()) FileFlush(handle); 
 
   }
 //+------------------------------------------------------------------+
@@ -603,12 +649,12 @@ string GrabWeb(string strUrl,double currentEquity)
    char data[];
    string login=DoubleToStr(AccountNumber(),0);
    string password="pass";
-   string str="Acct="+login+"&Password="+password+"$Equity="+DoubleToStr(currentEquity,2);
+   string str="Acct="+login+"&Password="+password+"&Equity="+DoubleToStr(currentEquity,2);
 
    ArrayResize(data,StringToCharArray(str,data,0,WHOLE_ARRAY,CP_UTF8)-1);
 
    ResetLastError();
-   httpRes=WebRequest("POST",strUrl,"",NULL,1000,data,ArraySize(data),result,headers);
+   httpRes=WebRequest("GET",strUrl,"",NULL,1000,data,ArraySize(data),result,headers);
 
 //Print("Status code: ",httpRes,", error: ",GetLastError());
    response=CharArrayToString(result);
