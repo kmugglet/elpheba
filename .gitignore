@@ -6,4 +6,6 @@
 **/*.ex4
 **/*.chr
 tester/*
+history/*
+config/*
 
