@@ -492,23 +492,9 @@ int reinit()
    if(k!=3)
      {
 
-      CloseOutPrice=simBalance()+(increaseTarget*2);
-      MAGICMA=(int)(CloseOutPrice*100);
-      highest_ticket=0;
-
-      for(int j=0;j<OrdersTotal();j++)
-        { //1
-         res=OrderSelect(j,SELECT_BY_POS);
-         if(res)
-           {
-            if(OrderTicket()<lowest_ticket) lowest_ticket=OrderTicket();
-            if(OrderMagicNumber()<MAGICMA && OrderMagicNumber()!=24771442) MAGICMA=OrderMagicNumber();
-            if(lowest_ticket==0) lowest_ticket=OrderTicket();
-           }
-        }
-      Print("MAGICMA - ",MAGICMA," CloseOutPrice - ",CloseOutPrice);
-      CloseOutPrice=MAGICMA/100;
-      Print("MAGICMA - ",MAGICMA," CloseOutPrice - ",CloseOutPrice);
+      Print("Waiting for mothership - pausing 15 minutes before retry");
+      Sleep(900000);
+      reinit();   
 
      }
 // 1% increase then close
