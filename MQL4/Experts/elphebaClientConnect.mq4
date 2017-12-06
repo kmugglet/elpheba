@@ -5,7 +5,7 @@
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2017,Codatrek.com"
 #property link      "https://www.codatrek.com"
-#property version   "1.14"
+#property version   "1.15"
 #property strict
 /*  "HIGH RISK WARNING: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. 
    Leverage creates additional risk and loss exposure. 
@@ -25,8 +25,8 @@ extern double    sl = 7500;
 extern int       max_trades=8; // max trades per symbol pair
 extern double    bufferEquity=10000; // use this to emulate transfers between accounts. Start with 200, add 10,000. Only 200 will be seen by EA
 extern bool      instant_close=true;
-extern bool        openTrades=true;
-extern bool        closeTrades=true;
+extern bool      openTrades=true;
+extern bool      closeTrades=true;
 
 int      tkt,lowest_ticket,highest_ticket;
 
@@ -553,17 +553,24 @@ void OnTick()
    bW1 = bNewWeek();
 
    updateEquity=0;
-   string acctUrl="http://kmug.ddns.net/elpheba/"+DoubleToStr(AccountNumber(),0)+"/";
-   if(bNB && !close_up && !IsTesting()) updateEquity=StringToDouble(GrabWeb(acctUrl,simEquity()));
-   if(updateEquity<0)
+   if(bM1 && !close_up && !IsTesting())
      {
-      Withdrawls=Withdrawls-updateEquity;
-      FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+DoubleToStr(AccountNumber(),0)+" Event=Withdrawl Withdrawl="+DoubleToStr(updateEquity,2));
-        }if(updateEquity>0) {
-
-      Deposits=Deposits+updateEquity;
-      FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+DoubleToStr(AccountNumber(),0)+" Event=Deposit Deposit="+DoubleToStr(updateEquity,2));
+      string acctUrl="http://kmug.ddns.net/elpheba/"+DoubleToStr(AccountNumber(),0)+"/";
+      string checkForUpdate=GrabWeb(acctUrl,simEquity());
+      string sep=",";                // A separator as a character
+      ushort u_sep;                  // The code of the separator character
+      string result[];               // An array to get strings
+      //--- Get the separator code
+      u_sep=StringGetCharacter(sep,0);
+      //--- Split the string to substrings
+      int k=StringSplit(checkForUpdate,u_sep,result);
+      if(k==2)
+        {
+         Withdrawls=(double) result[0];
+         Deposits=(double) result[1];
+        }
      }
+
    if(simEquity()>CloseOutPrice && !close_up && closeTrades)
      {
       close_up=true;
@@ -580,6 +587,7 @@ void OnTick()
       FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+DoubleToStr(AccountNumber(),0)+" Event=CloseUp_Complete Equity="+DoubleToStr(simEquity(),2));
       if(!IsTesting()) FileFlush(handle);
       double bankIt=simEquity()-CloseOutPrice;
+      if(bankIt<0) bankIt=0;
       Print("Withdraw to bank - ",bankIt);
       FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+DoubleToStr(AccountNumber(),0)+" Event=Withdrawl Withdrawl="+DoubleToStr(bankIt,2));
 
