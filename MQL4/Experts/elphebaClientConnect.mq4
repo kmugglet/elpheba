@@ -450,9 +450,6 @@ int reinit()
       f_profit[f] = -9999.0;
      }
 
-   increaseTarget=simBalance()*0.01;
-   EquityCheck=simEquity()*0.85;
-   LotPrice=(simEquity()/300);
 
 // contact mothership for instructions
 // expecting a csv string of CloseUp, Withdrawls,Deposits
@@ -500,6 +497,9 @@ int reinit()
       reinit();
 
      }
+   increaseTarget=simBalance()*0.01;
+   EquityCheck=simEquity()*0.85;
+   LotPrice=(simEquity()/300);
 
    symbol_profit=0;
    Lot=NormalizeDouble(LotPrice/100,2);
