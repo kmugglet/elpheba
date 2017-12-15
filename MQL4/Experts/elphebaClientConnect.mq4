@@ -450,7 +450,6 @@ int reinit()
       f_profit[f] = -9999.0;
      }
 
-
 // contact mothership for instructions
 // expecting a csv string of CloseUp, Withdrawls,Deposits
 
