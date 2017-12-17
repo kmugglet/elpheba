@@ -1,8 +1,8 @@
 <chart>
 id=131474372772680070
 symbol=USDCAD
-period=60
-leftpos=6568
+period=30
+leftpos=4438
 digits=5
 scale=2
 graph=0

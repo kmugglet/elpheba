@@ -1,8 +1,15 @@
 <chart>
+<<<<<<< HEAD
 id=131492761689709420
 symbol=EURUSD
 period=60
 leftpos=4510
+=======
+id=131577921806644620
+symbol=EURUSD
+period=60
+leftpos=3936
+>>>>>>> c98bf7c4b1eb3aa90111331f17d84e9f0a7f5981
 digits=5
 scale=2
 graph=0
@@ -19,10 +26,17 @@ days=0
 descriptions=0
 shift_size=20
 fixed_pos=0
+<<<<<<< HEAD
 window_left=25
 window_top=25
 window_right=967
 window_bottom=286
+=======
+window_left=22
+window_top=22
+window_right=974
+window_bottom=341
+>>>>>>> c98bf7c4b1eb3aa90111331f17d84e9f0a7f5981
 window_type=3
 background_color=0
 foreground_color=16777215
@@ -43,6 +57,7 @@ fixed_height=0
 name=main
 </indicator>
 </window>
+<<<<<<< HEAD
 
 <expert>
 name=elphebaClientConnect
@@ -59,5 +74,7 @@ bufferEquity=0
 instant_close=true
 </inputs>
 </expert>
+=======
+>>>>>>> c98bf7c4b1eb3aa90111331f17d84e9f0a7f5981
 </chart>
 
