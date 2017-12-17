@@ -1,7 +1,3 @@
-**/*.ex4
-**/*.dat
-**/*.ini
-**/*.hst
-**/*.log
-**/*.tpl
-**/*.htm
+# Ignore compiled files
+*.ex4
+

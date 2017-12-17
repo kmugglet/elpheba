@@ -40,7 +40,7 @@ int OnInit()
    suffix=StringSubstr(Symbol(),6,4);
 
    Print("Start Expert Advisor");
-//   fileName=Symbol()+"_"+fileName;
+   if(IsTesting()) fileName=Symbol()+"_"+fileName;
    Print("Writing to ",fileName);
    handle=FileOpen(fileName,FILE_CSV|FILE_SHARE_READ|FILE_WRITE);
    if(handle==0) Print("Error opening log file");
@@ -90,6 +90,7 @@ void OnTick()
          double RSInow=iRSI(Check_Symbol,NULL,RSIperiod,AppliedPrice,0);
          double iStochValue=iStochastic(Check_Symbol,NULL,5,3,3,MODE_SMMA,1,MODE_MAIN,1);
          double iCciValue=iCCI(Check_Symbol,NULL,RSIperiod,AppliedPrice,0);
+         double iVol=iVolume(Check_Symbol,NULL,0);
 
          if(new_time>LastTick[a])
            {
@@ -98,6 +99,7 @@ void OnTick()
             FileWrite(handle,new_time+",RSI,"+Check_Symbol+"i,"+DoubleToString(RSInow,5));
             FileWrite(handle,new_time+",STOCH,"+Check_Symbol+"i,"+DoubleToString(iStochValue,5));
             FileWrite(handle,new_time+",CCI,"+Check_Symbol+"i,"+DoubleToString(iCciValue,5));
+            FileWrite(handle,new_time+",VOL,"+Check_Symbol+"i,"+DoubleToString(iVol,2));
             if(IsTesting())
               {
                // you wait, time passes
