@@ -5,7 +5,7 @@
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2017,Codatrek.com"
 #property link      "https://www.codatrek.com"
-#property version   "1.00"
+#property version   "2.00"
 #property strict
 /*  "HIGH RISK WARNING: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. 
    Leverage creates additional risk and loss exposure. 
@@ -21,7 +21,7 @@ extern double    BuyPoint=15;
 extern double    SellPoint=85;
 extern double    tp = 230;
 extern double    dp = 30;
-extern int       min_equity=50;
+extern int       min_equity=75;
 extern double    sl=75000;
 extern int       max_trades=18; // max trades per symbol pair
 extern int       bufferEquity=10000; // use this to emulate transfers between accounts. Start with 200, add 10,000. Only 200 will be seen by EA
@@ -63,17 +63,15 @@ string   order[]={"Buy","Sell"};
 datetime LastTick[20]; // same number as symbol pairs or greater
 datetime TimeNow;
 string   SymbolUsed[20]; // only open one trade under each currency
-/* 
+
 string   SymbolPairs[]=
   {
    "EURUSD","EURGBP","GBPUSD",
    "AUDUSD","EURJPY","AUDJPY",
    "EURAUD","USDCAD","USDJPY",
    "GBPCAD","AUDCAD","USDCHF",
-   "GBPAUD","XAUUSD","XAGUSD"
+   "GBPAUD"
   };
- */
-string   SymbolPairs[]={"EURUSD"};
 //+------------------------------------------------------------------+
 //| expert initialization function                                   |
 //+------------------------------------------------------------------+
@@ -546,7 +544,7 @@ void OnTick()
       Withdrawls=Withdrawls-updateEquity;
       FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+DoubleToStr(AccountNumber(),0)+" Event=Withdrawl Withdrawl="+DoubleToStr(updateEquity,2));
      }
-   if(updateEquity>0) 
+   if(updateEquity>0)
      {
       Deposits=Deposits+updateEquity;
       FileWrite(handle,"Time="+DoubleToStr(correctTime(TimeCurrent()),0)+" Account="+DoubleToStr(AccountNumber(),0)+" Event=Deposit Deposit="+DoubleToStr(updateEquity,2));
@@ -580,12 +578,7 @@ void OnTick()
 
    if(bM1) ExportTrades();
 
-//if(bNB && !close_up && OrdersTotal()>max_trades) Print("Max trades opened already");
-//if(bNB && !close_up && simMargin()<EquityCheck) Print("Insufficient Margin");
-
-//if(bNB && !close_up && OrdersTotal()<max_trades && simMargin()>EquityCheck) CheckForOpen(); // This is more conservative as it takes into account moneys used in the trade itself.
-//   if(bNB && !close_up && simEquity()<EquityCheck) Print("Insufficient Margin");
-//if(bNB && !close_up && OrdersTotal()<max_trades && simEquity()>EquityCheck) CheckForOpen();  // Allows more equity to be used.
+   if(bNB && !close_up && OrdersTotal()<max_trades && simMargin()>EquityCheck) CheckForOpen(); // This is more conservative as it takes into account moneys used in the trade itself.
 
    if(!IsTesting()) FileFlush(handle);
 
